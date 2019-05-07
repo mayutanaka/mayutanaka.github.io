@@ -57,6 +57,7 @@ var includeRisk = function() {
 
 // Reset map to just fishnet outline.
 var resetMap = function() {
+  popup.remove();
   riskLayers.forEach(function(layer) {
     map.setLayoutProperty(layer, 'visibility', "none");
   });
