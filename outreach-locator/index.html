@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Louisville Fires</title>
+    <link rel="icon" href="data/louisville_fire-01.png">
+    <!-- CSS imports -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.css" integrity="sha256-iYUgmrapfDGvBrePJPrMWQZDcObdAcStKBpjP3Az+3s=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.0.0/mapbox-gl-geocoder.css' type='text/css' />
+    <link rel='stylesheet' href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.css' />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+    <link rel='stylesheet' href='css/style.css'/>
+    <link rel='stylesheet' href='css/reset.css'/>
+  </head>
+  <body>
+    <div class="titlebar space">OUTREACH LOCATOR</div>
+    <!-- Navbar -->
+    <div class="nav">
+      <a href="https://pennmusa.github.io/MUSA_801.io/" class="btn btn-dark unicase space" role="button" target="_parent">BACK TO MUSA</a>
+      <button type="button" class="btn btn-dark unicase space" data-toggle="modal" data-target="#exampleModal">HELP</button>
+      <button type="button" class="btn btn-dark unicase space " data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">MAP OPTIONS</button>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-md" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title title" id="exampleModalLabel">HOW TO USE THIS APP</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p id="p1"><b>Welcome to our Smoke Detector Outreach Locator!</b></p>
+            <p id="p2">Use this map to determine where to target smoke detector outreach:
+            <ul id="p2">
+            <li>Choose which levels of fire risk you'd like to include, from 1 (low) to 10 (high)</li>
+            <li>Check which type of location you'd like to use for your outreach</li>
+            <li>Choose a buffer size to see how many people your outreach can potentially impact</li>
+            <li>Hit "Update Map"</li></ul>
+            <div id="p2">Reset the map to clear the data.</div>
+          </p>
+            <p id="p2">Other information:
+            <br><ul id="p2">
+            <li>Hover over a grid cell to get data about that particular area</li>
+            <li>Population data is interpolated from US Census information</li>
+          </ul></p>
+              <p id="p2"><em>This application uses predicted fire risk data from an algorithm built by University of Pennsylvania masters students.
+                To read more about how fire risk has been defined and what motivated this project, please hit "Back to Musa" to read our report.</em></p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-dark btn-secondary unicase space" data-dismiss="modal">CLOSE</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Legend -->
+    <div class="legend">
+      <ul class="list"><p class="center space">FIRE RISK</p>
+        <li><span style='background: #0D0887'></span>1 (LOW)</li>
+        <li><span style='background: #47039F'></span>2</li>
+        <li><span style='background: #7301A8'></span>3</li>
+        <li><span style='background: #9C179E'></span>4</li>
+        <li><span style='background: #BD3786'></span>5</li>
+        <li><span style='background: #D8576B'></span>6</li>
+        <li><span style='background: #ED7953'></span>7</li>
+        <li><span style='background: #FA9E3B'></span>8</li>
+        <li><span style='background: #FDC926'></span>9</li>
+        <li><span style='background: #F0F921'></span>10 (HIGH)</li>
+      </ul>
+    </div>
+    <!-- Collapsible Sidebar -->
+    <div class="collapse" id="collapseExample">
+      <div class="sidebar">
+              <h4 class="center title">MAP OPTIONS</h4><br>
+              <p>
+                <label for="threshold">Risk levels included:</label>
+                <input type="text" id="threshold">
+              </p>
+              <div id="risk-threshold" class="slider"></div>
+              <br>
+              <div id='checkboxes'>
+                What kind of location are you looking to utilize?
+                 <br>
+                 <div class="form-check">
+                   <input class="form-check-input" type="checkbox" value="" id="libraries">
+                   <label class="form-check-label" for="libraries">
+                     Libraries
+                   </label>
+                 </div>
+                 <div class="form-check">
+                   <input class="form-check-input" type="checkbox" value="" id="schools">
+                   <label class="form-check-label" for="schools">
+                     Schools
+                   </label>
+                 </div>
+                 <div class="form-check">
+                   <input class="form-check-input" type="checkbox" value="" id="parks">
+                   <label class="form-check-label" for="parks">
+                     Parks
+                   </label>
+                 </div><br>
+                 <p>
+                   <label for="buffer-text">Buffer distance: </label>
+                   <input type="text" id="buffer-text">
+                 </p>
+                 <div id="buffer" class="slider"></div> <br>
+                <button type="button" class="btn btn-outline-light unicase space" id="update-map">UPDATE MAP</button>
+                <button type="button" class="btn btn-outline-light unicase space" id="resetbutton">RESET MAP</button>
+              </div>
+      </div>
+    </div>
+    <!-- Map -->
+    <div id="map" class="map"></div>
+    <!-- Info box -->
+    <div class="map-overlay info">
+      <div id="info-box"></div>
+    </div>
+    <!-- Javascript imports -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js" integrity="sha256-obZACiHd7gkOk9iIL/pimWMTJ4W/pBsKu+oZnSeBIek=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js" integrity="sha256-CNm+7c26DTTCGRQkM9vp7aP85kHFMqs9MhPEuytF+fQ=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.0.0/mapbox-gl-geocoder.min.js'></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.53.1/mapbox-gl.js'></script>
+    <script src='https://npmcdn.com/@turf/turf/turf.min.js'></script>
+    <script src='https://api.mapbox.com/mapbox.js/plugins/turf/v3.0.11/turf.min.js'></script>
+    <script src="js/helperFunctions.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
