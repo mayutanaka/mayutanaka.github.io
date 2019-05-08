@@ -38,7 +38,7 @@ var showBuffer = function(bbox) {
   }, ['in', 'uniqueID']);
   map.setFilter("predictions-buffer", filter);
   map.setLayoutProperty('predictions-buffer', 'visibility', "visible");
-  document.getElementById('impact-box').innerHTML = "<h4>Impact within "+mapOptions.buffer+" miles:</h4><em>"+Math.round(totalPop)+" people</em>";
+  document.getElementById('impact-box').innerHTML = "<h4>Estimated impact within "+mapOptions.buffer+" miles:</h4><em>"+Math.round(totalPop)+" people</em>";
   $('#impact-box').css('display','block');
 }
 
