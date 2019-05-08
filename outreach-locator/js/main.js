@@ -36,14 +36,14 @@ $("#buffer").slider({
 $("#buffer-text").val($('#buffer').slider('value')/4+" miles");
 
 /* ============= Global variables ============== */
-var mapOptions, hoverCell;
+var mapOptions, hoverCell, zoomlevel;
 var churchesChecked, schoolsChecked = false;
 var popup = new mapboxgl.Popup({
   closeButton: false
 });
 var riskLayers = ["predictions-all","predictions-q1","predictions-q2","predictions-q3","predictions-q4",
                   "predictions-q5","predictions-q6","predictions-q7","predictions-q8","predictions-q9","predictions-q10",
-                  "facparks","facschools","faclibraries"];
+                  "facparks","facschools","faclibraries", "predictions-buffer"];
 
 /* ============= User Interactivity ============== */
 $(document).ready(function() {

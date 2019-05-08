@@ -23,6 +23,7 @@ var addOption = function(checkedTrue, layerName) {
 var hoverOptions = function(checkedTrue, layerName, e) {
   if (checkedTrue) {
     var locations = map.queryRenderedFeatures(e.point, { layers: [layerName] });
+
     var type;
     switch(layerName) {
       case 'facschools':
@@ -34,12 +35,41 @@ var hoverOptions = function(checkedTrue, layerName, e) {
       default:
         type='Library';
     }
+
     if (locations.length>0) {
       popup.setLngLat(e.lngLat)
       .setHTML("<b>Facility type:</b> "+type+"<br><b>Name:</b> "+locations[0].properties.FACNAME+'<br><b>Address:</b> '
                 +locations[0].properties.ADDRESS+"<br><center><em>click to select</em></center>")
       .addTo(map);
+
+      popup.on('click', function(e){
+        popup.setHTML("<center><b>Impact within "+mapOptions.buffer+" miles:</b><br>"+POPULATION+" people</center>");
+      });
+
+      map.on('click', function(e) {
+        map.setFilter("predictions-buffer", ['in','uniqueID','']);
+        map.setLayoutProperty('predictions-buffer', 'visibility', "none");
+        map.flyTo({
+          center: e.lngLat,
+          zoom: zoomlevel
+        });
+        var radius = mapOptions.buffer/69;
+        var sw = map.project([e.lngLat.lng-radius, e.lngLat.lat-radius]);
+        var ne = map.project([e.lngLat.lng+radius, e.lngLat.lat+radius]);
+        var bufferbox = [[sw.x,sw.y], [ne.x,ne.y]];
+        var cellsInBuffer = map.queryRenderedFeatures(bufferbox, {layers: ['predictions-outline']});
+        var filter = cellsInBuffer.reduce(function(selectSet, cell) {
+          selectSet.push(cell.properties.uniqueID);
+          return selectSet;
+        }, ['in', 'uniqueID']);
+        map.setFilter("predictions-buffer", filter);
+        map.setLayoutProperty('predictions-buffer', 'visibility', "visible");
+      });
     }
+
+    map.on('mouseleave', layerName, function(){
+      popup.remove();
+    });
   }
 };
 
@@ -61,6 +91,8 @@ var resetMap = function() {
   riskLayers.forEach(function(layer) {
     map.setLayoutProperty(layer, 'visibility', "none");
   });
+  map.setCenter([-85.735,38.21]);
+  map.setZoom(11.4);
 }
 
 // Select features within user-defined buffer.
@@ -78,41 +110,22 @@ var updateMap = function() {
   addOption(parksChecked, "facparks");
   addOption(schoolsChecked, "facschools");
 
-
-  map.on('click', function(e) {
-    if(map.getLayer('buffer-circle')) {
-      map.removeLayer('buffer-circle');
-      map.removeSource('buffer-circle');
-    }
-    // var turfBuffer = turf.buffer(turf.point(e.lngLat.toArray()), mapOptions.buffer*0.0003048);
-var options = {steps:35, units: 'miles', properties: {foo: 'bar'}};
-var circle = turf.circle(e.lngLat.toArray(), mapOptions.buffer, options);
-
-    console.log(circle);
-    // map.addLayer({
-    //   "id": "buffer-circle",
-    //   "type": "fill",
-    //   "source": {
-    //     "type": "geojson",
-    //     "data": turfBuffer
-    //   },
-    //   'layout': {},
-    //   "paint": {
-    //     "fill-color": "#000",
-    //     "fill-opacity": 0.5
-    //   }
-    // });
-
-    // var bufferbox = [[e.point.x-5, e.point.y-5], [e.point.x+5, e.point.y+5]];
-    // var cellsInBuffer = map.queryRenderedFeatures(bufferbox, {layers: ['predictions-buffer']});
-    // console.log(cellsInBuffer);
-    // var filter = cellsInBuffer.reduce(function(selectSet, cell) {
-    //   selectSet.push(cell.properties.uniqueID);
-    //   return selectSet;
-    // }, ['in', 'uniqueID']);
-    // map.setFilter("predictions-buffer", filter);
-    // map.setLayoutProperty('predictions-buffer', 'visibility', "visible");
-  });
+  switch (mapOptions.buffer) {
+    case 0:
+      zoomlevel = 11.4;
+      break;
+    case 0.25:
+      zoomlevel = 15.35;
+      break;
+    case 0.5:
+      zoomlevel = 14.6;
+      break;
+    case 0.75:
+      zoomlevel = 14;
+      break;
+    default:
+      zoomlevel = 13.6;
+  }
 
   var riskCatHover = 0;
   map.on('mousemove', function(e) {
@@ -152,7 +165,6 @@ var circle = turf.circle(e.lngLat.toArray(), mapOptions.buffer, options);
       map.setPaintProperty(riskLayers[riskCatHover], 'fill-opacity', 1);
     } else {
       $('.map-overlay').css('display','none');
-      popup.remove();
     }
   });
 }
