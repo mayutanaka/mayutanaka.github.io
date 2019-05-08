@@ -19,6 +19,29 @@ var addOption = function(checkedTrue, layerName) {
   }
 };
 
+// Create a bounding box based on the buffer.
+var bufferBox = function(point) {
+  var radius = mapOptions.buffer/69;
+  var sw = map.project([point.lng-radius, point.lat-radius]);
+  var ne = map.project([point.lng+radius, point.lat+radius]);
+  return [[sw.x,sw.y], [ne.x,ne.y]];
+}
+
+// Visualize grids within buffer box.
+var showBuffer = function(bbox) {
+  var cellsInBuffer = map.queryRenderedFeatures(bbox, {layers: ['predictions-outline']});
+  var totalPop = 0;
+  var filter = cellsInBuffer.reduce(function(selectSet, cell) {
+    selectSet.push(cell.properties.uniqueID);
+    totalPop+=cell.properties.TotalPop;
+    return selectSet;
+  }, ['in', 'uniqueID']);
+  map.setFilter("predictions-buffer", filter);
+  map.setLayoutProperty('predictions-buffer', 'visibility', "visible");
+  document.getElementById('impact-box').innerHTML = "<h4>Impact within "+mapOptions.buffer+" miles:</h4><em>"+Math.round(totalPop)+" people</em>";
+  $('#impact-box').css('display','block');
+}
+
 // Hovering over a location shows you information about that point.
 var hoverOptions = function(checkedTrue, layerName, e) {
   if (checkedTrue) {
@@ -42,28 +65,16 @@ var hoverOptions = function(checkedTrue, layerName, e) {
                 +locations[0].properties.ADDRESS+"<br><center><em>click to select</em></center>")
       .addTo(map);
 
-      popup.on('click', function(e){
-        popup.setHTML("<center><b>Impact within "+mapOptions.buffer+" miles:</b><br>"+POPULATION+" people</center>");
-      });
-
       map.on('click', function(e) {
+        var facilities = map.queryRenderedFeatures(e.point, { layers: [layerName] });
+        if (!facilities.length) {
+          $('#impact-box').css('display','none');
+          return;
+        }
         map.setFilter("predictions-buffer", ['in','uniqueID','']);
         map.setLayoutProperty('predictions-buffer', 'visibility', "none");
-        map.flyTo({
-          center: e.lngLat,
-          zoom: zoomlevel
-        });
-        var radius = mapOptions.buffer/69;
-        var sw = map.project([e.lngLat.lng-radius, e.lngLat.lat-radius]);
-        var ne = map.project([e.lngLat.lng+radius, e.lngLat.lat+radius]);
-        var bufferbox = [[sw.x,sw.y], [ne.x,ne.y]];
-        var cellsInBuffer = map.queryRenderedFeatures(bufferbox, {layers: ['predictions-outline']});
-        var filter = cellsInBuffer.reduce(function(selectSet, cell) {
-          selectSet.push(cell.properties.uniqueID);
-          return selectSet;
-        }, ['in', 'uniqueID']);
-        map.setFilter("predictions-buffer", filter);
-        map.setLayoutProperty('predictions-buffer', 'visibility', "visible");
+        map.flyTo({center:e.lngLat, zoom:zoomlevel});
+        showBuffer(bufferBox(e.lngLat));
       });
     }
 
@@ -93,11 +104,7 @@ var resetMap = function() {
   });
   map.setCenter([-85.735,38.21]);
   map.setZoom(11.4);
-}
-
-// Select features within user-defined buffer.
-var findImpact = function(features) {
-  return null;
+  $('#impact-box').css('display','none');
 }
 
 // Updates the map based on user input when the Update Map button is clicked.
@@ -115,10 +122,10 @@ var updateMap = function() {
       zoomlevel = 11.4;
       break;
     case 0.25:
-      zoomlevel = 15.35;
+      zoomlevel = 15.25;
       break;
     case 0.5:
-      zoomlevel = 14.6;
+      zoomlevel = 14.45;
       break;
     case 0.75:
       zoomlevel = 14;
@@ -133,9 +140,11 @@ var updateMap = function() {
     hoverOptions(parksChecked, "facparks", e);
     hoverOptions(schoolsChecked, "facschools", e);
 
-    var gridcells = map.queryRenderedFeatures(e.point, { layers: riskLayers.slice(mapOptions.riskLow, mapOptions.riskHigh+1) });
+    var includedLayers = riskLayers.slice(mapOptions.riskLow, mapOptions.riskHigh+1);
+    includedLayers.push("predictions-buffer");
+    var gridcells = map.queryRenderedFeatures(e.point, { layers: includedLayers });
     if (gridcells.length>0) {
-      $('.map-overlay').css('display','table');
+      $('.info-overlay').css('display','table');
       if (riskCatHover != gridcells[0].properties.quantile) {
           map.setPaintProperty(riskLayers[riskCatHover], 'fill-opacity', 0.5);
           riskCatHover = gridcells[0].properties.quantile;
@@ -164,7 +173,7 @@ var updateMap = function() {
                                                       '<li>Distance to nearest electric permit: <em>'+distElec+' ft</em></li></ul>';
       map.setPaintProperty(riskLayers[riskCatHover], 'fill-opacity', 1);
     } else {
-      $('.map-overlay').css('display','none');
+      $('.info-overlay').css('display','none');
     }
   });
 }
