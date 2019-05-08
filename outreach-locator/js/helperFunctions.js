@@ -114,14 +114,19 @@ var circle = turf.circle(e.lngLat.toArray(), mapOptions.buffer, options);
     // map.setLayoutProperty('predictions-buffer', 'visibility', "visible");
   });
 
+  var riskCatHover = 0;
   map.on('mousemove', function(e) {
     hoverOptions(librariesChecked, "faclibraries", e);
     hoverOptions(parksChecked, "facparks", e);
     hoverOptions(schoolsChecked, "facschools", e);
 
-    var gridcells = map.queryRenderedFeatures(e.point, { layers: riskLayers.slice(1, riskLayers.length-3) });
+    var gridcells = map.queryRenderedFeatures(e.point, { layers: riskLayers.slice(mapOptions.riskLow, mapOptions.riskHigh+1) });
     if (gridcells.length>0) {
       $('.map-overlay').css('display','table');
+      if (riskCatHover != gridcells[0].properties.quantile) {
+          map.setPaintProperty(riskLayers[riskCatHover], 'fill-opacity', 0.5);
+          riskCatHover = gridcells[0].properties.quantile;
+      }
       var latentRisk = Math.round(gridcells[0].properties.predEnsemble*100)/100;
       var distElec = Math.round(gridcells[0].properties['dist.elec']);
       var wall;
@@ -138,22 +143,16 @@ var circle = turf.circle(e.lngLat.toArray(), mapOptions.buffer, options);
       document.getElementById('info-box').innerHTML = '<h4 class="center title">IN THIS GRID CELL</h4>'+
                                                       '<b>Local risk</b>'+
                                                       '<ul><li>Latent risk: <em>'+latentRisk+' fires</em></li>'+
-                                                      '<li>Risk category: <em>'+gridcells[0].properties.quantile+'</em></li>'+
+                                                      '<li>Risk category: <em>'+riskCatHover+'</em></li>'+
                                                       '<li>Past events: <em>'+gridcells[0].properties.countFire+' fires</em></li></ul>'+
                                                       '<b>Local values of top 3 predictors</b>'+
                                                       '<ul><li>Median household income: <em>$'+gridcells[0].properties.MedHHInc+'</em></li>'+
                                                       '<li>Majority wall type: <em>'+wall+'</em></li>'+
                                                       '<li>Distance to nearest electric permit: <em>'+distElec+' ft</em></li></ul>';
-      map.setFilter('predictions-all', ['==', 'quantile', gridcells[0].properties.quantile]);
-      map.setLayoutProperty("predictions-all", 'visibility', "visible");
+      map.setPaintProperty(riskLayers[riskCatHover], 'fill-opacity', 1);
     } else {
       $('.map-overlay').css('display','none');
+      popup.remove();
     }
-  });
-
-  map.on('mouseleave', function() {
-    popup.remove();
-    map.setFilter("predictions-all", ['==', 'quantile', '']);
-    map.setLayoutProperty('predictions-all', 'visibility', "none");
   });
 }
