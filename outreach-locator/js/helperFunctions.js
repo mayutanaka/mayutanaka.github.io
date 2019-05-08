@@ -105,6 +105,7 @@ var resetMap = function() {
   map.setCenter([-85.735,38.21]);
   map.setZoom(11.4);
   $('#impact-box').css('display','none');
+  $('.info-overlay').css('display','none');
 }
 
 // Updates the map based on user input when the Update Map button is clicked.
