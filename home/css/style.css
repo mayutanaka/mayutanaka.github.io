@@ -1,3 +1,7 @@
+html {
+  height:0;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
@@ -8,6 +12,11 @@ ul {
 }
 
 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
   text-decoration: none;
   color: inherit;
 }
@@ -15,8 +24,10 @@ a {
 .nav {
   text-align: right;
   position: fixed;
+  top: 20px;
   right: 20px;
   color: darkgrey;
+  z-index: 10;
 }
 
 .nav li {
@@ -57,6 +68,12 @@ a {
   margin: 0;
 }
 
+.small {
+  font-size: 40px;
+  line-height: 30px;
+  margin: 0;
+}
+
 .space-bottom {
   margin-bottom: 40px;
 }
@@ -66,12 +83,12 @@ a {
   font-style: italic;
 }
 
-.sub-select {
+a.sub-select {
   color: black;
 }
 
 .link-out {
-  color: #bbbbbb;
+  color: #bbb;
 }
 
 .page-fade {
@@ -80,18 +97,69 @@ a {
 
 .modal {
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
 }
 
-.modal a.close-modal {
-  display: none;
+.modal-title {
+  text-align: center;
+  width: 100%;
 }
 
 .big-icon {
   font-size: 40px;
-  color: lightgrey;
-  padding-bottom: 10px;
+  color: black;
+}
+
+.progress {
+  background-color: #ddd;
+  border-radius: 0;
+  height: 10px;
+}
+
+.progress-bar {
+  background-color: black;
+}
+
+.resume-section {
+  position: relative;
+  margin-bottom: 200px;
+  margin-left: 100px;
+}
+
+.resume-section-header {
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+
+.carousel-item {
+  height: 550px;
+  background-clip: content-box;
+}
+
+.carousel-caption {
+  width: 600px;
+  left: 100px;
+  text-align: left;
+}
+
+.carousel-control-next {
+  z-index: 11;
+}
+
+.carousel-control-prev {
+  z-index: 11;
+}
+
+#language {
+  position: absolute;
+  width: 300px;
+  line-height: 15px;
+}
+
+#software {
+  position: relative;
+  width: 300px;
+  left: 50%;
+  line-height: 15px;
 }
 
 #home-greeting {
@@ -102,7 +170,22 @@ a {
 
 #about-me-bio {
   position: absolute;
-  top: 100px;
-  left: 100px;
-  width: 700px;
+  left: 15%;
+  right: 15%;
+  min-width: 800px;
+  margin: 100px;
+}
+
+#resume-header {
+  position: relative;
+  top: 50px;
+  width: 100%;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#project-samples {
+  width: 55%;
+  position: absolute;
+  margin: 100px;
 }

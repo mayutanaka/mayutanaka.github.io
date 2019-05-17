@@ -6,6 +6,7 @@
     <!-- <link rel="icon" href="data/louisville_fire-01.png"> -->
     <!-- CSS imports -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel='stylesheet' href='css/style.css'/>
   </head>
   <body class="page-fade">
@@ -15,19 +16,66 @@
         <li><a href="index.html">HOME</a></li>
         <li><a href="about-me.html">ABOUT ME</a></li>
         <li class="current-page"><a href="resume.html">RESUME</a></li>
-        <li class="sub sub-select">skills</li>
-        <li class="sub">education</li>
-        <li class="sub">experience</li>
-        <li class="sub">extracurriculars</li>
+        <li class="sub"><a href="#skills">skills</a></li>
+        <li class="sub"><a href="#education">education</a></li>
+        <li class="sub"><a href="#experience">experience</a></li>
+        <li class="sub"><a href="#extracurriculars">extracurriculars</a></li>
         <li><a href="project-samples.html">PROJECT SAMPLES<a></li>
       </ul>
     </div>
-    <div id="home-greeting">
-      <p class="italic bold large">HELLO.</p>
-      <p class="large">I am<br>Mayu</p>
+    <div id="resume-header"><p class="bold large">Mayu M. Tanaka</p></div>
+    <!-- Skills -->
+    <div id="skills" class="resume-section">
+      <p class="italic bold medium resume-section-header">Skills.</p>
+      <div id="language">
+        <p class="bold italic small space-bottom">Language</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="9" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>Japanese</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="7.5" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>Spanish</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="8" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>Python</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="8.5" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>Java</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="7.5" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>JavaScript</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="7" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>HTML/CSS</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="8.5" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p class="space-bottom">R</p>
+      </div>
+      <div id="software">
+        <p class="bold italic small space-bottom">Software</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="9" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>Illustrator</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="7" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>Photoshop</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="8" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>InDesign</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="7.5" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>ENVI</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="9" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p>ArcGIS</p>
+        <div class="progress"><div class="progress-bar" role="progressbar" style="width: 85%" aria-valuenow="8.5" aria-valuemin="0" aria-valuemax="10"></div></div>
+        <p class="space-bottom">RStudio</p>
+      </div>
+    </div>
+    <!-- Education -->
+    <div id="education" class="resume-section">
+      <p class="italic bold medium resume-section-header">Education.</p>
+    </div>
+    <!-- Experience -->
+    <div id="experience" class="resume-section">
+      <p class="italic bold medium resume-section-header">Experience.</p>
+    </div>
+    <!-- Extracurriculars -->
+    <div id="extracurriculars" class="resume-section">
+      <p class="italic bold medium resume-section-header">Extracurriculars.</p>
     </div>
     <!-- JS imports -->
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="src/main.js"></script>
   </body>
 </html>
