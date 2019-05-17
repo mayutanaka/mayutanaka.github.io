@@ -1,10 +1,11 @@
 html {
-  height:0;
+  height: 0;
 }
 
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
+  min-width: 800px;
 }
 
 ul {
@@ -83,7 +84,7 @@ a:hover {
   font-style: italic;
 }
 
-a.sub-select {
+.sub-select {
   color: black;
 }
 
@@ -130,23 +131,29 @@ a.sub-select {
   margin-top: 100px;
 }
 
-.carousel-item {
-  height: 550px;
-  background-clip: content-box;
+.carousel {
+  width: 900px;
+  height: 600px;
+}
+
+.carousel img {
+  height: 600px;
+  width: inherit;
+  image-resolution: from-image;
 }
 
 .carousel-caption {
-  width: 600px;
-  left: 100px;
+  height: 500px;
+  width: 300px;
   text-align: left;
 }
 
-.carousel-control-next {
-  z-index: 11;
-}
-
-.carousel-control-prev {
-  z-index: 11;
+.home-bar {
+  background-color: lightgrey;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
 }
 
 #language {
@@ -168,14 +175,6 @@ a.sub-select {
   right: 100px;
 }
 
-#about-me-bio {
-  position: absolute;
-  left: 15%;
-  right: 15%;
-  min-width: 800px;
-  margin: 100px;
-}
-
 #resume-header {
   position: relative;
   top: 50px;
@@ -188,4 +187,37 @@ a.sub-select {
   width: 55%;
   position: absolute;
   margin: 100px;
+}
+
+#home-bar1 {
+  background-image: url('../images/024.jpeg');
+  top: 0;
+  height: 700px;
+  width: 80px;
+  left: 100px;
+}
+
+#home-bar2 {
+  background-image: url('../images/040.jpeg');
+  top: 0;
+  height: 600px;
+  width: 140px;
+  left: 240px;
+}
+
+#home-bar3 {
+  background-image: url('../images/071.jpeg');
+  top: 0;
+  height: 650px;
+  width: 100px;
+  left: 400px;
+}
+
+#home-bar4 {
+  background-image: url('../images/029.jpeg');
+  top: 250px;
+  height: 300px;
+  width: 500px;
+  left: 300px;
+  background-position: right;
 }
