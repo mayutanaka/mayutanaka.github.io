@@ -11,12 +11,13 @@
     <link rel='stylesheet' href='css/style.css'/>
   </head>
   <body class="page-fade">
-    <div id="home-bar1" class="home-bar"></div>
-    <div id="home-bar2" class="home-bar"></div>
-    <div id="home-bar3" class="home-bar"></div>
-    <div id="home-bar4" class="home-bar"></div>
+    <script>document.body.className += ' fade-out';</script>
+    <div id="home-bar1" class="home-bar" onload="fadeIn(this)"></div>
+    <div id="home-bar2" class="home-bar" onload="fadeIn(this)"></div>
+    <div id="home-bar3" class="home-bar" onload="fadeIn(this)"></div>
+    <div id="home-bar4" class="home-bar" onload="fadeIn(this)"></div>
     <!-- Modal -->
-    <div class="modal fade" id="construction" tabindex="-1" role="dialog" aria-labelledby="constructiontitle" aria-hidden="true">
+    <!-- <div class="modal fade" id="construction" tabindex="-1" role="dialog" aria-labelledby="constructiontitle" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
           <div class="modal-header">
@@ -30,7 +31,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Nav Menu -->
     <div class="nav">
       <ul>
@@ -43,7 +44,7 @@
     <!-- Hello Text -->
     <div id="home-greeting">
       <p class="italic bold large">HELLO.</p>
-      <p class="large">I am<br>Mayu</p>
+      <p class="large">I am<br><span class="highlight">Mayu<span></p>
     </div>
     <!-- JS imports -->
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>

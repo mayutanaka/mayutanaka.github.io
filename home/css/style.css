@@ -6,6 +6,13 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   min-width: 800px;
+  opacity: 1;
+  transition: 1s opacity;
+}
+
+body.fade-out {
+    opacity: 0;
+    transition: none;
 }
 
 ul {
@@ -20,6 +27,22 @@ a {
 a:hover {
   text-decoration: none;
   color: inherit;
+}
+
+.highlight {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #72DBD6 50%);
+}
+
+.highlight-black {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, black 50%);
+}
+
+
+.blackbox {
+  background-color: rgba(0, 0, 0, 1);
+  padding-left: 3px;
+  padding-right: 10px;
+  padding-bottom: 10px;
 }
 
 .nav {
@@ -89,12 +112,17 @@ a:hover {
 }
 
 .link-out {
-  color: #bbb;
+  /* color: #bbb; */
+  font-weight: bold;
 }
 
-.page-fade {
-  display: none;
+.link-out:hover {
+  color: lightgrey;
 }
+
+/* .page-fade {
+  display: none;
+} */
 
 .modal {
   text-align: center;
@@ -132,19 +160,24 @@ a:hover {
 }
 
 .carousel {
-  width: 900px;
+  overflow: hidden;
   height: 600px;
+  width: 900px;
 }
 
 .carousel img {
-  height: 600px;
-  width: inherit;
+  width: 100%;
   image-resolution: from-image;
+  margin: -400px 0 0 0;
 }
 
 .carousel-caption {
-  height: 500px;
-  width: 300px;
+  height: 400px;
+  width: 600px;
+  top: 0;
+  left: 0;
+  margin-left: 100px;
+  margin-top: 100px;
   text-align: left;
 }
 
@@ -156,17 +189,83 @@ a:hover {
   position: absolute;
 }
 
-#language {
+.timeline {
+  min-width: 1100px;
+}
+
+.timeline-label {
+  width: 300px;
+  text-align: right;
+  margin-right: 0;
+  display: inline-block;
+}
+
+.timeline-content::before {
+  background-color: black;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
   position: absolute;
+  top: 11px;
+  left: -56px;
+  content: '';
+  z-index: 1;
+}
+
+.timeline-content {
+  display: inline-block;
+  width: 700px;
+  position: relative;
+  left: 100px;
+  vertical-align: top;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  width: 2px;
+  background-color: #ddd;
+  left: 350px;
+  top: 100px;
+  bottom: -50px;
+  display: inline-block;
+}
+
+.main-label {
+  font-size: 30px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+.detail {
+  font-size: 15px;
+  line-height: 17px;
+}
+
+#about-me-bio {
+  width: 900px;
+  height: 600px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+#language {
   width: 300px;
   line-height: 15px;
+  display: inline-block;
 }
 
 #software {
+  left: 100px;
   position: relative;
   width: 300px;
-  left: 50%;
   line-height: 15px;
+  display: inline-block;
+  vertical-align: top;
 }
 
 #home-greeting {
