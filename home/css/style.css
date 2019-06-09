@@ -125,6 +125,8 @@ a:hover {
   background-color: #ddd;
   border-radius: 0;
   height: 10px;
+  margin-top: 2px;
+  margin-bottom: 17.8px;
 }
 
 .progress-bar {
@@ -132,14 +134,50 @@ a:hover {
 }
 
 .resume-section {
+  right: 0;
+  left: 0;
+  margin: auto;
+  margin-top: 100px;
   position: relative;
-  margin-bottom: 200px;
-  margin-left: 100px;
+  width: 1110px;
 }
 
 .resume-section-header {
-  margin-bottom: 50px;
-  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.levels {
+  width: 500px;
+  height: 275px;
+  line-height: 12px;
+  display: inline-block;
+  margin: 50px;
+  margin-top: 0;
+}
+
+.levels-title {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+.levels-labels {
+  display: inline-block;
+  text-align: right;
+  padding-right: 5px;
+}
+
+.levels-bars {
+  display: inline-block;
+  vertical-align: top;
+  width: 300px;
+}
+
+.levels-container {
+  margin: auto;
+  right: 0;
+  left: 0;
+  width: 385px;
 }
 
 .home-bar {
@@ -203,8 +241,8 @@ a:hover {
   width: 2px;
   background-color: #ddd;
   left: 350px;
-  top: 100px;
-  bottom: -50px;
+  top: 120px;
+  bottom: -20px;
   display: inline-block;
 }
 
@@ -246,26 +284,25 @@ a:hover {
 }
 
 .file:hover {
-  color: rgba(0,0,0,1);
-  background-color: rgba(255, 255, 255, 0.8);
+  color: black;
+  background-color: rgba(255,255,255,0.8);
 }
 
 .file-title {
-  color: rgba(255,255,255,1);
-  margin-bottom: 20px;
-  margin-right: 10px;
+  color: white;
   position: absolute;
-  bottom: 0;
-  right: 0;
+  bottom: 20px;
+  right: 10px;
 }
 
 .file-caption {
+  position: absolute;
   top: 0;
   left: 0;
   margin: 30px;
 }
 
-.bio-accordian {
+.accordian {
   height: 615px;
   width: 925px;
 	position: absolute;
@@ -312,39 +349,22 @@ a:hover {
   background-image: url('../images/train.jpg');
 }
 
-#language {
-  width: 300px;
-  line-height: 15px;
-  display: inline-block;
-}
-
-#software {
-  left: 100px;
-  position: relative;
-  width: 300px;
-  line-height: 15px;
-  display: inline-block;
-  vertical-align: top;
+#outreach-locator {
+  background-image: url('../images/amager.jpg');
+  background-position: bottom;
 }
 
 #home-greeting {
-  position: relative;
+  position: absolute;
   display: inline-block;
-  right: 0;
+  bottom: 5px;
   width: 300px;
+  margin-bottom: 15px;
   text-align: right;
 }
 
-#resume-header {
-  position: relative;
-  top: 50px;
-  width: 100%;
-  margin-bottom: 50px;
-  text-align: center;
-}
-
-#project-samples {
-  width: 55%;
+#software {
+  right: 0;
   position: absolute;
-  margin: 100px;
+  vertical-align: top;
 }
