@@ -236,7 +236,6 @@ a:hover {
 .file {
   position: relative;
   height: 200px;
-  overflow: hidden;
   background-blend-mode: lighten;
   background-position: center;
   background-size: cover;
