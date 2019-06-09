@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel='stylesheet' href='css/style.css'/>
   </head>
-  <body class="page-fade">
+  <body class="page-fade" style="min-width:1010px; overflow:hidden;">
     <script>document.body.className += ' fade-out';</script>
     <!-- Nav Menu -->
     <div class="nav">
@@ -20,58 +20,30 @@
         <li><a href="project-samples.html">PROJECT SAMPLES<a></li>
       </ul>
     </div>
-    <!-- Bio Carousel -->
-    <div id="about-me-bio">
-      <div id="bio-carousel" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <li data-target="#bio-carousel" data-slide-to="0" class="active"></li>
-          <li data-target="#bio-carousel" data-slide-to="1"></li>
-          <li data-target="#bio-carousel" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner">
-          <div id="bio1" class="carousel-item active">
-            <img src="images/chania.jpg" alt="designer">
-            <div class="carousel-caption">
-              <p class="italic bold medium space-bottom"><span class="highlight-black">Designer.</span></p>
-              <p class="blackbox space-bottom">Well-versed in sustainable urbanism, planning, and GIS as well
-                as in traditional fine arts, graphic, and digital media, I have always had a passion for creativity, however manifested. I
-                strive to channel this affinity into designing solutions, whether they be for large-scale issues such as
-                the increasing need for resilience in face of climate change or for a small intervention for a specifically targeted
-                user with the potential for a broader impact.</p>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img src="images/columns.jpg" alt="analyst">
-            <div class="carousel-caption">
-              <p class="italic bold medium space-bottom"><span class="highlight-black">Analyst.</span></p>
-              <p class="blackbox space-bottom">Design should not be a perpetuation of arbitrary aesthetics but a development of a deep understanding
-                of a subject. By analyzing past trends to interpolate the present and envision future potential, design can harness data
-                to more effeciently and effectively improve quality of life. From the subatomic particles that make up matter to the layers of history underlying urban
-                environments, the world is composed of such information - particularly in this technological age. GIS and urban spatial
-                analytics are about more than simply making sense of US Census data; it is how this data is utilized to inform decision-making.</p>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img src="images/delos.jpg" alt="human">
-            <div class="carousel-caption">
-              <p class="italic bold medium space-bottom"><span class="highlight-black">Human.</span></p>
-              <p class="blackbox space-bottom">But as professions, both designers and analysts are susceptible to becoming disengaged from the "real world,"
-                obscured by lofty goals and poetic lyricism. Successful design is driven by purpose, but a successful designer is
-                driven by compassion. I firmly believe in the strength of my values, but I also recognize my faults because these qualities make me human
-                and ultimately are what qualify me for the position. I hope to take advantage of my interdisciplinary background and help bridge
-                the wide array of fields that are increasingly interconnected by applying both creative and analytical perspectives to design better solutions for people.</p>
-            </div>
-          </div>
-        </div>
-        <a class="carousel-control-prev" href="#bio-carousel" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#bio-carousel" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
+    <!-- Expanding Bio -->
+    <div class="bio-accordian">
+      <div id="file-designer" class="file">
+        <p class="italic bold medium file-title"><span class="highlight">Designer.</span></p>
+        <p class="file-caption">Well-versed in sustainable urbanism, planning, and GIS as well as in traditional fine arts,
+          graphic, and digital media, I have always had a passion for creativity, however manifested. I strive to channel this affinity
+          into designing solutions, whether they be for large-scale issues such as the increasing need for resilience in face of climate change
+          or for a small intervention for a specifically targeted user with the potential for a broader impact.</p>
       </div>
+      <div id="file-analyst" class="file">
+        <p class="italic bold medium file-title"><span class="highlight">Analyst.</span></p>
+        <p class="file-caption">Design should not be a perpetuation of arbitrary aesthetics but a development of a deep understanding
+          of a subject. By analyzing past trends to interpolate the present and envision future potential, design can harness data
+          to more effeciently and effectively improve quality of life. From the subatomic particles that make up matter to the layers of history underlying urban
+          environments, the world is composed of such information - particularly in this technological age. GIS and urban spatial
+          analytics are about more than simply making sense of US Census data; it is how this data is utilized to inform decision-making.</p>
+      </div>
+      <div id="file-human" class="file">
+        <p class="italic bold medium file-title"><span class="highlight">Human.</span></p>
+        <p class="file-caption">But as professions, both designers and analysts are susceptible to becoming disengaged from the "real world,"
+          obscured by lofty goals and poetic lyricism. Successful design is driven by purpose, but a successful designer is
+          driven by compassion. I firmly believe in the strength of my values, but I also recognize my faults because these qualities make me human
+          and ultimately are what qualify me for the position. I hope to take advantage of my interdisciplinary background and help bridge
+          the wide array of fields that are increasingly interconnected by applying both creative and analytical perspectives to design better solutions for people.</p></div>
     </div>
     <!-- JS imports -->
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>

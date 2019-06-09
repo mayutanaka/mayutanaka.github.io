@@ -30,19 +30,7 @@ a:hover {
 }
 
 .highlight {
-  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #72DBD6 50%);
-}
-
-.highlight-black {
-  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, black 50%);
-}
-
-
-.blackbox {
-  background-color: rgba(0, 0, 0, 1);
-  padding-left: 3px;
-  padding-right: 10px;
-  padding-bottom: 10px;
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FFC857 50%);
 }
 
 .nav {
@@ -112,17 +100,12 @@ a:hover {
 }
 
 .link-out {
-  /* color: #bbb; */
   font-weight: bold;
 }
 
 .link-out:hover {
   color: lightgrey;
 }
-
-/* .page-fade {
-  display: none;
-} */
 
 .modal {
   text-align: center;
@@ -159,34 +142,28 @@ a:hover {
   margin-top: 100px;
 }
 
-.carousel {
-  overflow: hidden;
-  height: 600px;
-  width: 900px;
-}
-
-.carousel img {
-  width: 100%;
-  image-resolution: from-image;
-  margin: -400px 0 0 0;
-}
-
-.carousel-caption {
-  height: 400px;
-  width: 600px;
-  top: 0;
-  left: 0;
-  margin-left: 100px;
-  margin-top: 100px;
-  text-align: left;
-}
-
 .home-bar {
   background-color: lightgrey;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+  margin-left: 5px;
+}
+
+.home-images {
   position: absolute;
+  background-color: rgba(255, 255, 255, 0.8);
+  height: 610px;
+  width: 925px;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
 }
 
 .timeline {
@@ -242,15 +219,98 @@ a:hover {
   line-height: 17px;
 }
 
-#about-me-bio {
-  width: 900px;
-  height: 600px;
+.rotate {
+  transform: rotate(90deg);
+  /* Safari */
+  -webkit-transform: rotate(90deg);
+  /* Firefox */
+  -moz-transform: rotate(90deg);
+  /* IE */
+  -ms-transform: rotate(90deg);
+  /* Opera */
+  -o-transform: rotate(90deg);
+  /* Internet Explorer */
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.file {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+  background-blend-mode: lighten;
+  background-position: center;
+  background-size: cover;
+  margin-top: 5px;
+  -webkit-transition: 0.8s;
+  align-items: baseline;
+  color: rgba(0,0,0,0);
+}
+
+.file:hover {
+  color: rgba(0,0,0,1);
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.file-title {
+  color: rgba(255,255,255,1);
+  margin-bottom: 20px;
+  margin-right: 10px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.file-caption {
+  top: 0;
+  left: 0;
+  margin: 30px;
+}
+
+.bio-accordian {
+  height: 615px;
+  width: 925px;
 	position: absolute;
 	top: 0;
 	bottom: 0;
-	left: 0;
-	right: 0;
+  left: 0;
+  right: 0;
 	margin: auto;
+}
+
+#file-designer {
+  background-image: url('../images/vault.jpg');
+  background-position: top;
+}
+
+#file-analyst {
+  background-image: url('../images/vault.jpg');
+  /* background-position: top; */
+}
+
+#file-human {
+  background-image: url('../images/vault.jpg');
+  background-position: bottom;
+}
+
+#home-bar1 {
+  background-image: url('../images/gingko.jpg');
+}
+
+#home-bar2 {
+  background-image: url('../images/stagroom.jpg');
+  background-position: top;
+}
+
+#home-bar3 {
+  background-image: url('../images/city-hall.jpg');
+}
+
+#home-bar4 {
+  background-image: url('../images/ashinoko2.jpg');
+}
+
+#home-bar5 {
+  background-image: url('../images/train.jpg');
 }
 
 #language {
@@ -269,9 +329,11 @@ a:hover {
 }
 
 #home-greeting {
-  position: absolute;
-  bottom: 100px;
-  right: 100px;
+  position: relative;
+  display: inline-block;
+  right: 0;
+  width: 300px;
+  text-align: right;
 }
 
 #resume-header {
@@ -286,37 +348,4 @@ a:hover {
   width: 55%;
   position: absolute;
   margin: 100px;
-}
-
-#home-bar1 {
-  background-image: url('../images/024.jpeg');
-  top: 0;
-  height: 700px;
-  width: 80px;
-  left: 100px;
-}
-
-#home-bar2 {
-  background-image: url('../images/040.jpeg');
-  top: 0;
-  height: 600px;
-  width: 140px;
-  left: 240px;
-}
-
-#home-bar3 {
-  background-image: url('../images/071.jpeg');
-  top: 0;
-  height: 650px;
-  width: 100px;
-  left: 400px;
-}
-
-#home-bar4 {
-  background-image: url('../images/029.jpeg');
-  top: 250px;
-  height: 300px;
-  width: 500px;
-  left: 300px;
-  background-position: right;
 }
