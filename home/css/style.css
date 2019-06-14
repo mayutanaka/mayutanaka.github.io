@@ -29,6 +29,28 @@ a:hover {
   color: inherit;
 }
 
+.form-control {
+  border: solid 1px #aaa;
+  border-radius: 0;
+}
+
+.form-group {
+  width: 500px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+.btn {
+  border: solid 1px #aaa;
+  color: #888;
+  border-radius: 0;
+}
+
+.btn:hover {
+  color: white;
+  background-color: black;
+}
+
 .highlight {
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #FFC857 50%);
 }
