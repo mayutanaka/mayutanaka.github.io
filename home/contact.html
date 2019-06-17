@@ -1,16 +1,3 @@
-<?php
-if($_POST["submit"]) {
-    $recipient="mayu5tanaka@gmail.com";
-    $subject="contact-subject";
-    $sender=$_POST["contact-name"];
-    $senderEmail=$_POST["contact-email"];
-    $message=$_POST["contact-message"];
-
-    $mailBody="Name: $sender\nEmail: $senderEmail\n\n$message";
-    mail($recipient, $subject, $mailBody, "From: $sender <$senderEmail>");
-    $thankYou="<p>Thank you! Your message has been sent.</p>";
-}
-?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -31,13 +18,26 @@ if($_POST["submit"]) {
         <li><a href="about-me.html">ABOUT ME</a></li>
         <li><a href="resume.html">RESUME</a></li>
         <li><a href="project-samples.html">PROJECT SAMPLES<a></li>
-        <li class="current-page"><a href="contact.php">CONTACT</a></li>
+        <li class="current-page"><a href="contact.html">CONTACT</a></li>
       </ul>
     </div>
     <!-- Contact form -->
+    <?php
+    if($_POST["submit"]) {
+        $recipient="mayu5tanaka@gmail.com";
+        $subject="contact-subject";
+        $sender=$_POST["contact-name"];
+        $senderEmail=$_POST["contact-email"];
+        $message=$_POST["contact-message"];
+
+        $mailBody="Name: $sender\nEmail: $senderEmail\n\n$message";
+        mail($recipient, $subject, $mailBody, "From: $sender <$senderEmail>");
+        $thankYou="<p>Thank you! Your message has been sent.</p>";
+    }
+    ?>
     <div class="accordian">
       <?=$thankYou ?>
-      <form class="needs-validation">
+      <form class="needs-validation" action="contact.php" method="post">
         <div class="form-group">
           <label for="contact-name">*Name</label>
           <input type="text" class="form-control form-control-sm" id="contact-name" name="contact-name" placeholder="First Last" required>
