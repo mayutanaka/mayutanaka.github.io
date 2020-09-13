@@ -1,0 +1,64 @@
+html {
+  background-color: black;
+}
+
+body {
+  margin-top: 20px;
+  font-family: 'Roboto', sans-serif;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+}
+
+i {
+  color: white;
+}
+
+.btn {
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 25px;
+  border: none;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#stopwatch-icon {
+  font-size: 50px;
+  margin-bottom: 50px;
+  margin-top: 50%;
+}
+
+#input-params {
+  width: 200px;
+  text-align: center;
+}
+
+#input-params .input-group {
+  padding-bottom: 15px;
+}
+
+#control-bar {
+  text-align: center;
+  display: none;
+  margin-top: 10%;
+}
+
+#timer {
+  display: none;
+  text-align: center;
+  height: 600px;
+}
+
+#timer-rest {
+  font-size: 150px;
+  font-weight: 300;
+  position: absolute;
+  right: 5%;
+  bottom: 10%;
+  color: rgba(255,255,255,0.25);
+}
+
+#timer-active {
+  font-size: 500px;
+  font-weight: 600;
+}
