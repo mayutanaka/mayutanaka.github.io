@@ -9,7 +9,9 @@
     "properties": {
       "jurisdiction": "Chula Vista",
       "services": null,
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB2c7nVKLRJvga2ToyfEMXEI16tg8CuTD1oHwNrtAbH5_XLj6Kww-J8OjV3LDJCIXWX2-cV3tM5lrYsCMSa2lL6r2DfxqD5XDOj84Nh-H45gY6vc5og0Bn6CiWr6YXR-P6KoYSfWLXWDxTGAu1UkHUJuBtltV0aGtb1bZ6j91I2IHN2yDrEZQWBBo_SOI_IYl_dPKHOd5zNd1A2Ya9q04AF25IbRWKiBRMoe36QUf3U_4zv2vSZ9hBwga1qJ0J4ECBtNGD0NKt_iAwaC54npcncLyml_OiCv4KNnz8l5sPuBxbmND5sm_GZjCDi1eJamAp6tbyw8oWAWPSUyI4DjpAtfGL6Ojz7WXH7RzSSnX6uPb4leRMN6MUkTHQnEujdUZ8s/p.jpeg"
+      },
       "all_affordable": true,
       "latitude": "32.59911",
       "on_site_services": false,
@@ -222,7 +224,7 @@
       "jurisdiction": "San Diego city",
       "services": null,
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/Celadon.jpg"
+        "url": "https://previews.dropbox.com/p/thumb/AB1-Bmi2mo_eItBNuZdr537cDlu967P7uHOXFIJ9F2YboEi6GeB4gdoKt2HeRR3_Z7AxRYFH9VMG3fU-nuWfF7qcSWMwD2BEpdslyP3FF5f-arf-kcUvvx2gE9bR0LYoZ_8WCS-3ZFp45e4fpFY6o42o5WgUSBmdak6yZSzmboHT3Lx19frNc0SBZr6K17-JnnsKKZT1F68I90pF6pLHjE46q7MME6MXKGG5FQ_JKbmM54zDWQGyisueqoSNNh7k1B9d8nOda9snzrH_4yIEKnd1CmLj2rX2_fL6S50ufFth0v9NWVeo7IiAKukgopudzCnxeLMsIVg6Zy1-bABxEewgvF7fK-Wg6VsOSjKbbJmCR4YMFnHJoU8yvPdAD0LjM7k/p.png"
       },
       "all_affordable": true,
       "latitude": "32.71541",
@@ -833,7 +835,7 @@
       "jurisdiction": "San Diego city",
       "services": "After-school activities and classes in financial literacy, homebuyer education, resume building, nutrition, and English as a Second Language.",
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/Encanto%20Village.jpg"
+        "url": "https://previews.dropbox.com/p/thumb/AB28WTT-UzqamAkmgi2m1eNSCBQwHEXpCR2i1l2gtT4NAJ5OKQv5GeoZNOj6-BvEbJ0IpnLGzMHYMRyetnRDEZjqJCRRtZXkQu_Jd3g0Sql98i1qpQnLh8oG9Pu7nzM_GEZ22YWSTeaigIqoUAqKcpP4aUIS9w5kPJolqsLquf-_hd2-jjDHLidCCZzG24hh7WlnngboYfcr2KxyNyuAt36O_TDbSMlXdK-9Z84UuyCq3kOx9j-EcSG7xShOX2D1Qbv7FQbhYcnUZwZxtOGydq1ZiwPBZKxZvVZ2NZ_VZggLsCKcOTbOCcA0qbOBQ1vANTwENIjSYf1OnMwyUnFTWh72DKpi9ym5qD8zIRRbAV6m2r9e5IhKyIxN7OisspyzC3qHF2SgGDjyjt5QWWwCM4XGYgVMEtj6ix-f3f3Fw3MVm6t9py1P-RwhybYNI8qkc7g/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.70998861",
