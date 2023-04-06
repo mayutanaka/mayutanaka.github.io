@@ -9,7 +9,9 @@
     "properties": {
       "jurisdiction": "Chula Vista",
       "services": null,
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB1jhw80KW-RfWce4PR1RCx8sKBGENoHWUMUHr4lj2AL8ja2IuzO0nfY0soeeEFifOagzoALeV1-iBzBHHkakunUaN3fy4pphZlOrwjJuD8ODOCORcM6SKniQSW09GcDyW0_sOeynl4cxPBLk1DajreP223c-6Qx4rnff01egKQgsQzcDc5dbusCCjRr3uLKVTWe1OAIz8--YKOKJ-gAaMGGJuYCp3LFmLAr-4BwczLp3U4t326iIbymO3-LXbsbRNClGCyrFp2QLKd3L2G4hXyqP9888RDodhTkLYzDmIEJbveeCIcwviBoXTnBIaohiqU9AACQw1LDcqP6dsm9jzyS1BGOnDcRyULf8RqzitCNeOZGgqAA0o8mLH-xKp8OWoUdbpJawXD7_hmUCKUtEKLNrsdJMWPCYzEJEHCkSyQut8OUNvVIm77IA0_Eu3yybyk/p.jpeg"
+      },
       "all_affordable": true,
       "latitude": "32.59911",
       "on_site_services": false,
@@ -81,7 +83,9 @@
     "properties": {
       "jurisdiction": "Oceanside",
       "services": "State-licensed preschool and programs in youth and development, health and wellness, workforce development and asset building.",
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB2kQPWiJwfLFK4jAHD0guIOdceu56ZKC4qMgCANCvExHxwv7RJZ2mXK4oiqWL9lV2BjPvBBrmKkOLNNT3XFsr2gT6xEds3ZAt1R2a7W-o5LAV9pLJ-uDDhh4CcJQHjV2gUxjm2XRRnwz_wREosAXch0KgD3KyK7oGlZ6zQ3idJlJWkrQZMFyUXK1KuJA-Z_xTK_xy3DpPRl-tnuDr6LjAz_eLzOOJHeg3KC6X56y4ZHugnI7Zy-f2JTp4R4DuW1qh_nJDaxGKJ7FBu71Jc24n0hOzGI1Q-qwVnHJhcZR1tPDrKbCmL510rfOhdSY4Sv6RXZzojAv53HQKlg0CBWV0L0igRkYf9FPzciKH2kuD_tiBBf5hJj-WkPOxZY1wHPEZI/p.jpeg"
+      },
       "all_affordable": true,
       "latitude": "33.2144665",
       "on_site_services": true,
@@ -151,7 +155,9 @@
     "properties": {
       "jurisdiction": "National City",
       "services": null,
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB1JxzNhZaUTBIEWcsJ89e70xjJj5yiLeaykM8yT25yfQWa7K0GrrQJ9Hq9bEPBeqZSF8ovUGFC5yG_Ksz1SOZjEZVBpryXGNB61c5648EHK56Br6gnnjcatHNjyXmlRQjNeYNmLn6QgWx5SK7xzebstvUmYSfNj5PudbL9WzIqBK_nwOk2KNRlCUdBLQHcwOi7tvWRzr1kwLrlNSXUOxv1Hp3eRdf49amtiKUkiQwRKSBwcX_C0Tz9XBZV2opwRfZpgHFJFD1t3UH5aK7bmLEE9U-vg7OiP_az36ytD_eif1daS8eNKhyfkq0bkJm-WrqPtC3ljydvzpJf-FblINwmAi7hj8fKzg7Vre_2oreHsiK_qwk8FremQTSC6EJJywv5m5gVvDbzuIVUyi8fXj0h-sNisqEc6WDsCDmJp0hWhCFUnxbuDrNepndCKyFB8Nsm24_N_BSaVTR0lTAt9BckNHNw1X_g4lSz5UNSEysCnn7cJw7aJbnSUxMlbMN2jG5bZ-RQIAxITWlDH_NAhSz6oRRU-AwzX_4KAbaSvDGDKvM0_BMJkNiorpq1AWjUOmsI/p.jpeg"
+      },
       "all_affordable": true,
       "latitude": "32.676256",
       "on_site_services": false,
@@ -186,7 +192,9 @@
     "properties": {
       "jurisdiction": "San Diego city",
       "services": "Each resident has a personal case manager who works to connect residents with on- and off-site services to address their individual needs.",
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB1-uC4mplXHey7SrWZ8zSzTIYyFSgZYssUvj_3PwQf8Wbj73Jg4KkHqWQ4vO5dWy-FQBal0Jmh3am4m0DI4hxYq-IJaxIKlnxWtqnbAIBnxlpNPJaiVw3aYJ6ZD_7OridV7g7CLg3vb7AkTp4kalhY2u5TiqzAs6MDwlIyPJy9yWJfm39AZBmxoEl8xEHTE4Fvquz-0WEZgDsZQk6GSnASbHNOHnerRU2m0vHQcNoP6VDgwsDVzHeUqU_vyoeMWu5Tm1-krykBQGCPiby6qzx2YwtfDfIBZdBe7cMQiEwmGXCusl8ukGQ0GjxQDQcmNn35rxQ4kmpjOtC4uFh0uSeJtm47SqnZSOJlupeYJRYRSHA7FQkwHcxfAt21epzG8ppLhb7IMREtPM2AZNHvU5KDzvyV0SihRqBX6-w770d60wzazZbFihPljIPUu03PEg3QuywNbfpoK9jEazS_I-jaLEl9SfYhnerXR36qcpG4QBum5KLH0o4HFO6sv4-mtel8dU13GmjWJWqGeLXhhU_-LIkKg4V6-L8MnWNmVfjydiUrJ-Lac4CLH3GRQA9pU8nZQBcKFQ2_MzlEUTQ2X1hAnFeClTr6cVguzzneOD56_eXe8rndvnp-3K77wymWa9lw/p.jpeg"
+      },
       "all_affordable": true,
       "latitude": "32.71658",
       "on_site_services": true,
@@ -293,7 +301,9 @@
     "properties": {
       "jurisdiction": "La Mesa",
       "services": null,
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB2i7QI3LobpaHGG3u2SR23xQV8LB2IyHLeTmFhEv8xVK-OTRMOepE-QmojNhDZtVGEorP0Bdo7ivyW8I0bucVeKQMpv2ptP035id26AjNCZ_pM7nAoaRRgtWfK8SRh0f_Z5utTotAb15YnDnD7aRlJqqoEbsBzK-_Q50HC5HDPWLkbN__ezpFHdLCW-zke7-BlYWvqB-DNkjxmDdrHr1zTb3kfOUydniUXPWEe4HdGF0SAXPz1CCC1hzESvMasLA8Rvjs6Q6jf6JaOCy30RA1KHq9imeroLE-oJ7QxEgk1FMREDuyqqep5aqi72KbVaNLoAjg8KAtzGvmWM5t6jhJj8tu2FYiqwBhNdnVzNH31pQ0JTqWEcC12qs7WlqhNkV1eP2Z4UjDnFwF-a7weQg87w6dbKTijAY1hzSF5htNX9K9pXmXOX9BazX_CHmrNdKYZbQcL678osqVOtRFPy-z1iC23KsGaioHKCwxVcvo4s8CeiRCmS1i_4vhfU7ycD-aibVuBLTNeeREX94Q_ZOFnya7edmYUAbe-D4eRH0XGM8oEeokWrPCn1p9l-1VStjZgIzfVmVHUx2SQD31XcMGV3GGJ2r_Zcgn5Nbl1uEegSDgC5rDN5-7UiMoN5jf5Dn0c/p.jpeg"
+      },
       "all_affordable": false,
       "latitude": "32.76896592",
       "on_site_services": false,
@@ -472,7 +482,9 @@
     "properties": {
       "jurisdiction": "Imperial Beach",
       "services": null,
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB1BLBZcrworilFGWK067oX6bcyXhrG2bpgWUnYT1u2yJtrrEtFvaDy84EcHNmoekOZzKTdCPQEzKiOn29v21uNEhItBidos5Yxn6OoQ0_NwX8L3vWhvBwh2zcFrE4rnUGu529nHNxEuDMIm2CuYgH3RLeMIbjBL8fp_kB_qZNXqGQeJFr9BrjzaFY5KWAiCOodKe4y7VT4FpUEhJ7s1zO9-yIz7CVK_jjJyRmNf28Ks2w6OYmHbRUtVKUv9Qdq1-llCiuixAGsgTc1Q9kwOaU7mcx3ppI1rRZGqjBBq-qx8Q_e2NxJwB48eJyCIkb8TeHmHOr_RFcnQSMQVPSutw56PQxhGXN-k8tF6-gHv6aiwlHn5HwGmYbwnY_LDlpJYz80OP_NaMD0f5RiBacAvfi-nYn7gXk1DlY8SWl9x7SujBwyTiJrPKQheaONo1lvSM1E/p.jpeg"
+      },
       "all_affordable": true,
       "latitude": "32.584256",
       "on_site_services": false,
@@ -507,7 +519,9 @@
     "properties": {
       "jurisdiction": "Poway",
       "services": "After-school classes for resident children and other learning classes including computer skills and resume building.",
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB02iyrpy3OT7XyueslYJCyY63OECkNs2iHPE0QiN-UEXsqDgmyK3mE9a5PyCXTHuVwFrjeobc_xWk4k-idLmV5o7bjVOiQaDlz8scjOw9pjOFH6PBwaI9OZ0K2UVW7b_OpJqePch5e3uyvuXYUDHGls6dn35_KBtfcJuk5AZWhvnUOD6Bd_mbS4rFVK3Tn2P6WqhQebnyess3Gg7KedvG4-RIGYbTToxzlOKZ43b_v3TbBVte716hPQYuseu22Wvx9K1IlA4lysnkk_T-c1JJmgqBsRQpsup7RYeAP7RdlAsLrDMQwNnYAQQ5_isxxcnQk2HcY3M_SaGEYpz38NdstFBgLfLOgaJZbEH_mphzjp3cp-WaUW-jaWmUSl-wwHYu4/p.jpeg"
+      },
       "all_affordable": true,
       "latitude": "32.950912",
       "on_site_services": true,
@@ -579,7 +593,9 @@
     "properties": {
       "jurisdiction": "La Mesa",
       "services": null,
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB2U7nt_pSW7ZSzR5-TfPQ0po6bW2dIiIvwXCi3J-UWFCkZMS28w46IZ1Vc8pXOUKnStJzeNVxfEnMIenp90eVRd6fVCfwKyiqzr8K7iaieKGby38Lkead3EqhCejtQgqy8fWCWZfCFW5WaJ-fQTNSn4irk3hLYhW5v0gkyGkQxWbnwG4iMRnxSkv7dsGrnYm_iORmvWARVUV9p5knTqHdUvonZxDY9GShy8KURPAHRyv_WSgx4T7oSJjeRcnZh6EWN2ZNwaMAETxdE6wJRGwXVQgbruvKyA5GToMckRyvlgqZpgswxk0SE2nvqzdLuG_V-_-FKTrrnvHU-GfD1tBj0SokU_asWFzBRc_ehzM3gafKZMPZ7-ftAcIKuCadlCzyV8kp2RWaOyza-QFpX1z_0SlJSlK6-LoVG5OtUkzO0cu1WJrtu_KhNP3z-2SO_kPuWq_RoBrl9QqsNlLB2PmGVNFIC-fCqNnnx_KqvQ8sAYhFiSxN5WYxnHt9JkrUZhL7w/p.jpeg"
+      },
       "all_affordable": false,
       "latitude": "32.78386824",
       "on_site_services": false,
@@ -614,7 +630,9 @@
     "properties": {
       "jurisdiction": "San Diego city",
       "services": null,
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB3p1en9wFebv3Q0yijXeiv5EZUNptyo_fZKzQ31vTtc0BCRnHebi3BwCuLpCjOv9iXgoKvLOmvUbD0dpUUMwuIU_BalYil7En-Yu6vVBbUCAGrYaRsHc1xJWp933lyyCd-E-oNx2bsT2TEo-64lR7cEGFMAIOeivoFaPLpE7rtoAsGwvIjjzVfwG0AE6XLOyWQxf7eib6QiPewFwWW7tq2_CGPQ5-Q7ZaSPTBj2X_NpGQuO3zpTaN7otzbFu73tJCOK-YSmpe9kFuMA11v7iHhAyJ3DT7OF6YZhQW2_cvwQKN1SDSJPvieHFhC02dHYBZFxUMHkuW3A0ndsCyfn2lMVxx0_p0LGERfcY771jw43a37vILXPMzgbLSwb9FyfafjvzaXLFskdcjAyXTG2CeMZzQYu2UqdStY2Q18BWEstGxrepddZ-Ys6ev4KClZfzGkIXYOHhO9Qd9PNteDqxzWzEgHwA3gDfxNq4_sao3fwNL60aU3m39sJEn818k6wlmY/p.jpeg"
+      },
       "all_affordable": false,
       "latitude": "32.73744",
       "on_site_services": false,
@@ -637,7 +655,7 @@
       "building_height_stories_": "8",
       "special_populations_served": null,
       "architect": "Stephen Dalton Architects, McCullough Landscape Architecture",
-      "project_name": "Secoya on Fifth",
+      "project_name": "Secoya",
       "developer_contractor": "Murfey Company, Bishop Ventures"
     }
   }, {
@@ -869,7 +887,9 @@
     "properties": {
       "jurisdiction": "Vista",
       "services": "After-school program, running readers, financial fitness education, and VALOR scholarships.",
-      "image_url": null,
+      "image_url": {
+        "url": "https://previews.dropbox.com/p/thumb/AB3tpxSEnV-xb6XzOxdY4ZR27Pro24b0spyQ5GqdV8CMpEGuY3tAIgGGASyhBhn2uY9A8IIXZijXGK7TzYWMz4P5QGI5AmKFNtzbyRwyGovWX7h73pYhMzBlGxswMvv-QfdpTqtSiWpJ2uFckF5VQesQrPsY8lMA0txEvKZOhtVs8uszEJ6TOI1t9sxYW63JpR8fbbAMuECTf2rAz52tXvFTv2eQghQ2zY4SEfrtHjlTJtwfQVKEUwV8OPqCca6pSfGfDh7ibEvNljelWo_WVVm3TSUWHjLjl-jMBadNBVzPGp3hQ_Qr0D8H716Nsv2n99RFSVAhRDPfnD-Y742qdhOb2iZwMrEy1TlU87L7XEHM39pzLE2jtrrKx9n8-HQxZRK6YJLeAU56rwwiCXmZtI3g1ljZLaHJlf6Ou7mXbDNdRaRwtssLSB9YXlciyR_7Pp0b03z9qHKFOHM6qpXG3wlFtdMpzbr4KDvJ24d8cy2Px1tH3bFlnwzbw2IZ24e7SY4/p.jpeg"
+      },
       "all_affordable": true,
       "latitude": "33.199529",
       "on_site_services": true,
