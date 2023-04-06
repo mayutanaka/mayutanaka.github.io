@@ -9,9 +9,7 @@
     "properties": {
       "jurisdiction": "Chula Vista",
       "services": null,
-      "image_url": {
-        "url": "https://previews.dropbox.com/p/thumb/AB2c7nVKLRJvga2ToyfEMXEI16tg8CuTD1oHwNrtAbH5_XLj6Kww-J8OjV3LDJCIXWX2-cV3tM5lrYsCMSa2lL6r2DfxqD5XDOj84Nh-H45gY6vc5og0Bn6CiWr6YXR-P6KoYSfWLXWDxTGAu1UkHUJuBtltV0aGtb1bZ6j91I2IHN2yDrEZQWBBo_SOI_IYl_dPKHOd5zNd1A2Ya9q04AF25IbRWKiBRMoe36QUf3U_4zv2vSZ9hBwga1qJ0J4ECBtNGD0NKt_iAwaC54npcncLyml_OiCv4KNnz8l5sPuBxbmND5sm_GZjCDi1eJamAp6tbyw8oWAWPSUyI4DjpAtfGL6Ojz7WXH7RzSSnX6uPb4leRMN6MUkTHQnEujdUZ8s/p.jpeg"
-      },
+      "image_url": null,
       "all_affordable": true,
       "latitude": "32.59911",
       "on_site_services": false,
@@ -47,7 +45,7 @@
       "jurisdiction": "San Diego city",
       "services": null,
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/Estrella%20del%20Mercado.jpeg"
+        "url": "https://previews.dropbox.com/p/thumb/AB0knjcxl1YE_V6FbrEqZDi41weMrUThLZ0XVgQXFDObIp9-HW5T7aldNA1tTxaAal363svOo4b8PjcVmDQU6pGq4mIhSSE9O0TTbCDhfp8MKe4QTIrZvsCksd9zvQqDoqQnoWrnyKo03WF1hm9220gfF7byE-diA5BZJ2JAd_6POGzz3N39hF41xXraYetev-sLMnPgT-8cNaiF62fJtvNUnDPpOIyvqeue46Upzi6Wz7S38373cGTbI8SRZTeipYi9evO5ph211K04bpK7gH5ts3-ZOjZktVTVW8vYrW7ppMGr3WKRoAC97R5ebPKj_Hyy4uZMjQ0iLQ17ErrSiKQVQAAWYgOAskTAg3i3_bEgFZL4PQ84fGxwYWdHDa_Z5bo/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.6999103",
@@ -224,7 +222,7 @@
       "jurisdiction": "San Diego city",
       "services": null,
       "image_url": {
-        "url": "https://previews.dropbox.com/p/thumb/AB1-Bmi2mo_eItBNuZdr537cDlu967P7uHOXFIJ9F2YboEi6GeB4gdoKt2HeRR3_Z7AxRYFH9VMG3fU-nuWfF7qcSWMwD2BEpdslyP3FF5f-arf-kcUvvx2gE9bR0LYoZ_8WCS-3ZFp45e4fpFY6o42o5WgUSBmdak6yZSzmboHT3Lx19frNc0SBZr6K17-JnnsKKZT1F68I90pF6pLHjE46q7MME6MXKGG5FQ_JKbmM54zDWQGyisueqoSNNh7k1B9d8nOda9snzrH_4yIEKnd1CmLj2rX2_fL6S50ufFth0v9NWVeo7IiAKukgopudzCnxeLMsIVg6Zy1-bABxEewgvF7fK-Wg6VsOSjKbbJmCR4YMFnHJoU8yvPdAD0LjM7k/p.png"
+        "url": "https://previews.dropbox.com/p/thumb/AB1-fQ7kc3OBfNqsd9sJ0FSJUcLn9gWDa5FACwWtgIPovSVqXjQjj_ZTiLi9o8l8tF9nkB-0adfWaVNpCBnXAEeUIkEBRAtTbnJageKGHvCpRIg9-C_4Jo3c_kcTWtzY-AUD_p3i_1D9SfD-E7yZku1sSvLPIYOY22b3NkR4vZhJCttcwfb_asyhnyUVFRR6YQAs9OaNSE0WgYabSxx1LWDkjqisZUQDcfsJ9W0b7DOVPf4KsbgdlHnw7mk4FGeeW2vmmO-wdYOwhSjl7iiuzB-zPMIW78vYioRTOvJ4_upyNZRPhVRO3yYig_5CXlIDZUdvN72SMm4gJUrtEnBCAX2Y0WyoAQQyHw5WfXExUvY-gvB2wj3JAte4hqcgYRRB3Tg/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.71541",
@@ -331,7 +329,7 @@
       "jurisdiction": "San Diego city",
       "services": "Comprehensive Resident Services",
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/Mid-City%20Family%20and%20Senior.jpg"
+        "url": "https://previews.dropbox.com/p/thumb/AB2aPjrPw1CS2PNWMmIAmDUDm9T4FQtSvcX8PIhEepLfuyeQ4g4p1TRqL0gyJ638ArzYarT-IFnQ_C0r9wAlZ0bZK0vNVOlrMlMhZz47AvQoe06XhKBgsoQb_2ZAExJ2M6OkBUiMl-5pcQY1ABT_TdnEdKAQXMotVFU22TDNlBYi-QwIQ-sr54PPGIv0MW5Gvme0JiU8XRi-juXLXgB7dOIGZuBowwBgyopJzsfnPx9U32iUzt45TnYl9zSjwB7xwbmZlvyvg1n7u7NDT5uKvdxu9S9dlIAkAjPUT9vt32Dxqr4tg2laMeWqUAn0gNL8Ri-SBrdHN3uHXDrmn7fFmicA1TTcH1xScRLIWlsgaE2jk7ZR_WkHObMQ7_ZUcY8Pj7ANFGoxuskkF3qOefEigXAnl_gCgLxkQBJBVqXDFBus-tiIkcMy1vdfhl81mDJ9Ty08f6TShjSuSwDBCUU5TK2q0yOiqpMxHzQC9f0t_zOO1OAiZSrGrAjpWJ37r4d3sbY/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.75626413",
@@ -368,7 +366,7 @@
       "jurisdiction": "National City",
       "services": "Resident services and programs including financial fitness education.",
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/Paradise%20Creek.jpg"
+        "url": "https://previews.dropbox.com/p/thumb/AB2GCzSFLs9d_2urYPGyfkKYUc4EITBiRYUfQnepN-zYdKBLgonGH7AARBRvoMKQyV1iYpAPz_XAZXI-T9PZaosh5rX2j_4JXYbhBpyFhhtqwBrA2Ep3bEaMHh3S6bMPQIsf7j_aCsxpul0A5KdfzmlFzbg63rRj0t1AGtwJ3p1jmmLvtUQR7SaxYYz-tjJpBGSFLp8u1CoDHEp8cWejVyNsnE32IdLMCOzPvnoFkh6WmJjq04ugyL9yKfM7o9s9C1E_CfPHHnJ61UXTGmmh-2FkqcGxQjqqm6GrCPwItTBS1ZOTo5eUyh0619uX2JzcOU6gOQXjhR0dHoWSqM7swUuIh2y1oSxFS2n-FQQ6L3xmv7GDKpgXxjM2P_ZIbfpi-29GZ_ULT3_XE3ighmFRc2GeE0MVoebg3EfjWjTmrTuhC6WDKnjdpL_1Ug9PYueraPOAU4WujZyMLlAZ50lvRtV6hgbIr2mbmivrthGCytNBPLQItR40LCW2fBj_6_egFuUkR80DHPoNS_1rwfWrgN6M8QtVAeuuvutcsatmqG2LIey9CM9TCiHMzJiIdZIXdec/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.6635073",
@@ -545,7 +543,7 @@
       "jurisdiction": "San Diego city",
       "services": "Social services with a 20-year commitment to providing behavioral health services.",
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/Saint%20Teresa%20of%20Calcutta%20Villa.jpeg"
+        "url": "https://previews.dropbox.com/p/thumb/AB2YmIbLDThuElKQM4nJ27rspf9xaNIlORS8NVNKkp-CgDPnrrLUHwCwAPqAnCJhtgf3G3O7tunq2sIRG6FzVooXPdr6yg_Y40EAghyvh0BGmmZkCWojJpwjlHlh9kIs4t5b8Br05-a30tyw9ScayotuAGC9vBaWjCaVFanUsk4WgVE7cTsU9lrVcYXAe5JafyCTisv0WLig47pq71XEdvkWb-nKe8szDFYblqd5qKDxqUxe-bSD4fDoseHHi8acoc9NFS2Uky5PJSEsWeywiSrBHP-T8nZIr-PRx3bhGUL9qc-KEykQE-wSqNvxva4z7V6dWYq127ut7xPi-vDWItGuSEn2X6pedLE4Rgi-qL-Jt4sP4vZhdCsULuSp_iNC-PY/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.705528",
@@ -652,7 +650,7 @@
       "jurisdiction": "San Diego city",
       "services": "Comprehensive Resident Services",
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/COMM22.JPG"
+        "url": "https://previews.dropbox.com/p/thumb/AB3QBbI3ccxFahUvvRpP8shX0IV3-YUXasXwFBvoRlo2St6RZXuScXDqbNR9nLOyKPEsDXj_K8FmOWLvpVSWUmFKI0yr4NS5t-EzxwpvFtMXfQF24ZwbYhggQN0K6Rtcq4EXAtA3p5qbJ9-93E0gYleotXkeDt9QXdgivhLNMfQGeckBQFKjNaBYuFvPCmJ47TxLoD70TQe9QU0zxhRZTOlfDpUU1whwo_3Exbgro7Q0_lkKPWQ62ucARQpFb8AUyRCu-BjAiAEDLHsmt85APOdlx-C_Bon-cjgIoYlWHZV2ZTd0m3xKeMAPzrT3WCOtW6XlbFGoeKyVR4WgfAqoX04gKC6oas-VqwT3LVvuibZ7PL60Hi0Ovx0eLCUfzFqmYDCnB9aSstn0JGZZRiU8QxsGRIfF32HrDHfXk9iapCMSGyr-aqVhD12kbBvjPnpEjyw/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.70488695",
@@ -689,7 +687,7 @@
       "jurisdiction": "San Diego city",
       "services": "Resident services by the San Diego LGBT Community Center.",
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/North%20Park%20Seniors.JPG"
+        "url": "https://previews.dropbox.com/p/thumb/AB3jyr4-WLYVTn05H50B0AhlNU8euyj_zVuXUpBUHDRd9q_j4HNP_XcCsFikBLPTauslYD4_RgZuNThw1OZwA9uWJenrTy0yJIDKhSZJhFTEP7lSIIb0uiUav36-Gk5rWbfIkAp4_hfBN8_Ru5UrQWIjUC7g-AXiBW2_ftznTC8BlFkjmLLUjuZeolnwctuC58j_XQAstzgOYw8VS6_o9Na42iy4MBis9mj1eaGx3nFAqFe1zPQNrSmJSHV21Y0SVQ5iSjbKX2uFq9Q786KIX7lXVhXEGNQyMJYItjhY_4rcQTw9Idu5qjcQK6EaU2DyfXHOb1-cfI4hY0sS2M6j5dueEhnGftyCtijT-Uvc68xqLha7Wo1B-z3xUlczK1-bxXkXaaVfLjLfLF-sYXgOAcfW-Ir5rbrC7DRIgOSucTaN-5PoGJCqbbtV8HuVsszaZB8/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.754158",
@@ -761,7 +759,7 @@
       "jurisdiction": "Chula Vista",
       "services": "Comprehensive Resident Services",
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/Lofts%20on%20Landis.jpg"
+        "url": "https://previews.dropbox.com/p/thumb/AB0nNGSFvUsnd4HTdD3esfFn2Uk1qy0etZb05ZZhDYCSVixurJtVrlxZH7devR_Ep8WR5pCGZ_G9WNKCJT0HADYj89zvjoRJtXj6bl3Vxe9M8dGLxMHyxnF40GfMrwVzzpEmIsYqr-oKzMMyKm0gjk-cyqls5ewZ-W2gH62ufgR_Z74MB1UiMYE90RPd2SPLu3uT2IlZTT2Tfp2otL_Gg0P7frVpFGMBYJZa9PsJ0O0Rl6FSEkQ9jZEL_3lK9Am1bnsvSAfzd0t4dKy_fPSUwClxQzNL4TFp8PfqqGQ7OAn1NxrtvIblpuxxOlU95UJxXf5n3ziWI6Lb2r-vXdvvDZbQCCP5aczSosbc0M4fKlozGVPwzL9ikSpaXBvNkHkxJ1BvnmxqojqY-fPpf5yfVU6Om_PP8lS5u1tajPWVYHXEGaoXsKU6lOE47uwENGMtZNQ/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.642935",
@@ -798,7 +796,7 @@
       "jurisdiction": "Poway",
       "services": null,
       "image_url": {
-        "url": "https://github.com/mayutanaka/mayutanaka.github.io/blob/3a119ba4dbb832ed622116f0908c677f8bece6c0/deprecated/Images/Solara.jpg"
+        "url": "https://previews.dropbox.com/p/thumb/AB3nXu3JWwpDyce8XdzjGeEmBjwY7B-wCECSPWzozKvdbTs9RRGWFEUty4S3SDIxV75QbfWERu9qBh4oyWNyQbr0_P6kLqktw0n7Zo8MFeAQQhiLg7gB2oXsXz0DCsZ-traDRgna8eU2DQgntNUhauYt_fs-6WSKzNYtFCe2uDC23nmG0M5nq1_fdZgRsZnQvxUvctK9O7Gl5icpFerQkVXvAzoSe1Du9nMW7ZeqYEwev76pTgP9eu3xu5N1tDhvm24pE6WJmswJ4scObp3bu_NTQFrjtIO3aTpybLOARWzDWonFEdmBzfr7N-xEITnGUyGF2jm3f27z4lgcGb3bncD47RjVESxCQ-mykRfZFFdiJA-rnXHoRQv3Pn1GlziiGuUiV7q677wYry4vWzOpxjs9Vj2JLqaini0amUvvdI4-8TltlNLK54jMIrjdT1Z4I0Qz5pZoO_HXOTUWqRrZGcIEnkYax7enFvg6LZAmydLeS2K3apNk8SPfwajDbkn5h-VvLRczXV_bhZ0aUm9DOSp6mEGxtUF60U4Q3zXwzJbOdmcYXP-UUOJpXI-NGxpp1IU/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.95901125",
@@ -835,7 +833,7 @@
       "jurisdiction": "San Diego city",
       "services": "After-school activities and classes in financial literacy, homebuyer education, resume building, nutrition, and English as a Second Language.",
       "image_url": {
-        "url": "https://previews.dropbox.com/p/thumb/AB28WTT-UzqamAkmgi2m1eNSCBQwHEXpCR2i1l2gtT4NAJ5OKQv5GeoZNOj6-BvEbJ0IpnLGzMHYMRyetnRDEZjqJCRRtZXkQu_Jd3g0Sql98i1qpQnLh8oG9Pu7nzM_GEZ22YWSTeaigIqoUAqKcpP4aUIS9w5kPJolqsLquf-_hd2-jjDHLidCCZzG24hh7WlnngboYfcr2KxyNyuAt36O_TDbSMlXdK-9Z84UuyCq3kOx9j-EcSG7xShOX2D1Qbv7FQbhYcnUZwZxtOGydq1ZiwPBZKxZvVZ2NZ_VZggLsCKcOTbOCcA0qbOBQ1vANTwENIjSYf1OnMwyUnFTWh72DKpi9ym5qD8zIRRbAV6m2r9e5IhKyIxN7OisspyzC3qHF2SgGDjyjt5QWWwCM4XGYgVMEtj6ix-f3f3Fw3MVm6t9py1P-RwhybYNI8qkc7g/p.jpeg"
+        "url": "https://previews.dropbox.com/p/thumb/AB2qmHiLwSKiFd-VSWFD9wivXFUcF6uTfcKarX4U9wqtqg1Ihm73URtGrzYZKi4EfSktyqANeD9ZKV48OkeNgS_ktfKEwnwp_THKECzaE7aJm4z6lfjj90uvfhBz8bB-cYtJgRSZwJg4S49ju7mB31GgRPdguqclTBM4uRjo3uTzvph00yaxtHj0WNbO4dt-pt7iiJ3xk3mVclEPlfd0XXZ9KL3WYTOzYkF4QPdmJS2TKJSdtWBeJFrizncabAv72GnZNQ5C0zLufx_pHwB5tkHDSXZsAtlVXB6jTFwN-klNT4OftWvVXmH5BFKvvsNGehPfM4vmChl1hJ8DbkRZZJ6-Ajl0fjV8K8DZFfoc3V4svmf6-9cGYbFaSXbcx8qMp6YPbf1wUDYshh0wUR99E1xycCDPbT_PYh4BCvxGQwP-VCNrRStUjlRQ7rQUkwzsiHai-M1_RW7Msqu1q5RlHt3gAJ9Wcz4xjFfYzMGFvRW533R_Cdn85Kgw9koyaXcAS9Y/p.jpeg"
       },
       "all_affordable": true,
       "latitude": "32.70998861",
