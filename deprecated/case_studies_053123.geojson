@@ -1,1 +1,2243 @@
-{ "type": "FeatureCollection", "features": [{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.0771732,32.75840389]},"properties":{"jurisdiction":"San Diego city","services":null,"image_url":{"url":"https://live.staticflickr.com/65535/52943880873_a2e2e91ea4_b.jpg"},"all_affordable":true,"latitude":"32.75840389","on_site_services":false,"subregion":"San Diego","total_units":"172","project_tags":"100% Affordable","lot_size_acres_":"0.78","income_level":"Up to 30% AMI","affordable_units":"170","year_completed":null,"by_right_approval":false,"longitude":"-117.0771732","financing_sources":"New Market Tax Credits, Private Partners","density_du_acre_":"218","development_type":"Apartments, Mixed-Use, Supportive Housing","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/6ijd-gc3p/application%2Fpdf"},"address":"5468-5482 El Cajon Blvd, San Diego, CA 92115","innovative_finance":false,"building_height_stories_":"5","special_populations_served":"Health Workers, Homeless","sustainability_awards":null,"architect":"LPA Design Studios","project_name":"PATH Villas El Cerrito","developer_contractor":"PATH Ventures, Highland General Contractors","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.23931463699995,33.19676567500005],[-117.23926138799999,33.19671714100008],[-117.23922054199994,33.196680696000044],[-117.23917932499995,33.19664454700006],[-117.23941947499998,33.19642964600007],[-117.23952090499995,33.19650990900004],[-117.23975744899997,33.196752401000026],[-117.23978272599999,33.19673497300005],[-117.23980802299997,33.19671753000006],[-117.23980858999994,33.196718074000046],[-117.23983286499998,33.19674295900006],[-117.23983357499998,33.19674368900007],[-117.23983668299996,33.19674687500003],[-117.23984622399996,33.19675665500006],[-117.23982201599995,33.19677449900007],[-117.23986429999997,33.196817846000044],[-117.23987383999997,33.19682762600007],[-117.23989000899996,33.19681570800003],[-117.23989804299998,33.196809777000055],[-117.23994994699996,33.19686298500005],[-117.24000176899995,33.19691611600007],[-117.24003616999994,33.19695138600002],[-117.24005359099999,33.19696924700003],[-117.239998018,33.19700762400004],[-117.24004410699996,33.197054872000024],[-117.24013272399998,33.19714571500003],[-117.24012613599996,33.19715026800003],[-117.23998742699996,33.19724625600003],[-117.23997914299997,33.19725162200007],[-117.23997898199997,33.197251735000066],[-117.23995784299996,33.19726258700007],[-117.23995765499996,33.197262667000075],[-117.23993461199996,33.197270769000056],[-117.23991056999995,33.19727577300006],[-117.23991036199999,33.197275803000025],[-117.23988548699998,33.197277703000054],[-117.23986055999995,33.19727637400007],[-117.23986035699994,33.19727635000004],[-117.23983615599997,33.197271896000075],[-117.23982890599996,33.19727001800004],[-117.23981450899998,33.19726599000006],[-117.23978683599995,33.197237622000046],[-117.23973777899994,33.197187332000055],[-117.23968605099998,33.19713429900003],[-117.23963432299996,33.197081264000076],[-117.23958162999998,33.19702724800004],[-117.23954309299995,33.196987741000044],[-117.23952917899999,33.196973540000045],[-117.23952734999995,33.196971674000054],[-117.23947675999995,33.19692082700004],[-117.23942103599995,33.19686619500004],[-117.23931463699995,33.19676567500005]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.241805,33.199529]},"properties":{"jurisdiction":"Vista","services":"After-school program, children's literacy program (running readers), VALOR scholarships, and financial fitness education","image_url":{"url":"https://live.staticflickr.com/65535/52943884178_6f22e3d289_b.jpg"},"all_affordable":true,"latitude":"33.199529","on_site_services":true,"subregion":"North County Inland","total_units":"60","project_tags":"100% Affordable, On-Site Services, Sustainability","lot_size_acres_":"0.68","income_level":"30-60% AMI","affordable_units":"59","year_completed":"2021","by_right_approval":false,"longitude":"-117.241805","financing_sources":"Low Income Housing Tax Credits, City of Vista, Private Partners","density_du_acre_":"88","development_type":"Mixed Use, Apartments","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/phe2-hjnd/application%2Fpdf"},"address":"501-515 S Santa Fe Ave, Vista, CA 92083","innovative_finance":false,"building_height_stories_":"5","special_populations_served":"Veterans, Artists","sustainability_awards":"GreenPoint Rated","architect":"M.W. Steele Group, Schmidt Design Group","project_name":"Paseo Artist Village","developer_contractor":"Community HousingWorks","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.104679267,32.67561841700007],[-117.10503523499995,32.67551799800003],[-117.10506069399997,32.675583337000035],[-117.10508615099997,32.67564867900006],[-117.10511161,32.675714019000054],[-117.10513706899997,32.675779360000035],[-117.10516252599996,32.67584470000003],[-117.10518798799995,32.675910042000055],[-117.10521344699998,32.675975384000026],[-117.10523890599995,32.67604072300003],[-117.10526436399999,32.676106066000045],[-117.10528982299996,32.67617140500005],[-117.10493390199997,32.676271866000036],[-117.10490843699995,32.67620652100004],[-117.10488297499995,32.676141176000044],[-117.10485750999999,32.67607583100005],[-117.10483204899998,32.67601048600005],[-117.10480658399996,32.675945142000046],[-117.10478111899994,32.67587979600006],[-117.10475565699994,32.675814452000054],[-117.10473019399996,32.67574910600007],[-117.10470473199996,32.67568376200006],[-117.104679267,32.67561841700007]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.16004,32.73744]},"properties":{"jurisdiction":"San Diego city","services":null,"image_url":{"url":"https://live.staticflickr.com/65535/52943421366_4acf8e2e51_b.jpg"},"all_affordable":false,"latitude":"32.73744","on_site_services":false,"subregion":"San Diego","total_units":"100","project_tags":"Innovative Financing","lot_size_acres_":"0.3","income_level":"Up to 80% AMI","affordable_units":"11","year_completed":"2022","by_right_approval":false,"longitude":"-117.16004","financing_sources":"Middlemarch Fund, Private Partnership","density_du_acre_":"343.3","development_type":"Apartments (Micro-Units)","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/y7rj-t45r/application%2Fpdf"},"address":"3067 Fifth Ave, San Diego, CA 92103","innovative_finance":true,"building_height_stories_":"8","special_populations_served":"Families, Middle Income, Seniors, Young Professionals,","sustainability_awards":null,"architect":"Stephen Dalton Architects, McCullough Landscape Architecture","project_name":"Secoya","developer_contractor":"Murfey Company, Bishop Ventures","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.15095954999998,32.70554462700005],[-117.15095849,32.70533814300006],[-117.15111589199995,32.70533777000003],[-117.15111600599994,32.70535618400004],[-117.15163331999997,32.70535320600004],[-117.15175702599998,32.70543895800006],[-117.15176076899996,32.70590246800003],[-117.15143570199996,32.70590428000003],[-117.15111938499996,32.70590604300003],[-117.15111859699999,32.70577829900003],[-117.15111825799994,32.70572333100006],[-117.15096046899998,32.70572362900003],[-117.15095954999998,32.70554462700005]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.0122364,32.76896592]},"properties":{"jurisdiction":"La Mesa","services":null,"image_url":{"url":"https://live.staticflickr.com/65535/52943424551_9b58371d13_b.jpg"},"all_affordable":false,"latitude":"32.76896592","on_site_services":false,"subregion":"East County","total_units":"130","project_tags":"By-Right Approval","lot_size_acres_":"4.1","income_level":"Up to 80% AMI","affordable_units":"13","year_completed":"2021","by_right_approval":true,"longitude":"-117.0122364","financing_sources":"Private Partners","density_du_acre_":"31.7","development_type":"Apartments","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/2ej4-hwrj/application%2Fpdf"},"address":"8585 La Mesa Blvd, La Mesa, CA 91942","innovative_finance":false,"building_height_stories_":"3","special_populations_served":"Families","sustainability_awards":null,"architect":"Benson & Bohl Architecture","project_name":"The Haven","developer_contractor":"Silvergate Development","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.15133020399998,32.71641654000007],[-117.15133007999998,32.716305942000076],[-117.15152058799998,32.71630476000007],[-117.151521506,32.716415432000076],[-117.15152206399995,32.716482822000046],[-117.15152264499994,32.71655285000003],[-117.15152309699994,32.71660734900007],[-117.15152378399995,32.71669026700005],[-117.15133051099997,32.71669138100003],[-117.15133035699995,32.716553961000045],[-117.15133020399998,32.71641654000007]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.08637,32.59911]},"properties":{"jurisdiction":"Chula Vista","services":"On-site services for residents with special needs, after-school programs","image_url":{"url":"https://live.staticflickr.com/65535/52943571659_b42ba6b88d_b.jpg"},"all_affordable":true,"latitude":"32.59911","on_site_services":true,"subregion":"South Bay","total_units":"96","project_tags":"100% Affordable, On-Site Services, Sustainability","lot_size_acres_":"2.82","income_level":"30-60% AMI","affordable_units":"95","year_completed":"2023","by_right_approval":false,"longitude":"-117.08637","financing_sources":"No Place Like Home Program, Low Income Housing Tax Credits, County of San Diego, City of Chula Vista, Private Partners","density_du_acre_":"33.7","development_type":"Apartments","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/7w88-spnd/application%2Fpdf"},"address":"748-760 Anita St, Chula Vista, CA 91911","innovative_finance":false,"building_height_stories_":"3","special_populations_served":"Families, Homeless","sustainability_awards":"GreenPoint Rated","architect":"Rodriguez Associates Architects & Planners","project_name":"Casa Anita","developer_contractor":"Wakeland Housing","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.08560495699999,32.59867220700005],[-117.08559904099997,32.598632477000024],[-117.08564660299999,32.598633663000044],[-117.08579868399994,32.59863745700005],[-117.08583567299996,32.59863837900008],[-117.08590264999998,32.59864005000003],[-117.08590357199995,32.59864007400006],[-117.08594246099995,32.59864104300004],[-117.08600915599999,32.59864270700007],[-117.08611924399997,32.59864545200003],[-117.08612514199996,32.598645600000054],[-117.08615313599995,32.59864629800006],[-117.08615369899996,32.59864631200003],[-117.08630866899995,32.598650177000025],[-117.08631152399994,32.59865024800007],[-117.08642876399995,32.59865317200007],[-117.08647349999995,32.598654288000034],[-117.08658987899997,32.59865719000004],[-117.08663484599998,32.598658311000065],[-117.08663539999998,32.59865832500003],[-117.08663530499996,32.598738350000076],[-117.086634447,32.59946684100004],[-117.08660295899995,32.599466058000075],[-117.08618975899998,32.59945578800006],[-117.08615318499994,32.599454879000064],[-117.08592067699999,32.599449099000026],[-117.08571988499995,32.59944410800006],[-117.08571055699997,32.59938145900003],[-117.08568216899994,32.59919079800005],[-117.08564171399996,32.59891908700007],[-117.08560495699999,32.59867220700005]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.1455496,32.6999103]},"properties":{"jurisdiction":"San Diego city","services":null,"image_url":{"url":"https://live.staticflickr.com/65535/52943424521_8a1d91d810_b.jpg"},"all_affordable":true,"latitude":"32.6999103","on_site_services":false,"subregion":"San Diego","total_units":"92","project_tags":"100% Affordable, By-Right Approval, Sustainability","lot_size_acres_":"6.8","income_level":"30-60% AMI","affordable_units":"91","year_completed":"2012","by_right_approval":true,"longitude":"-117.1455496","financing_sources":"New Market Tax Credits, Low Income Housing Tax Credits, San Diego Redevelopment Agency, City of San Diego, San Diego Housing Commission, Private Partners","density_du_acre_":"28.4","development_type":"Apartments, Mixed-Use","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/wrtp-2q9t/application%2Fpdf"},"address":"1985 National Ave, San Diego, CA 92113","innovative_finance":false,"building_height_stories_":"4","special_populations_served":"Families","sustainability_awards":"LEED Certified","architect":"Safdie Rabines Architects, Spurlock Landscape Architects","project_name":"Estrella del Mercado","developer_contractor":"Chelsea Investment Corporation","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.07700933899997,32.75829745200008],[-117.07715887999996,32.75827651000003],[-117.07733393099994,32.758251993000044],[-117.077321687,32.75863137500005],[-117.07715969999998,32.75865893500003],[-117.07701024199997,32.758684362000054],[-117.07685078399999,32.75871148900006],[-117.07681180499998,32.75871724700005],[-117.07679848599997,32.75870936300004],[-117.07678484799999,32.75870188000005],[-117.07677090799996,32.758694803000026],[-117.07675668299999,32.758688138000025],[-117.07674219199998,32.758681901000045],[-117.07672745399998,32.758676093000076],[-117.076712483,32.75867072600005],[-117.07669730099997,32.75866580400003],[-117.07668192599999,32.75866133100004],[-117.07667465399999,32.75866044700007],[-117.07666636899995,32.75865731500005],[-117.07665066099997,32.75865376200005],[-117.07663481299994,32.758650672000044],[-117.07661884999999,32.75864805500004],[-117.07660278699996,32.75864590900005],[-117.07658664399997,32.758644239000034],[-117.07657044399997,32.75864304700008],[-117.07655420299994,32.75864233100003],[-117.07653794299995,32.75864209900004],[-117.07652810799999,32.758642190000046],[-117.07650859199998,32.758642320000035],[-117.07651525199998,32.75836665300005],[-117.07667482899996,32.75834431200008],[-117.07684693399995,32.758320197000046],[-117.07700933899997,32.75829745200008]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.059849,32.950912]},"properties":{"jurisdiction":"Poway","services":"After-school classes for resident children and other learning classes including computer skills and resume building","image_url":{"url":"https://live.staticflickr.com/65535/52943569364_690cb487b4_b.jpg"},"all_affordable":true,"latitude":"32.950912","on_site_services":true,"subregion":"North County Inland","total_units":"52","project_tags":"100% Affordable, On-Site Services","lot_size_acres_":"1.98","income_level":"30-60% AMI","affordable_units":"52","year_completed":"2012","by_right_approval":false,"longitude":"-117.059849","financing_sources":"Low Income Housing Tax Credits, California Municipal Finance Agency bonds, City of Poway, California Community Reinvestment Corporation","density_du_acre_":"26.3","development_type":"Apartments","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/ubfn-v7jg/application%2Fpdf"},"address":"12510 Oak Knoll Rd, Poway, CA 92064","innovative_finance":false,"building_height_stories_":"2","special_populations_served":"Families","sustainability_awards":null,"architect":null,"project_name":"Orange Garden","developer_contractor":"Affirmed Housing, Masson Associates","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.13896573399995,32.75464086900007],[-117.13896362799994,32.754159669000046],[-117.13941851899995,32.75415803000004],[-117.13942060599999,32.75463926200007],[-117.13896573399995,32.75464086900007]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.3394112,33.15556044]},"properties":{"jurisdiction":"Carlsbad","services":"Dedicated case management to assess individual needs and programs intended to improve housing retention, health, education and employment/career opportunities","image_url":{"url":"https://live.staticflickr.com/65535/52943569034_0d806c8729_b.jpg"},"all_affordable":true,"latitude":"33.15556044","on_site_services":true,"subregion":"North County Coastal","total_units":"50","project_tags":"100% Affordable, Innovative Financing, On-Site Services, Sustainability","lot_size_acres_":"0.97","income_level":"25-60% AMI","affordable_units":"50","year_completed":"2022","by_right_approval":false,"longitude":"-117.3394112","financing_sources":"Low Income Housing Tax Credits, County of San Diego No Place Like Home funds, City of Carlsbad, Private Partners","density_du_acre_":"51.5","development_type":"Apartments, Supportive Housing","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/b4jr-6t2j/application%2Fpdf"},"address":"3606 Harding St and 965 Oak Ave, Carlsbad, CA 91950","innovative_finance":true,"building_height_stories_":"3","special_populations_served":"Homeless with Severe Mental Illness, Veterans","sustainability_awards":"GreenPoint Rated","architect":"Dahlin Group Architecture","project_name":"Windsor Pointe","developer_contractor":"Affirmed Housing","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.33922239099991,33.15525249100011],[-117.33922275999993,33.15525232100009],[-117.33922942199996,33.1552625540001],[-117.33925402399996,33.15530033700014],[-117.3392792699999,33.15533911300014],[-117.33932903999994,33.15541555000016],[-117.3394286109999,33.15556847200003],[-117.33889020099997,33.15581640900001],[-117.33879062099999,33.15566349000005],[-117.3387736229999,33.15563738600002],[-117.33875000599994,33.15559124000015],[-117.33870551399997,33.15549057800018],[-117.33870792699997,33.15548946600006],[-117.33922239099991,33.15525249100011]]],[[[-117.34213451226566,33.16165023396218],[-117.34175688246398,33.16119525712389],[-117.3418829755247,33.16112214885993],[-117.34200310437939,33.16105249617402],[-117.34239100665815,33.16153500386628],[-117.34239064689933,33.1615352084699],[-117.34219956103618,33.1616438833978],[-117.34216348215,33.161633207255704],[-117.34213451226566,33.16165023396218]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.0089774,32.78386824]},"properties":{"jurisdiction":"La Mesa","services":null,"image_url":{"url":"https://live.staticflickr.com/65535/52942821352_59d48ae380_b.jpg"},"all_affordable":false,"latitude":"32.78386824","on_site_services":false,"subregion":"East County","total_units":"527","project_tags":"Sustainability","lot_size_acres_":"8","income_level":"Up to 80% AMI","affordable_units":"80","year_completed":"2019","by_right_approval":false,"longitude":"-117.0089774","financing_sources":"La Mesa Community Redevelopment Agency, San Diego Metropolitan Transit System, City of La Mesa","density_du_acre_":"66","development_type":"Apartments","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/nqwc-h992/application%2Fpdf"},"address":"8727 Fletcher Pkwy, La Mesa, CA 91942","innovative_finance":false,"building_height_stories_":"4","special_populations_served":null,"sustainability_awards":null,"architect":null,"project_name":"The District","developer_contractor":"Fairfield Residential","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.00986953799998,32.78332154800006],[-117.00984360899997,32.783062391000044],[-117.00984215199998,32.78297917800006],[-117.00984212799995,32.78297487100008],[-117.00984532299998,32.78291521700004],[-117.00985590399995,32.78285617600005],[-117.00987375199998,32.78279839600003],[-117.00989867199996,32.78274251600004],[-117.00993038999997,32.78268914900008],[-117.00996855499994,32.78263888500004],[-117.01001274699996,32.78259227800004],[-117.01006247999999,32.78254984100005],[-117.01011720399998,32.782512041000075],[-117.01017631799999,32.78247929500003],[-117.01052652299995,32.78230679300003],[-117.01062551599995,32.78227523700008],[-117.01076713999998,32.782216693000066],[-117.01104793299999,32.78209373400006],[-117.01125496999998,32.78200755100005],[-117.01147338399994,32.78186314000004],[-117.01190710499998,32.78229204200005],[-117.01190264699994,32.78231607200007],[-117.01185650999997,32.78236829700006],[-117.01171736199996,32.782476734000056],[-117.01157441199996,32.782581583000024],[-117.01142778699995,32.782682746000035],[-117.01127762299996,32.78278013500005],[-117.011106386,32.78284384800003],[-117.01093808099995,32.78293991600003],[-117.01076616699999,32.78303131100006],[-117.01059082499995,32.78311793600005],[-117.01041224199997,32.78319969900008],[-117.01023060499995,32.78327651400008],[-117.01004610899997,32.78334830000006],[-117.00992759999997,32.78339245300003],[-117.00986953799998,32.78332154800006]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.1003085,32.75626413]},"properties":{"jurisdiction":"San Diego city","services":"Comprehensive resident services including meals for seniors","image_url":{"url":"https://live.staticflickr.com/65535/52944177748_997166bcfe_b.jpg"},"all_affordable":true,"latitude":"32.75626413","on_site_services":false,"subregion":"San Diego","total_units":"190","project_tags":"100% Affordable","lot_size_acres_":"1.6","income_level":"Up to 60% AMI","affordable_units":"190","year_completed":"2022","by_right_approval":false,"longitude":"-117.1003085","financing_sources":"Innovative Housing Trust Fund, HOME Investment Partnerships Program, County of San Diego, San Diego Housing Commission, City of San Diego, Private Partners","density_du_acre_":"118.8","development_type":"Apartments","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/tpty-n9nw/application%2Fpdf"},"address":"4340 44th St, San Diego, CA 92115","innovative_finance":false,"building_height_stories_":"5","special_populations_served":"Families, Homeless, Seniors, Veterans","sustainability_awards":null,"architect":"Rob Wellington Quigley Architects, Studio E Architects","project_name":"Mid-City Family and Senior","developer_contractor":"Chelsea Investment Corporation, Price Philanthropies Foundation","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.08171154499996,32.64271155600005],[-117.08208741599998,32.64261007400006],[-117.08227639199998,32.64309272600008],[-117.08189803799996,32.64319678000004],[-117.08171154499996,32.64271155600005]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.15648,32.71541]},"properties":{"jurisdiction":"San Diego city","services":"On-site services for transition-age youth and adults through two Full-Service Partnership providers","image_url":{"url":"https://live.staticflickr.com/65535/52943568159_3cde0a6d75_b.jpg"},"all_affordable":true,"latitude":"32.71541","on_site_services":true,"subregion":"San Diego","total_units":"250","project_tags":"100% Affordable, Innovative Financing, On-Site Services, Sustainability","lot_size_acres_":"0.57","income_level":"30-60% AMI","affordable_units":"250","year_completed":"2015","by_right_approval":false,"longitude":"-117.15648","financing_sources":"Local Development Agency funds, Low Income Housing Tax Credits, Mental Health Services Act, City of San Diego/Civic San Diego, County of San Diego, San Diego Housing Commission, Private Partners","density_du_acre_":"438.6","development_type":"Apartments, Single-Room Occupancy","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/rm3x-wyr5/application%2Fpdf"},"address":"929 Ninth Ave, San Diego, CA 92101","innovative_finance":true,"building_height_stories_":"17","special_populations_served":"People with Mentall Illness, Seniors, Transition-Age Youth","sustainability_awards":"LEED Gold","architect":"Studio E Architects, SVA Architects, Spurlock Landscape Architects","project_name":"Celadon","developer_contractor":"BRIDGE Housing, Turner Construction","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.15606531999998,32.71506912600006],[-117.15606416699995,32.71493151200008],[-117.15638998199995,32.714929862000076],[-117.15639317699998,32.71534275700003],[-117.15639530699997,32.71561802200006],[-117.15606992999994,32.71561958600006],[-117.15606899,32.715483189000054],[-117.15606762499999,32.71534435700005],[-117.15606739599997,32.71531687300006],[-117.15606647299995,32.71520674100003],[-117.15606635299997,32.715192554000055],[-117.15606531999998,32.71506912600006]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.081996,32.642935]},"properties":{"jurisdiction":"Chula Vista","services":"Family Health Centers medical services","image_url":{"url":"https://live.staticflickr.com/65535/52943566164_b0b0143f7c_b.jpg"},"all_affordable":true,"latitude":"32.642935","on_site_services":true,"subregion":"South Bay","total_units":"33","project_tags":"100% Affordable, Innovative Financing, On-Site Services, Sustainability","lot_size_acres_":"2.3","income_level":"30-60% AMI","affordable_units":"33","year_completed":"2015","by_right_approval":false,"longitude":"-117.081996","financing_sources":"HOME Investment Partnerships Program Funds, Low Income Housing Tax Credits, City of Chula Vista Community Development Block Grant funds, Family Health Centers, Private Partners","density_du_acre_":"14.3","development_type":"Apartments","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/rnj6-v7ns/application%2Fpdf"},"address":"240 Landis Ave, Chula Vista, CA 91910","innovative_finance":true,"building_height_stories_":"5","special_populations_served":"Families","sustainability_awards":"LEED Platinum","architect":"Rodriguez Associates Architects & Planners","project_name":"Lofts on Landis","developer_contractor":"Wakeland Housing, Family Health Centers","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.01173157599999,32.76829807100006],[-117.01186798399999,32.76827677800003],[-117.01184740899998,32.76772995600004],[-117.01266380599998,32.76772490500008],[-117.01267528199998,32.767961212000046],[-117.01309488899994,32.76795586700007],[-117.01309083799998,32.76785969800005],[-117.01344862599996,32.767857485000036],[-117.01345660499999,32.76802784200004],[-117.01346432899999,32.76816796600008],[-117.01347204999996,32.76830809200004],[-117.01348369099998,32.76852515000007],[-117.01331817099998,32.76857014900003],[-117.01311698699999,32.76862911400008],[-117.011936161,32.769012951000036],[-117.01186155599999,32.76903814800005],[-117.01175612999998,32.768884883000055],[-117.01173157599999,32.76829807100006]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.138914,32.754158]},"properties":{"jurisdiction":"San Diego city","services":"San Diego LGBT Community Center: culturally sensitive resources and referrals for health care, social services, and community activities including game days, writing classes, and educational workshops","image_url":{"url":"https://live.staticflickr.com/65535/52942817932_63f56fc7ef_b.jpg"},"all_affordable":true,"latitude":"32.754158","on_site_services":true,"subregion":"San Diego","total_units":"76","project_tags":"100% Affordable, On-Site Services, Sustainability","lot_size_acres_":"1.77","income_level":"50-60% AMI","affordable_units":"75","year_completed":"2017","by_right_approval":false,"longitude":"-117.138914","financing_sources":"Federal Home Loan Bank Affordable Housing Program, HOME Investment Partnerships Program Funds, City of San Diego Inclusionary Housing funds, San Diego Housing Commission, Private Partners","density_du_acre_":"136","development_type":"Apartments, Single-Room Occupancy","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/p2fp-rm4s/application%2Fpdf"},"address":"4200 Texas St, San Diego, CA 92104","innovative_finance":false,"building_height_stories_":"5","special_populations_served":"LGBT, Seniors","sustainability_awards":"LEED Gold","architect":"Rodriguez Associates Architects & Planners, Bowman","project_name":"North Park Seniors","developer_contractor":"Community HousingWorks","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.34406486499995,33.21527877300008],[-117.34402108799998,33.215234559000066],[-117.34413586599999,33.214942834000055],[-117.34420998399997,33.21485142500006],[-117.34418763899998,33.21483624700005],[-117.34416851999998,33.214818222000076],[-117.34415313199997,33.214797830000066],[-117.34414187999994,33.21477561000006],[-117.34413506599998,33.21475215000004],[-117.34413286599994,33.21472807300006],[-117.34413534199996,33.21470401400006],[-117.34414242699995,33.21468061100006],[-117.34415393399996,33.21465848400004],[-117.34416955699999,33.21463821700007],[-117.34410003999994,33.21456764000004],[-117.34480801999996,33.21407491200006],[-117.34619209099998,33.213105889000076],[-117.34655380099997,33.21285263800007],[-117.34657575099999,33.21287479000006],[-117.34663128499994,33.212884243000076],[-117.34664419899997,33.21287520200008],[-117.34669441799997,33.21292588500006],[-117.34672237899997,33.212906307000026],[-117.34675953399994,33.21291563700004],[-117.34680105099994,33.212936367000054],[-117.34687230299994,33.21301803500006],[-117.346898668,33.21300178100006],[-117.34707076199999,33.21317652000005],[-117.34707739399994,33.21319461600007],[-117.34707292899998,33.21323451100005],[-117.34709449699994,33.21327003000005],[-117.34712282999999,33.21328345200004],[-117.34714853099996,33.21330020600004],[-117.34717104899994,33.21331993100006],[-117.34728831799998,33.21343898300006],[-117.34754479699996,33.21369935900003],[-117.34603138299997,33.214752686000054],[-117.34536664799998,33.21521532500003],[-117.34532961999997,33.21521254600003],[-117.34528476899999,33.21524376100007],[-117.34524320099996,33.21527269100005],[-117.34520439899995,33.215299696000045],[-117.34515677999997,33.21533283700006],[-117.34515409,33.21535941800005],[-117.34515366599999,33.21536361700004],[-117.34431275999998,33.21595187100007],[-117.34386151399997,33.215496106000046],[-117.34385780299999,33.215423618000045],[-117.34406486499995,33.21527877300008]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-116.96298,32.61655]},"properties":{"jurisdiction":"Chula Vista","services":"Adult education and skills classes including computer literacy, English as a Second Language, art, job counseling, financial literacy and health and wellness","image_url":{"url":"https://live.staticflickr.com/65535/52943881233_10c1848f3f_b.jpg"},"all_affordable":true,"latitude":"32.61655","on_site_services":true,"subregion":"South Bay","total_units":"200","project_tags":"100% Affordable, By-Right Approval, On-Site Services","lot_size_acres_":"3.07","income_level":"30-60% AMI","affordable_units":"198","year_completed":null,"by_right_approval":true,"longitude":"-116.96298","financing_sources":"Low Income Housing Tax Credits, City of Chula Vista bonds/notes, Chula Vista Housing Authority, Private Partners","density_du_acre_":"65.1","development_type":"Apartments, Master Plan","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/bksp-t2ca/application%2Fpdf"},"address":"Northwest Corner of Solistice Ave and Optima St, Chula Vista, CA 1915","innovative_finance":false,"building_height_stories_":"5","special_populations_served":"Families","sustainability_awards":null,"architect":"Joseph Wong Design Associates, GMP Landscape Architecture","project_name":"Columba","developer_contractor":"Chelsea Investment Corporation, Emmerson Construction","geometry":{"type":"MultiPolygon","coordinates":[[[[-116.96295972499996,32.616914594000036],[-116.96405194199997,32.61660664100003],[-116.96442898599997,32.617564422000044],[-116.96441809099997,32.61758285700006],[-116.96438763699996,32.61760081600005],[-116.96435134499995,32.617620104000025],[-116.96431304299995,32.617636369000024],[-116.96427308099999,32.617649465000056],[-116.96408689699996,32.61770196000003],[-116.964078686,32.61768110000003],[-116.96361653599996,32.61781140200003],[-116.96362474799997,32.617832261000046],[-116.96335130999995,32.61790935600004],[-116.96295972499996,32.616914594000036]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.106402,32.584256]},"properties":{"jurisdiction":"Imperial Beach","services":null,"image_url":{"url":"https://live.staticflickr.com/65535/52943880843_72103a3e79_b.jpg"},"all_affordable":true,"latitude":"32.584256","on_site_services":false,"subregion":"South Bay","total_units":"30","project_tags":"100% Affordable, Sustainability","lot_size_acres_":"0.4","income_level":"50-60% AMI","affordable_units":"29","year_completed":"2013","by_right_approval":false,"longitude":"-117.106402","financing_sources":"Imperial Beach Redevelopment Agency, Hitzke Development Corporation","density_du_acre_":"75","development_type":"Mixed Use, Apartments","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/bjzc-q95p/application%2Fpdf"},"address":"1252-1268 Palm Ave, Imperial Beach, CA 91932","innovative_finance":false,"building_height_stories_":"4","special_populations_served":"Seniors, Veterans","sustainability_awards":"LEED Platinum","architect":"FoundationForForm","project_name":"The Post","developer_contractor":"Hitzke Development Corporation, Cascade Housing, SWS Engineering","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.10631947699994,32.58439939400006],[-117.10632071299995,32.58408308500003],[-117.10649697099996,32.58408355500006],[-117.10680771299997,32.58408438400005],[-117.10680641099998,32.58440088800006],[-117.10649457899996,32.584399931000064],[-117.10631947699994,32.58439939400006]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.104896,32.676256]},"properties":{"jurisdiction":"National City","services":null,"image_url":{"url":"https://live.staticflickr.com/65535/52943567059_01913b1980_b.jpg"},"all_affordable":true,"latitude":"32.676256","on_site_services":false,"subregion":"South Bay","total_units":"127","project_tags":"Innovative Financing","lot_size_acres_":"0.75","income_level":"80-110% AMI","affordable_units":"97","year_completed":"2021","by_right_approval":false,"longitude":"-117.104896","financing_sources":"Private Partnership","density_du_acre_":"169.3","development_type":"Co-Living Units","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/dpvz-cjv8/application%2Fpdf"},"address":"800 B Ave, National City, CA 91950","innovative_finance":true,"building_height_stories_":"8","special_populations_served":null,"sustainability_awards":null,"architect":"The Miller Hull Partnership, McCullough Landscape Architecture","project_name":"Parco","developer_contractor":"Malick Infill, Cannon Constructors","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.10526970999996,32.665287456000044],[-117.10525315499996,32.66527459800005],[-117.10524356699995,32.66527729500007],[-117.10520829699999,32.665287214000045],[-117.10506545699997,32.664920245000076],[-117.10471199399996,32.664014972000075],[-117.10466204599999,32.663886707000074],[-117.10444423199999,32.663327356000025],[-117.10444079399997,32.663315114000056],[-117.10443984999995,32.663302556000076],[-117.10444142799997,32.663290044000064],[-117.10444548299995,32.66327793800008],[-117.10445189699999,32.66326658500003],[-117.10446048699998,32.663256312000044],[-117.104471005,32.66324741400007],[-117.10448314999996,32.66324014800006],[-117.10449657099997,32.66323472100004],[-117.10450017099998,32.66323364400006],[-117.10457508699994,32.66321282100006],[-117.10517134599996,32.66304652400004],[-117.10530458299996,32.66300810700005],[-117.10539491999998,32.662982062000026],[-117.10584530899996,32.66285219700006],[-117.10620826899998,32.66275348200003],[-117.10632865199995,32.66272001900006],[-117.10633173899998,32.66271916000005],[-117.10635647199996,32.66278249900006],[-117.106287238,32.66294693200007],[-117.10628691,32.66294771300005],[-117.10591606599996,32.66393467300003],[-117.10579289999998,32.66421633600004],[-117.10578312599995,32.664240206000045],[-117.10561905799995,32.664640818000066],[-117.10561604499998,32.664648175000025],[-117.10557942899999,32.664737581000054],[-117.105559057,32.66478732400003],[-117.10552077199998,32.66488080600004],[-117.10534925999997,32.665332972000044],[-117.10530189399998,32.66542667700003],[-117.10529601399998,32.665411619000054],[-117.10530288499996,32.66539351800003],[-117.10530619899998,32.66537471500004],[-117.10530586999994,32.66535570700006],[-117.10530190599997,32.66533699400003],[-117.10529441099999,32.665319072000045],[-117.10528358399995,32.665302412000074],[-117.10526970999996,32.665287456000044]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.1434564,32.70488695]},"properties":{"jurisdiction":"San Diego city","services":"Lindsay Community School/Lindsay Early Learning Academy (educational and childcare support); Mental health services, emergency assistance with food and clothing, independent living skills development, and employment services for transition-age youth","image_url":{"url":"https://live.staticflickr.com/65535/52943567809_4fe417d9be_b.jpg"},"all_affordable":true,"latitude":"32.70488695","on_site_services":true,"subregion":"San Diego","total_units":"200","project_tags":"100% Affordable, Innovative Financing, On-Site Services, Sustainability","lot_size_acres_":"4","income_level":"30-60% AMI","affordable_units":"197","year_completed":"2015","by_right_approval":false,"longitude":"-117.1434564","financing_sources":"HOME Investment Partnerships Program, Mental Health Service Act, Multifamily Housing Revenue Bonds, Section 202 Supportive Housing for Elderly Program, County of San Diego, City of San Diego/Civic San Diego, San Diego Housing Commission, San Diego Unified School District, Private Partners","density_du_acre_":"50","development_type":"Apartments, Supportive Housing","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/37hj-ngdb/application%2Fpdf"},"address":"2225 Commercial St, San Diego, CA 92113","innovative_finance":true,"building_height_stories_":"4","special_populations_served":"Families, Homeless, Seniors, People with a Disability, Transition-Age Youth","sustainability_awards":"LEED Silver (targeted)","architect":"MVE and Partners, Form/work","project_name":"COMM22","developer_contractor":"BRIDGE Housing, Metropolitan Area Advisory Committee on Anti-Poverty, Cannon Constructors","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.06072144599995,32.71007932400005],[-117.06072291699996,32.70987607600006],[-117.06063847299998,32.70988487600005],[-117.06063974199998,32.709670419000076],[-117.06080211799997,32.70965162500005],[-117.06095149999999,32.709634333000054],[-117.06111388999994,32.70961554200005],[-117.06127933399995,32.70959639400007],[-117.06144512699996,32.70957720400003],[-117.06160093299997,32.70955917200007],[-117.06176637799996,32.709540022000056],[-117.06192892299998,32.70952120700008],[-117.06192683499995,32.70963728400005],[-117.06192663999997,32.70993263200006],[-117.06176383899998,32.709952444000066],[-117.06160167999997,32.70997218100007],[-117.06143629299999,32.709992310000075],[-117.06128038799994,32.710011285000064],[-117.06111474999994,32.71003144400004],[-117.06111477199994,32.71004243800007],[-117.06095231899997,32.71006220900006],[-117.06095229899995,32.71005121600007],[-117.06080302699996,32.71006938000005],[-117.06072144599995,32.71007932400005]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.0407307,32.95901125]},"properties":{"jurisdiction":"Poway","services":"Financial fitness class, homeownership counseling and education, job training and vocational opportunities, support for continuing education, Neighborhood Civic Leadership Program, youth leadership scholarship program","image_url":{"url":"https://live.staticflickr.com/65535/52943810925_519ea6bd6f_b.jpg"},"all_affordable":true,"latitude":"32.95901125","on_site_services":true,"subregion":"North County Inland","total_units":"56","project_tags":"100% Affordable, Innovative Financing, On-Site Services, Sustainability","lot_size_acres_":"2.5","income_level":"30-60% AMI","affordable_units":"56","year_completed":"2007","by_right_approval":false,"longitude":"-117.0407307","financing_sources":"Low Income Housing Tax Credits, Solar Energy Rebate, Utility Tax Reimbursement, County of San Diego HOME funds, City of Poway Redevelopment Agency, Private Partners","density_du_acre_":"22.4","development_type":"Apartments","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/rj63-7hnd/application%2Fpdf"},"address":"13414 Community Rd, Poway, CA 92064","innovative_finance":true,"building_height_stories_":"2","special_populations_served":"Families","sustainability_awards":null,"architect":"Rodriguez Associates Architects & Planners, Ivy Landscape Architects","project_name":"Solara","developer_contractor":"Community HousingWorks","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.15988979699995,32.73728594600004],[-117.16021512699996,32.737283535000074],[-117.16021627399999,32.73742165600004],[-117.16021741699996,32.73755977700006],[-117.16015086299996,32.73756019100006],[-117.15989199099994,32.73756180100003],[-117.15989089199996,32.73742387200008],[-117.15989002999999,32.737315515000034],[-117.15988979699995,32.73728594600004]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.151799,32.705528]},"properties":{"jurisdiction":"San Diego city","services":"Social/behavioral health services including mental and physical health care, substance abuse services, employment and on-the-job placement and training, education assistance, and financial counseling","image_url":{"url":"https://live.staticflickr.com/65535/52943566114_f810950fa6_b.jpg"},"all_affordable":true,"latitude":"32.705528","on_site_services":true,"subregion":"San Diego","total_units":"407","project_tags":"100% Affordable, Innovative Financing, On-Site Services","lot_size_acres_":"6.7","income_level":"Up to 60% AMI","affordable_units":"407","year_completed":"2022","by_right_approval":false,"longitude":"-117.151799","financing_sources":"Affordable Housing and Sustainable Communities Grant, County of San Diego No Place Like Home Program, Supportive Homes Multifamily Housing Program, Veterans Housing and Homelessness Prevention Program, San Diego Housing Commission, Private Partners","density_du_acre_":"60.7","development_type":"Apartments, Transitional Housing","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/94jw-9i8m/application%2Fpdf"},"address":"1 14th St, San Diego, CA 92101","innovative_finance":true,"building_height_stories_":"14","special_populations_served":"Homeless, Families, People with Disabilities, Seniors, Veterans","sustainability_awards":"LEED Gold (targeted)","architect":"Joseph Wong Design Associates, GMP Landscape Architecture","project_name":"Saint Teresa of Calcutta Villa","developer_contractor":"Chelsea Investment Corporation, Father Joe's Villages, Level 10 Construction","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.19352279199995,33.10311936700003],[-117.19325178899999,33.10322681900004],[-117.19319993499994,33.10330272300007],[-117.19299669099996,33.10347093000007],[-117.19294985299996,33.10353053100005],[-117.19290950399994,33.103672182000025],[-117.19306461099995,33.103967873000045],[-117.19255301799996,33.10405904700008],[-117.19195989399998,33.10410604500004],[-117.19123843699998,33.103852363000044],[-117.19157673699999,33.103300743000034],[-117.19179564999996,33.103091439000025],[-117.19199096299997,33.102959860000055],[-117.19220271899997,33.10263698400007],[-117.19210100999999,33.102493182000046],[-117.19219886199994,33.102155193000044],[-117.19219911299996,33.102154331000065],[-117.19238744699999,33.10215244500006],[-117.19239016699999,33.102152396000065],[-117.19239159099999,33.10215240200006],[-117.192393015,33.10215242700008],[-117.19239443899994,33.10215247300005],[-117.19239586099997,33.102152543000045],[-117.19239657299994,33.102152587000035],[-117.19239728199994,33.102152630000035],[-117.19239870099995,33.102152741000054],[-117.19240011999995,33.102152870000054],[-117.19240153099997,33.10215302200004],[-117.19240223799994,33.10215310700005],[-117.19240294399998,33.10215319200006],[-117.19240434799997,33.102153385000065],[-117.19240575299995,33.102153599000076],[-117.19240714799997,33.102153834000035],[-117.19240784399994,33.10215396000007],[-117.19240854099996,33.10215408700003],[-117.19240992499999,33.10215436200008],[-117.19241130699999,33.10215465700003],[-117.19241268199994,33.10215497000007],[-117.19241404999997,33.10215530600004],[-117.19241541299999,33.10215566200003],[-117.19241676599995,33.10215603900008],[-117.19241743699996,33.10215623700003],[-117.19241810799997,33.10215643300006],[-117.19241944499998,33.10215684900004],[-117.19242077599995,33.102157281000075],[-117.19242209299995,33.10215773600004],[-117.19242340099999,33.10215820900004],[-117.19242470299997,33.102158702000054],[-117.19242599199998,33.10215921200006],[-117.19242726799996,33.10215974700003],[-117.19242790499999,33.10216002200008],[-117.19242853399999,33.102160292000065],[-117.19242979199998,33.10216085900004],[-117.19243103499997,33.102161444000046],[-117.19243226599997,33.102162048000025],[-117.19243348499998,33.10216267100003],[-117.19243408499995,33.10216299000007],[-117.19243468999997,33.10216331000004],[-117.19243587899996,33.10216396900006],[-117.19243705899999,33.10216464100006],[-117.19243822199996,33.10216533400006],[-117.19243879699997,33.102165686000035],[-117.19243937299996,33.10216604200008],[-117.19244050399999,33.10216677000005],[-117.19244162499996,33.10216751200005],[-117.19244272799995,33.102168273000075],[-117.19244326999996,33.10216865900003],[-117.19244381599998,33.10216904500004],[-117.19244488599998,33.10216983400005],[-117.19244594299994,33.102170639000065],[-117.19244698099999,33.10217146200006],[-117.19244748799997,33.10217188100006],[-117.19244800099995,33.10217229800003],[-117.19244900399997,33.102173151000045],[-117.19244998899995,33.102174020000064],[-117.19245095499997,33.102174897000054],[-117.19245142999995,33.102175344000045],[-117.19245190599997,33.102175791000036],[-117.19245283299995,33.10217670000003],[-117.19245374799999,33.102177622000056],[-117.19245463899995,33.10217855800005],[-117.19245507499994,33.10217903300003],[-117.19245551199998,33.10217950500004],[-117.19245636399995,33.10218046500006],[-117.19245719799994,33.10218143800006],[-117.19245760499996,33.102181932000065],[-117.19245800899995,33.102182424000034],[-117.19245880599999,33.10218342100006],[-117.19245957199996,33.10218443200006],[-117.19245994599999,33.10218493800005],[-117.19246032299998,33.102185449000046],[-117.19246104999996,33.10218648000006],[-117.19246175999996,33.10218751800005],[-117.19246244399994,33.10218856900008],[-117.19246277599996,33.10218910200007],[-117.19246310899996,33.10218963300008],[-117.19246374999994,33.102190703000076],[-117.19246436899999,33.10219178400007],[-117.19246496599999,33.10219287600006],[-117.19246525199998,33.10219342100004],[-117.19246553899995,33.10219397100008],[-117.19246608999998,33.102195074000065],[-117.19246661699998,33.10219618900004],[-117.19246712299997,33.102197309000076],[-117.19246736399998,33.10219787400007],[-117.19246760399994,33.10219843800007],[-117.19246806399997,33.102199573000064],[-117.19246849799998,33.10220071500004],[-117.19246890899996,33.10220186400005],[-117.19246910399994,33.10220243900005],[-117.19246929699995,33.10220301800007],[-117.19246965899998,33.10220417700003],[-117.19246999799998,33.10220534300004],[-117.19247031399999,33.10220651100008],[-117.192470604,33.10220768600004],[-117.19247686799997,33.10223416900004],[-117.19248074999996,33.102249853000046],[-117.19248495299996,33.10226547600007],[-117.19248948299997,33.10228104000004],[-117.19249433199997,33.102296532000025],[-117.19249950299997,33.10231195000006],[-117.19250499499998,33.10232729100005],[-117.19251080199996,33.102342548000024],[-117.19251692399996,33.102357719000054],[-117.19252335999994,33.102372796000054],[-117.19253010599999,33.10238777600006],[-117.19253716399999,33.10240265700003],[-117.19254452599995,33.10241742900007],[-117.19255220099996,33.10243208900005],[-117.19256017199996,33.10244663700007],[-117.19256844399996,33.10246106900007],[-117.19257701699996,33.10247537600003],[-117.19258588499997,33.102489551000076],[-117.19259504299998,33.10250359500003],[-117.19260449199999,33.10251750500004],[-117.19261422699998,33.10253127200008],[-117.19262425,33.10254489400006],[-117.19263454999998,33.10255836600004],[-117.19264512599995,33.102571684000054],[-117.19265598199996,33.10258484700006],[-117.19266710699998,33.10259784800007],[-117.19267849899995,33.102610681000044],[-117.19269015499998,33.102623348000066],[-117.19270207799997,33.10263584000006],[-117.19271424699997,33.10264815700003],[-117.19272667599995,33.102660290000074],[-117.19273935399997,33.10267224100005],[-117.19275227799994,33.102684002000046],[-117.19276544499996,33.10269557500004],[-117.19277884899998,33.10270695000003],[-117.19279248799995,33.10271812600007],[-117.19280635799998,33.10272910300006],[-117.19282045299997,33.10273987200003],[-117.19283476199996,33.10275043200005],[-117.19284929399998,33.102760782000075],[-117.19286403599995,33.10277091700004],[-117.19287898799996,33.102780832000064],[-117.19289414199994,33.102790526000035],[-117.19290949499998,33.102799996000044],[-117.19292504699996,33.102809241000045],[-117.19294077999996,33.102818255000045],[-117.19295670199995,33.102827036000065],[-117.19297280199999,33.10283558200007],[-117.19298907899997,33.10284389100008],[-117.19300552299995,33.10285195900008],[-117.19302213399999,33.10285978400003],[-117.19303890199996,33.10286736200004],[-117.19305582799996,33.10287469600007],[-117.19307290199998,33.10288177800004],[-117.19309012299999,33.102888611000026],[-117.19310747799994,33.10289518900004],[-117.19312497099997,33.10290150800006],[-117.19314258899999,33.10290757300004],[-117.19316033099994,33.102913374000025],[-117.19318055999997,33.10291962900004],[-117.19318217799997,33.10292010100005],[-117.19318379399999,33.10292057200007],[-117.19318704199998,33.102921466000055],[-117.19318867599998,33.10292189000006],[-117.19319030999998,33.10292231200003],[-117.19319359499997,33.10292311200004],[-117.19319689799994,33.10292386100008],[-117.19319855699996,33.10292421200006],[-117.19320021399994,33.102924562000055],[-117.19320354399997,33.102925216000074],[-117.19320521699996,33.10292551800006],[-117.19320688499994,33.10292582000005],[-117.19321024199996,33.10292637400005],[-117.19321360999999,33.10292687800006],[-117.19321529799998,33.10292710700003],[-117.19321698299996,33.10292733400007],[-117.19322036899996,33.10292773700007],[-117.19322206599998,33.102927916000056],[-117.19322376299999,33.10292809600003],[-117.19322716599999,33.10292840000005],[-117.19323057099996,33.102928657000064],[-117.19323227699999,33.10292876200003],[-117.19323397999995,33.102928865000024],[-117.19323739799995,33.10292902000003],[-117.19324081499997,33.10292912600005],[-117.19324252299998,33.10292915200006],[-117.193244231,33.10292917900006],[-117.19324765299996,33.10292918600004],[-117.19324936399994,33.102929165000035],[-117.19325107199995,33.10292914100006],[-117.19325448999996,33.10292904700003],[-117.19325619699998,33.10292897000005],[-117.19325790399995,33.10292889900006],[-117.19326131699995,33.10292870500007],[-117.19326301699999,33.10292858300005],[-117.19326472099999,33.102928460000044],[-117.19326812299994,33.10292816500004],[-117.19327151899995,33.10292781700008],[-117.19327321199995,33.10292762000006],[-117.19327490499995,33.10292742300004],[-117.19327828399997,33.10292698000006],[-117.19327996599998,33.102926730000036],[-117.19328165199994,33.10292648400008],[-117.19328500899996,33.102925939000045],[-117.19328668499998,33.10292564300005],[-117.19328835599998,33.10292534700005],[-117.19329168999997,33.10292470400003],[-117.19329500999999,33.10292401300006],[-117.19329666299996,33.10292364400004],[-117.19329831399995,33.102923274000034],[-117.19330160299995,33.10292248400003],[-117.19330324199996,33.102922068000055],[-117.19330487399998,33.10292164900005],[-117.19330812999999,33.10292076400003],[-117.19331136499994,33.102919832000055],[-117.19331297299999,33.102919342000064],[-117.19331457799996,33.10291885300006],[-117.19331777399998,33.102917826000066],[-117.19331936099996,33.10291728900006],[-117.19332094599997,33.102916752000056],[-117.19332409799995,33.102915635000045],[-117.19332566299994,33.10291504700007],[-117.19332722399997,33.10291446700006],[-117.19333032599997,33.10291325400004],[-117.19333340299994,33.102911998000025],[-117.19333492999999,33.10291134700003],[-117.19333645199998,33.10291069700003],[-117.19333947399997,33.10290935000006],[-117.19334096799997,33.10290865400003],[-117.19334246599999,33.10290795800006],[-117.19334543199994,33.10290652500004],[-117.19334836599995,33.102905047000036],[-117.19334981699996,33.10290428500008],[-117.19335126899995,33.102903527000024],[-117.19335414199998,33.10290196600005],[-117.19335555999999,33.102901160000044],[-117.19335697899999,33.102900358000056],[-117.19335978199996,33.10289871200007],[-117.19336116799997,33.10289786900006],[-117.19336255299999,33.10289702600005],[-117.19336528799994,33.10289529800008],[-117.19336663699994,33.10289441400005],[-117.19336798899997,33.10289352900003],[-117.19337064999996,33.10289172200004],[-117.19337196299995,33.10289079700004],[-117.19337327199997,33.10288987500007],[-117.19337585699998,33.102887992000035],[-117.19337713099998,33.10288703100008],[-117.19337840399999,33.10288607000007],[-117.19338090699995,33.10288411000005],[-117.19338214099997,33.10288311200003],[-117.19338337099998,33.10288211300008],[-117.19338579499998,33.10288008600003],[-117.19338698499996,33.10287905100006],[-117.19338817299996,33.10287801700008],[-117.193390508,33.10287591600007],[-117.19339165899999,33.10287484600008],[-117.19339280399998,33.102873782000074],[-117.19339505299996,33.10287161300005],[-117.19339615199999,33.10287051100005],[-117.19339725399999,33.10286941100003],[-117.19340077299995,33.10286571200004],[-117.19342898499997,33.10292435400004],[-117.19352279199995,33.10311936700003]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.1045425,32.6635073]},"properties":{"jurisdiction":"National City","services":"National City first-time homebuyer loan program, Rental Home Stability Program (RHSP), financial fitness classes, health programs, and after-school program","image_url":{"url":"https://live.staticflickr.com/65535/52943885028_c4457ce267_b.jpg"},"all_affordable":true,"latitude":"32.6635073","on_site_services":true,"subregion":"South Bay","total_units":"201","project_tags":"100% Affordable, By-Right Approval, Innovative Financing, On-Site Services","lot_size_acres_":"6.29","income_level":"30-50% AMI","affordable_units":"201","year_completed":"2018","by_right_approval":true,"longitude":"-117.1045425","financing_sources":"Low Income Housing Tax Credits, Affordable Housing and Sustainable Communities funds, California Infill Infrastructure Grant, City of National City, Private Partners","density_du_acre_":"32.1","development_type":"Apartments","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/a2us-qppf/application%2Fpdf"},"address":"2120 Hoover Ave, National City, CA 91950","innovative_finance":true,"building_height_stories_":"4","special_populations_served":"Families, First-time Homebuyers","sustainability_awards":"LEED Gold","architect":"Pyatok Architects, Spurlock Landscape Architects","project_name":"Paradise Creek","developer_contractor":"Community HousingWorks, Related California","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.05943069299997,32.95044259300005],[-117.06029706799995,32.95036099500004],[-117.06029253899999,32.95131758500003],[-117.05973877599996,32.95133870400008],[-117.059422687,32.951350759000036],[-117.05943069299997,32.95044259300005]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.063119,32.9496713]},"properties":{"jurisdiction":"Poway","services":"On-site resident care, vocational training, job search and retention, public transportation access, attainment of government benefits, and financial planning; social, educational, and health and wellness classes and activities","image_url":{"url":"https://live.staticflickr.com/65535/52943419346_3e67ebcbd5_b.jpg"},"all_affordable":true,"latitude":"32.9496713","on_site_services":true,"subregion":"North County Inland","total_units":"54","project_tags":"100% Affordable, On-Site Services, Sustainability","lot_size_acres_":"3.18","income_level":"30-60% AMI","affordable_units":"53","year_completed":"2022","by_right_approval":false,"longitude":"-117.063119","financing_sources":"Low Income Housing Tax Credits, County of San Diego, Poway Redevelopment Agency, City of Poway Housing Authority, Villa de Vida, Mercy Housing California, Private Partners","density_du_acre_":"17","development_type":"Apartments","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/445c-9k97/application%2Fpdf"},"address":"12341 Oak Knoll Rd, Poway, CA 92064","innovative_finance":false,"building_height_stories_":"2","special_populations_served":"People with a Developmental Disability","sustainability_awards":"LEED Silver","architect":"Rodriguez Associates Architects & Planners","project_name":"Villa de Vida","developer_contractor":"Mercy Housing, Villa de Vida","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.06273624299996,32.94904228400003],[-117.06351157899996,32.948987714000054],[-117.06393509399999,32.948961034000035],[-117.06392746199998,32.94987953300006],[-117.06359833099998,32.94990788600006],[-117.06265368699997,32.94998555800004],[-117.06265358599995,32.94998277000008],[-117.06265310399999,32.94996903100002],[-117.06265263799997,32.94995529700003],[-117.06265219799997,32.94994156000007],[-117.06265178099994,32.94992782300005],[-117.06265137999998,32.949914086000035],[-117.06265100199994,32.94990034600005],[-117.06265064699994,32.94988660800004],[-117.06265031499998,32.94987286800006],[-117.06264999899997,32.94985913100004],[-117.06264970299998,32.949845390000064],[-117.06264942899998,32.94983164900003],[-117.06264917799996,32.949817909000046],[-117.06264894899999,32.94980416800007],[-117.06264873799995,32.94979042700004],[-117.06264855199998,32.94977668200005],[-117.06264838299995,32.94976294300005],[-117.06264823599997,32.94974920200008],[-117.06264811199998,32.949735460000056],[-117.06264800899999,32.949721719000024],[-117.06264792599995,32.94970797700006],[-117.06264786499997,32.94969423500004],[-117.06264781899995,32.94968049500005],[-117.06264780299995,32.949666756000056],[-117.06264780299995,32.949653011000066],[-117.06264782899996,32.949639268000055],[-117.06264787199996,32.949625525000044],[-117.06264793799994,32.94961178500006],[-117.06264802199996,32.94959804200005],[-117.06264812999996,32.94958430200006],[-117.06264825999995,32.94957055900005],[-117.06264840699998,32.949556818000076],[-117.06264857999997,32.949543077000044],[-117.06264876899996,32.94952933600007],[-117.06264898099994,32.94951559500004],[-117.06264921599995,32.94950185400006],[-117.06265836699998,32.949081275000026],[-117.06265821499994,32.949064785000076],[-117.06265803699995,32.949045547000026],[-117.06273624299996,32.94904228400003]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.3459789,33.2144665]},"properties":{"jurisdiction":"Oceanside","services":"State-licensed preschool and programs in youth and development, health and wellness, workforce development and asset building","image_url":{"url":"https://live.staticflickr.com/65535/52943565459_44b2287965_b.jpg"},"all_affordable":true,"latitude":"33.2144665","on_site_services":true,"subregion":"North County Inland","total_units":"288","project_tags":"100% Affordable, By-Right Approval, Innovative Financing, On-Site Services, Sustainability","lot_size_acres_":"14.5","income_level":"30-60% AMI","affordable_units":"286","year_completed":"2018","by_right_approval":true,"longitude":"-117.3459789","financing_sources":"Mental Health Services Act funds, NeighborWorks Urban Uplift Grant, Veterans Housing and Homelessness Prevention Program, County of San Diego, City of Oceanside, Private Partners","density_du_acre_":"19.9","development_type":"Apartments, Master Plan","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/6kjh-884r/application%2Fpdf"},"address":"3229 Mission Cove Way, Oceanside, CA 92054","innovative_finance":true,"building_height_stories_":"3","special_populations_served":"Families, Foster Youth, Homeless, Seniors, Transition-Age Youth, Veterans","sustainability_awards":"GreenPoint Rated Platinum","architect":"Joseph Wong Design Associates, Lightfoot Planning Group","project_name":"Mission Cove","developer_contractor":"Community HousingWorks, National CORE","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.10051274599999,32.757012950000046],[-117.10051412699994,32.75690302000004],[-117.10051550699995,32.75679309000003],[-117.10030816399996,32.75679130000003],[-117.10030951999994,32.756681370000024],[-117.10031087699997,32.75657143900003],[-117.10031901699995,32.75591204700004],[-117.10032054299995,32.755788375000066],[-117.10032206899996,32.755664703000036],[-117.10032410499997,32.755499808000025],[-117.10032512199996,32.755417360000024],[-117.10032715599999,32.75525252800003],[-117.10032751999995,32.755248710000046],[-117.10032850899995,32.755244971000025],[-117.10033010499995,32.75524138500003],[-117.10033227599996,32.75523802200007],[-117.10033498099995,32.755234947000076],[-117.10033851399999,32.755231964000075],[-117.10034254799996,32.75522947400003],[-117.10034698599998,32.75522753600006],[-117.10035172299996,32.755226196000024],[-117.10035664599997,32.75522548600003],[-117.10036164099995,32.75522542300007],[-117.10070488699995,32.755269647000034],[-117.10071014399995,32.75527046900004],[-117.10071517199998,32.75527200700003],[-117.10071983199998,32.75527422000005],[-117.10072400099995,32.75527704800004],[-117.10072756499994,32.75528041600006],[-117.10073042799996,32.75528423000003],[-117.10073251299997,32.75528839100008],[-117.10073376399998,32.75529278300007],[-117.10073414499999,32.755297289000055],[-117.10071221999999,32.757014671000036],[-117.10051274599999,32.757012950000046]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.15143,32.71658]},"properties":{"jurisdiction":"San Diego city","services":"Personal case management for individualized needs, including behavioral health support and care, educational classes, care coordination, and peer support","image_url":{"url":"https://live.staticflickr.com/65535/52943424971_c261640225_b.jpg"},"all_affordable":true,"latitude":"32.71658","on_site_services":true,"subregion":"San Diego","total_units":"44","project_tags":"100% Affordable, On-Site Services","lot_size_acres_":"0.2","income_level":"Up to 35% AMI","affordable_units":"43","year_completed":"2019","by_right_approval":false,"longitude":"-117.15143","financing_sources":"HOME Investment Partnerships Program funds, California Special Needs Housing Program, Low Income Housing Tax Credits, County of San Diego, San Diego Housing Commission, Private Partners","density_du_acre_":"220","development_type":"Apartments, Supportive Housing","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/xth8-9yvn/application%2Fpdf"},"address":"1425 C St, San Diego, CA 92101","innovative_finance":false,"building_height_stories_":"5","special_populations_served":"Families, Homeless, People with a Disability, Seniors, Transition-Age Youth","sustainability_awards":null,"architect":"M.W. Steele Group, David Reed Landscape Architects","project_name":"The Beacon","developer_contractor":"Wakeland Housing","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.04110931399998,32.96015195500007],[-117.04111150699998,32.960093097000026],[-117.04111108899997,32.960093355000026],[-117.04110921799997,32.96009450500003],[-117.04110789299995,32.96009530500004],[-117.04110656299997,32.960096097000076],[-117.04110522299999,32.96009688300006],[-117.04110387999998,32.96009766100008],[-117.04110253099998,32.96009843100006],[-117.04110117199997,32.960099193000076],[-117.04109981299996,32.96009994600007],[-117.04109844399994,32.96010069400006],[-117.04109707199996,32.96010143400002],[-117.04109568899997,32.96010216600007],[-117.04109430399996,32.96010289000003],[-117.04109291099996,32.96010360500003],[-117.04109151499995,32.960104311000066],[-117.04109011399999,32.96010501100005],[-117.04108870499999,32.96010570400006],[-117.04108728999995,32.960106386000064],[-117.04108587099995,32.960107064000056],[-117.04108444899998,32.96010773200004],[-117.04108301399998,32.96010839000007],[-117.04108157799999,32.96010904000008],[-117.04108013999996,32.96010968400003],[-117.04107869199999,32.96011032000007],[-117.04107724299996,32.960110945000054],[-117.04107578499998,32.960111564000044],[-117.04107432999996,32.96011217300003],[-117.04107285799995,32.96011277500003],[-117.04107139099995,32.960113367000076],[-117.04106991499998,32.96011395100004],[-117.04106843399995,32.960114530000055],[-117.04106694599994,32.96011509700003],[-117.04106546099996,32.96011565400005],[-117.04106396899999,32.960116207000056],[-117.04106247099998,32.960116751000044],[-117.04106096699996,32.960117283000045],[-117.04105946199996,32.96011780900005],[-117.04105794999998,32.96011832700003],[-117.04105643599996,32.96011883600005],[-117.04105491699994,32.96011933300008],[-117.04105339599994,32.96011982300007],[-117.04105186799995,32.96012030300005],[-117.04105034099996,32.96012078100006],[-117.04104880599999,32.960121247000075],[-117.04104726699995,32.96012169800008],[-117.04104572699998,32.96012214800004],[-117.04104417899998,32.96012258400003],[-117.04104263399995,32.96012301500008],[-117.04104108199999,32.96012343700005],[-117.04103952399998,32.96012384800002],[-117.04103880299999,32.96012258600007],[-117.04103808299999,32.960121351000055],[-117.04103735299998,32.96012012400007],[-117.04103661399995,32.960118900000055],[-117.04103586599996,32.960117679000064],[-117.04103510899995,32.96011646100004],[-117.04103433799997,32.96011525100005],[-117.04103356199994,32.960114041000054],[-117.04103277399997,32.96011284000008],[-117.04103197499995,32.96011163800006],[-117.04103117199998,32.960110445000055],[-117.04103035599996,32.96010925500008],[-117.04102953299997,32.96010806900006],[-117.04102869799999,32.960106891000066],[-117.04102785599997,32.960105714000065],[-117.04102700099997,32.96010454300006],[-117.04102613999999,32.960103375000074],[-117.04102526799994,32.96010221500006],[-117.041024387,32.96010105800008],[-117.0410235,32.96009990700003],[-117.04102259899997,32.96009875800007],[-117.04102168999998,32.96009761800008],[-117.04102077699997,32.96009648100005],[-117.04101984999994,32.960095351000064],[-117.04101891399995,32.960094225000034],[-117.04101797199996,32.960093104000066],[-117.04101701899998,32.960091989000034],[-117.04101605999995,32.96009087600004],[-117.04101508899998,32.96008977500003],[-117.04101411399995,32.960088676000055],[-117.04101312199998,32.96008758000005],[-117.04101212899997,32.96008649200007],[-117.04101112399997,32.96008541000003],[-117.04101010999995,32.960084334000044],[-117.04100908999999,32.96008326400005],[-117.04100805999997,32.960082198000066],[-117.04100701999994,32.96008113800008],[-117.04100597399997,32.960080084000026],[-117.04100491899999,32.96007903800006],[-117.04100385899994,32.96007799500006],[-117.04100278299995,32.96007696000004],[-117.04100170499999,32.96007593100006],[-117.04100061699995,32.960074908000024],[-117.04099952199999,32.96007388900006],[-117.04099841699997,32.96007287900005],[-117.04099730599995,32.96007187500004],[-117.04099618499998,32.96007087400005],[-117.04099505899995,32.96006988000005],[-117.04099392399996,32.96006889500006],[-117.04099278099994,32.96006791600007],[-117.04099162799997,32.96006694500005],[-117.04099047199998,32.960065977000056],[-117.04098930599997,32.96006501700003],[-117.04098812999996,32.96006406200007],[-117.04098695099998,32.96006311600007],[-117.04098576299998,32.960062175000076],[-117.04098456399998,32.96006124300004],[-117.04098336299995,32.96006031600007],[-117.04098215099998,32.96005939500003],[-117.04098093299996,32.96005848200008],[-117.04097970899994,32.96005757200004],[-117.04097847499997,32.96005667500003],[-117.04097723499996,32.960055784000076],[-117.04097598799996,32.960054900000046],[-117.04097473399997,32.96005401900004],[-117.04097347499999,32.96005314800004],[-117.04097220799997,32.96005228400003],[-117.04097093599995,32.96005143000008],[-117.04096965299999,32.960050575000025],[-117.04096836399998,32.96004973400005],[-117.04096777199999,32.960049351000066],[-117.04096866599997,32.960048751000045],[-117.04102809399996,32.960009042000024],[-117.04104581999997,32.95999918100006],[-117.04106530199999,32.95999205500004],[-117.04108595399998,32.95998787800005],[-117.04110714999996,32.95998677700004],[-117.041115462,32.95998695500003],[-117.041128174,32.959987229000035],[-117.04113683599996,32.959700086000055],[-117.04112610599998,32.95969999700003],[-117.04077142299997,32.959697077000044],[-117.04077818899998,32.95957116400007],[-117.04077820499998,32.95956959700004],[-117.04077494799998,32.95956956900005],[-117.04077680699999,32.959417176000045],[-117.04077722599999,32.95940460400004],[-117.04078048299999,32.95940468200007],[-117.04079033599999,32.959109341000044],[-117.04174581599995,32.95913276400006],[-117.04212405399994,32.959142031000056],[-117.04189169399996,32.95955911900006],[-117.04177512899997,32.95976407300003],[-117.04170325099994,32.960159686000054],[-117.04138337399996,32.960155523000026],[-117.04110931399998,32.96015195500007]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.0618856,32.70998861]},"properties":{"jurisdiction":"San Diego city","services":"After-school activities and classes in financial literacy, homebuyer education, resume building, nutrition, and English as a Second Language","image_url":{"url":"https://live.staticflickr.com/65535/52943886123_170dc15345_b.jpg"},"all_affordable":true,"latitude":"32.70998861","on_site_services":true,"subregion":"San Diego","total_units":"66","project_tags":"100% Affordable, By-Right Approval, On-Site Services, Sustainability","lot_size_acres_":"1.15","income_level":"30-60% AMI","affordable_units":"65","year_completed":"2020","by_right_approval":true,"longitude":"-117.0618856","financing_sources":"HOME Investment Partnerships Program, Veterans Affairs Supportive Housing vouchers, Low Income Housing Tax Credits, City of San Diego, San Diego Housing Commission, Private Partners","density_du_acre_":"57.4","development_type":"Apartments, Supportive Housing","sustainability":true,"full_report":{"url":"https://internaldata.sandag.org/download/ne6v-mkrr/application%2Fpdf"},"address":"6315 Imperial Ave, San Diego, CA 92114","innovative_finance":false,"building_height_stories_":"5","special_populations_served":"Families, Homeless, Veterans","sustainability_awards":"LEED Gold","architect":"Studio E Architects, Form/work","project_name":"Encanto Village","developer_contractor":"National CORE","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.14461906099996,32.69944626800003],[-117.14475913499996,32.69930187700004],[-117.14492987599999,32.69942029300006],[-117.14531466699998,32.69968716000005],[-117.14559610599997,32.69988234600004],[-117.14551632399997,32.69996473900005],[-117.145187739,32.70030408000002],[-117.14502187799997,32.70047536900006],[-117.14501150699999,32.70047428300006],[-117.14500147599995,32.70047180700004],[-117.14499204499998,32.700468003000026],[-117.14498345599998,32.700462970000046],[-117.14485325799996,32.700372780000066],[-117.14483774399997,32.70036203400008],[-117.14481951399995,32.70034940600004],[-117.14479291199996,32.70033097700008],[-117.144499656,32.70012783100003],[-117.14417562499995,32.69990336300003],[-117.14426925499998,32.69980684800004],[-117.14433404599998,32.699740062000046],[-117.14435533799997,32.69971811400006],[-117.14443559299997,32.69963538700006],[-117.14461906099996,32.69944626800003]]]]}}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.1925051,33.1033805]},"properties":{"jurisdiction":"San Marcos","services":null,"image_url":{"url":"https://live.staticflickr.com/65535/52943568334_d221a51652_b.jpg"},"all_affordable":true,"latitude":"33.1033805","on_site_services":false,"subregion":"North County Inland","total_units":"72","project_tags":"100% Affordable, By-Right Approval","lot_size_acres_":"5.67","income_level":"Up to 60% AMI","affordable_units":"72","year_completed":"2006","by_right_approval":true,"longitude":"-117.1925051","financing_sources":"Low Income Housing Tax Credits, California Equity Fund, State of California, City of San Marcos Redevelopment Agency, Private Partners","density_du_acre_":"12.7","development_type":"Apartments","sustainability":false,"full_report":{"url":"https://internaldata.sandag.org/download/xb8q-uuj9/application%2Fpdf"},"address":"1010-1050 Stephanie Ct, San Marcos, CA 92078","innovative_finance":false,"building_height_stories_":"3","special_populations_served":"Families","sustainability_awards":null,"architect":"KTGY Group, Topia Landscape Architecture","project_name":"Sage Canyon","developer_contractor":"BRIDGE Housing, Wermers Corporation","geometry":{"type":"MultiPolygon","coordinates":[[[[-117.14275905199997,32.70461840300004],[-117.14280024599998,32.704575877000025],[-117.142884832,32.704634389000034],[-117.14284342999997,32.70467683900006],[-117.14272598699995,32.704797255000074],[-117.14272345499995,32.70479956400004],[-117.14272062199996,32.704801608000025],[-117.14271623799999,32.70480399600007],[-117.14271145799995,32.70480575800008],[-117.14270640699999,32.70480685000007],[-117.14270121199996,32.70480724200007],[-117.14253472699994,32.70480844300005],[-117.14231482499997,32.70481003000003],[-117.14230743199994,32.704804910000064],[-117.14236884899998,32.70480441900003],[-117.14238155099997,32.70480431800007],[-117.14247468399998,32.70480357400004],[-117.14253470599999,32.704803094000056],[-117.14258049299997,32.70480272800006],[-117.14275874699996,32.70461875800004],[-117.14275905199997,32.70461840300004]]],[[[-117.14253599299997,32.705135134000045],[-117.14253596799995,32.70512859400003],[-117.14226274799995,32.70513002400003],[-117.14225903799996,32.70486022600005],[-117.14226658199999,32.70486545000006],[-117.14232411799998,32.70486502800003],[-117.14253493899997,32.704863481000075],[-117.14270177599997,32.70486225700006],[-117.14271589699996,32.704861282000024],[-117.14272970099995,32.704858589000025],[-117.142742898,32.70485423200006],[-117.14275520899997,32.70484830300006],[-117.14276637399996,32.704840929000056],[-117.14277615699996,32.70483226500005],[-117.14280672299998,32.704800920000025],[-117.14289374399999,32.70471168300003],[-117.14297651599998,32.70462680300005],[-117.14290531699999,32.70457754100005],[-117.14298765899997,32.704492455000036],[-117.14327692599994,32.70419398400003],[-117.14340278899999,32.70428119300004],[-117.14365453199997,32.704455626000026],[-117.14390605499995,32.70462990400006],[-117.14384436499995,32.70469386900004],[-117.14384493399996,32.704783202000044],[-117.14384687599994,32.70508713700008],[-117.14384709599994,32.70512170600006],[-117.14348853099995,32.70512358800005],[-117.14350285599994,32.705133508000074],[-117.14253599299997,32.705135134000045]]]]}}}], "crs" : { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } } }
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0771732, 32.75840389]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": null,
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943880873_a2e2e91ea4_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.75840389",
+      "on_site_services": false,
+      "subregion": "San Diego",
+      "total_units": "172",
+      "project_tags": "100% Affordable",
+      "lot_size_acres_": "0.78",
+      "income_level": "Up to 30% AMI",
+      "affordable_units": "170",
+      "year_completed": null,
+      "by_right_approval": false,
+      "longitude": "-117.0771732",
+      "financing_sources": "New Market Tax Credits, Private Partners",
+      "density_du_acre_": "218",
+      "development_type": "Apartments, Mixed-Use, Supportive Housing",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/6ijd-gc3p/application%2Fpdf"
+      },
+      "address": "5468-5482 El Cajon Blvd, San Diego, CA 92115",
+      "innovative_finance": false,
+      "building_height_stories_": "5",
+      "special_populations_served": "Health Workers, Homeless",
+      "sustainability_awards": null,
+      "architect": "LPA Design Studios",
+      "project_name": "PATH Villas El Cerrito",
+      "developer_contractor": "PATH Ventures, Highland General Contractors",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.23931463699995, 33.19676567500005],
+              [-117.23926138799999, 33.19671714100008],
+              [-117.23922054199994, 33.196680696000044],
+              [-117.23917932499995, 33.19664454700006],
+              [-117.23941947499998, 33.19642964600007],
+              [-117.23952090499995, 33.19650990900004],
+              [-117.23975744899997, 33.196752401000026],
+              [-117.23978272599999, 33.19673497300005],
+              [-117.23980802299997, 33.19671753000006],
+              [-117.23980858999994, 33.196718074000046],
+              [-117.23983286499998, 33.19674295900006],
+              [-117.23983357499998, 33.19674368900007],
+              [-117.23983668299996, 33.19674687500003],
+              [-117.23984622399996, 33.19675665500006],
+              [-117.23982201599995, 33.19677449900007],
+              [-117.23986429999997, 33.196817846000044],
+              [-117.23987383999997, 33.19682762600007],
+              [-117.23989000899996, 33.19681570800003],
+              [-117.23989804299998, 33.196809777000055],
+              [-117.23994994699996, 33.19686298500005],
+              [-117.24000176899995, 33.19691611600007],
+              [-117.24003616999994, 33.19695138600002],
+              [-117.24005359099999, 33.19696924700003],
+              [-117.239998018, 33.19700762400004],
+              [-117.24004410699996, 33.197054872000024],
+              [-117.24013272399998, 33.19714571500003],
+              [-117.24012613599996, 33.19715026800003],
+              [-117.23998742699996, 33.19724625600003],
+              [-117.23997914299997, 33.19725162200007],
+              [-117.23997898199997, 33.197251735000066],
+              [-117.23995784299996, 33.19726258700007],
+              [-117.23995765499996, 33.197262667000075],
+              [-117.23993461199996, 33.197270769000056],
+              [-117.23991056999995, 33.19727577300006],
+              [-117.23991036199999, 33.197275803000025],
+              [-117.23988548699998, 33.197277703000054],
+              [-117.23986055999995, 33.19727637400007],
+              [-117.23986035699994, 33.19727635000004],
+              [-117.23983615599997, 33.197271896000075],
+              [-117.23982890599996, 33.19727001800004],
+              [-117.23981450899998, 33.19726599000006],
+              [-117.23978683599995, 33.197237622000046],
+              [-117.23973777899994, 33.197187332000055],
+              [-117.23968605099998, 33.19713429900003],
+              [-117.23963432299996, 33.197081264000076],
+              [-117.23958162999998, 33.19702724800004],
+              [-117.23954309299995, 33.196987741000044],
+              [-117.23952917899999, 33.196973540000045],
+              [-117.23952734999995, 33.196971674000054],
+              [-117.23947675999995, 33.19692082700004],
+              [-117.23942103599995, 33.19686619500004],
+              [-117.23931463699995, 33.19676567500005]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.241805, 33.199529]
+    },
+    "properties": {
+      "jurisdiction": "Vista",
+      "services": "After-school program, children's literacy program (running readers), VALOR scholarships, and financial fitness education",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943884178_f8a76c8ba2_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "33.199529",
+      "on_site_services": true,
+      "subregion": "North County Inland",
+      "total_units": "60",
+      "project_tags": "100% Affordable, On-Site Services, Sustainability",
+      "lot_size_acres_": "0.68",
+      "income_level": "30-60% AMI",
+      "affordable_units": "59",
+      "year_completed": "2021",
+      "by_right_approval": false,
+      "longitude": "-117.241805",
+      "financing_sources": "Low Income Housing Tax Credits, City of Vista, Private Partners",
+      "density_du_acre_": "88",
+      "development_type": "Mixed Use, Apartments",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/phe2-hjnd/application%2Fpdf"
+      },
+      "address": "501-515 S Santa Fe Ave, Vista, CA 92083",
+      "innovative_finance": false,
+      "building_height_stories_": "5",
+      "special_populations_served": "Veterans, Artists",
+      "sustainability_awards": "GreenPoint Rated",
+      "architect": "M.W. Steele Group, Schmidt Design Group",
+      "project_name": "Paseo Artist Village",
+      "developer_contractor": "Community HousingWorks",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.104679267, 32.67561841700007],
+              [-117.10503523499995, 32.67551799800003],
+              [-117.10506069399997, 32.675583337000035],
+              [-117.10508615099997, 32.67564867900006],
+              [-117.10511161, 32.675714019000054],
+              [-117.10513706899997, 32.675779360000035],
+              [-117.10516252599996, 32.67584470000003],
+              [-117.10518798799995, 32.675910042000055],
+              [-117.10521344699998, 32.675975384000026],
+              [-117.10523890599995, 32.67604072300003],
+              [-117.10526436399999, 32.676106066000045],
+              [-117.10528982299996, 32.67617140500005],
+              [-117.10493390199997, 32.676271866000036],
+              [-117.10490843699995, 32.67620652100004],
+              [-117.10488297499995, 32.676141176000044],
+              [-117.10485750999999, 32.67607583100005],
+              [-117.10483204899998, 32.67601048600005],
+              [-117.10480658399996, 32.675945142000046],
+              [-117.10478111899994, 32.67587979600006],
+              [-117.10475565699994, 32.675814452000054],
+              [-117.10473019399996, 32.67574910600007],
+              [-117.10470473199996, 32.67568376200006],
+              [-117.104679267, 32.67561841700007]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.16004, 32.73744]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": null,
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943421366_abf76deaa2_b.jpg"
+      },
+      "all_affordable": false,
+      "latitude": "32.73744",
+      "on_site_services": false,
+      "subregion": "San Diego",
+      "total_units": "100",
+      "project_tags": "Innovative Financing",
+      "lot_size_acres_": "0.3",
+      "income_level": "Up to 80% AMI",
+      "affordable_units": "11",
+      "year_completed": "2022",
+      "by_right_approval": false,
+      "longitude": "-117.16004",
+      "financing_sources": "Middlemarch Fund, Private Partnership",
+      "density_du_acre_": "343.3",
+      "development_type": "Apartments (Micro-Units)",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/y7rj-t45r/application%2Fpdf"
+      },
+      "address": "3067 Fifth Ave, San Diego, CA 92103",
+      "innovative_finance": true,
+      "building_height_stories_": "8",
+      "special_populations_served": "Families, Middle Income, Seniors, Young Professionals,",
+      "sustainability_awards": null,
+      "architect": "Stephen Dalton Architects, McCullough Landscape Architecture",
+      "project_name": "Secoya",
+      "developer_contractor": "Murfey Company, Bishop Ventures",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.15095954999998, 32.70554462700005],
+              [-117.15095849, 32.70533814300006],
+              [-117.15111589199995, 32.70533777000003],
+              [-117.15111600599994, 32.70535618400004],
+              [-117.15163331999997, 32.70535320600004],
+              [-117.15175702599998, 32.70543895800006],
+              [-117.15176076899996, 32.70590246800003],
+              [-117.15143570199996, 32.70590428000003],
+              [-117.15111938499996, 32.70590604300003],
+              [-117.15111859699999, 32.70577829900003],
+              [-117.15111825799994, 32.70572333100006],
+              [-117.15096046899998, 32.70572362900003],
+              [-117.15095954999998, 32.70554462700005]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0122364, 32.76896592]
+    },
+    "properties": {
+      "jurisdiction": "La Mesa",
+      "services": null,
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943424551_fd3e956e1b_b.jpg"
+      },
+      "all_affordable": false,
+      "latitude": "32.76896592",
+      "on_site_services": false,
+      "subregion": "East County",
+      "total_units": "130",
+      "project_tags": "By-Right Approval",
+      "lot_size_acres_": "4.1",
+      "income_level": "Up to 80% AMI",
+      "affordable_units": "13",
+      "year_completed": "2021",
+      "by_right_approval": true,
+      "longitude": "-117.0122364",
+      "financing_sources": "Private Partners",
+      "density_du_acre_": "31.7",
+      "development_type": "Apartments",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/2ej4-hwrj/application%2Fpdf"
+      },
+      "address": "8585 La Mesa Blvd, La Mesa, CA 91942",
+      "innovative_finance": false,
+      "building_height_stories_": "3",
+      "special_populations_served": "Families",
+      "sustainability_awards": null,
+      "architect": "Benson & Bohl Architecture",
+      "project_name": "The Haven",
+      "developer_contractor": "Silvergate Development",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.15133020399998, 32.71641654000007],
+              [-117.15133007999998, 32.716305942000076],
+              [-117.15152058799998, 32.71630476000007],
+              [-117.151521506, 32.716415432000076],
+              [-117.15152206399995, 32.716482822000046],
+              [-117.15152264499994, 32.71655285000003],
+              [-117.15152309699994, 32.71660734900007],
+              [-117.15152378399995, 32.71669026700005],
+              [-117.15133051099997, 32.71669138100003],
+              [-117.15133035699995, 32.716553961000045],
+              [-117.15133020399998, 32.71641654000007]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.08637, 32.59911]
+    },
+    "properties": {
+      "jurisdiction": "Chula Vista",
+      "services": "On-site services for residents with special needs, after-school programs",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943571659_c36ef90808_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.59911",
+      "on_site_services": true,
+      "subregion": "South Bay",
+      "total_units": "96",
+      "project_tags": "100% Affordable, On-Site Services, Sustainability",
+      "lot_size_acres_": "2.82",
+      "income_level": "30-60% AMI",
+      "affordable_units": "95",
+      "year_completed": "2023",
+      "by_right_approval": false,
+      "longitude": "-117.08637",
+      "financing_sources": "No Place Like Home Program, Low Income Housing Tax Credits, County of San Diego, City of Chula Vista, Private Partners",
+      "density_du_acre_": "33.7",
+      "development_type": "Apartments",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/7w88-spnd/application%2Fpdf"
+      },
+      "address": "748-760 Anita St, Chula Vista, CA 91911",
+      "innovative_finance": false,
+      "building_height_stories_": "3",
+      "special_populations_served": "Families, Homeless",
+      "sustainability_awards": "GreenPoint Rated",
+      "architect": "Rodriguez Associates Architects & Planners",
+      "project_name": "Casa Anita",
+      "developer_contractor": "Wakeland Housing",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.08560495699999, 32.59867220700005],
+              [-117.08559904099997, 32.598632477000024],
+              [-117.08564660299999, 32.598633663000044],
+              [-117.08579868399994, 32.59863745700005],
+              [-117.08583567299996, 32.59863837900008],
+              [-117.08590264999998, 32.59864005000003],
+              [-117.08590357199995, 32.59864007400006],
+              [-117.08594246099995, 32.59864104300004],
+              [-117.08600915599999, 32.59864270700007],
+              [-117.08611924399997, 32.59864545200003],
+              [-117.08612514199996, 32.598645600000054],
+              [-117.08615313599995, 32.59864629800006],
+              [-117.08615369899996, 32.59864631200003],
+              [-117.08630866899995, 32.598650177000025],
+              [-117.08631152399994, 32.59865024800007],
+              [-117.08642876399995, 32.59865317200007],
+              [-117.08647349999995, 32.598654288000034],
+              [-117.08658987899997, 32.59865719000004],
+              [-117.08663484599998, 32.598658311000065],
+              [-117.08663539999998, 32.59865832500003],
+              [-117.08663530499996, 32.598738350000076],
+              [-117.086634447, 32.59946684100004],
+              [-117.08660295899995, 32.599466058000075],
+              [-117.08618975899998, 32.59945578800006],
+              [-117.08615318499994, 32.599454879000064],
+              [-117.08592067699999, 32.599449099000026],
+              [-117.08571988499995, 32.59944410800006],
+              [-117.08571055699997, 32.59938145900003],
+              [-117.08568216899994, 32.59919079800005],
+              [-117.08564171399996, 32.59891908700007],
+              [-117.08560495699999, 32.59867220700005]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1455496, 32.6999103]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": null,
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943424521_d4fb9af0be_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.6999103",
+      "on_site_services": false,
+      "subregion": "San Diego",
+      "total_units": "92",
+      "project_tags": "100% Affordable, By-Right Approval, Sustainability",
+      "lot_size_acres_": "6.8",
+      "income_level": "30-60% AMI",
+      "affordable_units": "91",
+      "year_completed": "2012",
+      "by_right_approval": true,
+      "longitude": "-117.1455496",
+      "financing_sources": "New Market Tax Credits, Low Income Housing Tax Credits, San Diego Redevelopment Agency, City of San Diego, San Diego Housing Commission, Private Partners",
+      "density_du_acre_": "28.4",
+      "development_type": "Apartments, Mixed-Use",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/wrtp-2q9t/application%2Fpdf"
+      },
+      "address": "1985 National Ave, San Diego, CA 92113",
+      "innovative_finance": false,
+      "building_height_stories_": "4",
+      "special_populations_served": "Families",
+      "sustainability_awards": "LEED Certified",
+      "architect": "Safdie Rabines Architects, Spurlock Landscape Architects",
+      "project_name": "Estrella del Mercado",
+      "developer_contractor": "Chelsea Investment Corporation",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.07700933899997, 32.75829745200008],
+              [-117.07715887999996, 32.75827651000003],
+              [-117.07733393099994, 32.758251993000044],
+              [-117.077321687, 32.75863137500005],
+              [-117.07715969999998, 32.75865893500003],
+              [-117.07701024199997, 32.758684362000054],
+              [-117.07685078399999, 32.75871148900006],
+              [-117.07681180499998, 32.75871724700005],
+              [-117.07679848599997, 32.75870936300004],
+              [-117.07678484799999, 32.75870188000005],
+              [-117.07677090799996, 32.758694803000026],
+              [-117.07675668299999, 32.758688138000025],
+              [-117.07674219199998, 32.758681901000045],
+              [-117.07672745399998, 32.758676093000076],
+              [-117.076712483, 32.75867072600005],
+              [-117.07669730099997, 32.75866580400003],
+              [-117.07668192599999, 32.75866133100004],
+              [-117.07667465399999, 32.75866044700007],
+              [-117.07666636899995, 32.75865731500005],
+              [-117.07665066099997, 32.75865376200005],
+              [-117.07663481299994, 32.758650672000044],
+              [-117.07661884999999, 32.75864805500004],
+              [-117.07660278699996, 32.75864590900005],
+              [-117.07658664399997, 32.758644239000034],
+              [-117.07657044399997, 32.75864304700008],
+              [-117.07655420299994, 32.75864233100003],
+              [-117.07653794299995, 32.75864209900004],
+              [-117.07652810799999, 32.758642190000046],
+              [-117.07650859199998, 32.758642320000035],
+              [-117.07651525199998, 32.75836665300005],
+              [-117.07667482899996, 32.75834431200008],
+              [-117.07684693399995, 32.758320197000046],
+              [-117.07700933899997, 32.75829745200008]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.059849, 32.950912]
+    },
+    "properties": {
+      "jurisdiction": "Poway",
+      "services": "After-school classes for resident children and other learning classes including computer skills and resume building",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943569364_a998e820c2_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.950912",
+      "on_site_services": true,
+      "subregion": "North County Inland",
+      "total_units": "52",
+      "project_tags": "100% Affordable, On-Site Services",
+      "lot_size_acres_": "1.98",
+      "income_level": "30-60% AMI",
+      "affordable_units": "52",
+      "year_completed": "2012",
+      "by_right_approval": false,
+      "longitude": "-117.059849",
+      "financing_sources": "Low Income Housing Tax Credits, California Municipal Finance Agency bonds, City of Poway, California Community Reinvestment Corporation",
+      "density_du_acre_": "26.3",
+      "development_type": "Apartments",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/ubfn-v7jg/application%2Fpdf"
+      },
+      "address": "12510 Oak Knoll Rd, Poway, CA 92064",
+      "innovative_finance": false,
+      "building_height_stories_": "2",
+      "special_populations_served": "Families",
+      "sustainability_awards": null,
+      "architect": null,
+      "project_name": "Orange Garden",
+      "developer_contractor": "Affirmed Housing, Masson Associates",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.13896573399995, 32.75464086900007],
+              [-117.13896362799994, 32.754159669000046],
+              [-117.13941851899995, 32.75415803000004],
+              [-117.13942060599999, 32.75463926200007],
+              [-117.13896573399995, 32.75464086900007]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.3394112, 33.15556044]
+    },
+    "properties": {
+      "jurisdiction": "Carlsbad",
+      "services": "Dedicated case management to assess individual needs and programs intended to improve housing retention, health, education and employment/career opportunities",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943569034_b9f357708a_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "33.15556044",
+      "on_site_services": true,
+      "subregion": "North County Coastal",
+      "total_units": "50",
+      "project_tags": "100% Affordable, Innovative Financing, On-Site Services, Sustainability",
+      "lot_size_acres_": "0.97",
+      "income_level": "25-60% AMI",
+      "affordable_units": "50",
+      "year_completed": "2022",
+      "by_right_approval": false,
+      "longitude": "-117.3394112",
+      "financing_sources": "Low Income Housing Tax Credits, County of San Diego No Place Like Home funds, City of Carlsbad, Private Partners",
+      "density_du_acre_": "51.5",
+      "development_type": "Apartments, Supportive Housing",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/b4jr-6t2j/application%2Fpdf"
+      },
+      "address": "3606 Harding St and 965 Oak Ave, Carlsbad, CA 91950",
+      "innovative_finance": true,
+      "building_height_stories_": "3",
+      "special_populations_served": "Homeless with Severe Mental Illness, Veterans",
+      "sustainability_awards": "GreenPoint Rated",
+      "architect": "Dahlin Group Architecture",
+      "project_name": "Windsor Pointe",
+      "developer_contractor": "Affirmed Housing",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.33922239099991, 33.15525249100011],
+              [-117.33922275999993, 33.15525232100009],
+              [-117.33922942199996, 33.1552625540001],
+              [-117.33925402399996, 33.15530033700014],
+              [-117.3392792699999, 33.15533911300014],
+              [-117.33932903999994, 33.15541555000016],
+              [-117.3394286109999, 33.15556847200003],
+              [-117.33889020099997, 33.15581640900001],
+              [-117.33879062099999, 33.15566349000005],
+              [-117.3387736229999, 33.15563738600002],
+              [-117.33875000599994, 33.15559124000015],
+              [-117.33870551399997, 33.15549057800018],
+              [-117.33870792699997, 33.15548946600006],
+              [-117.33922239099991, 33.15525249100011]
+            ]
+          ],
+          [
+            [
+              [-117.34213451226566, 33.16165023396218],
+              [-117.34175688246398, 33.16119525712389],
+              [-117.3418829755247, 33.16112214885993],
+              [-117.34200310437939, 33.16105249617402],
+              [-117.34239100665815, 33.16153500386628],
+              [-117.34239064689933, 33.1615352084699],
+              [-117.34219956103618, 33.1616438833978],
+              [-117.34216348215, 33.161633207255704],
+              [-117.34213451226566, 33.16165023396218]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0089774, 32.78386824]
+    },
+    "properties": {
+      "jurisdiction": "La Mesa",
+      "services": null,
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52942821352_59d48ae380_b.jpg"
+      },
+      "all_affordable": false,
+      "latitude": "32.78386824",
+      "on_site_services": false,
+      "subregion": "East County",
+      "total_units": "527",
+      "project_tags": "Sustainability",
+      "lot_size_acres_": "8",
+      "income_level": "Up to 80% AMI",
+      "affordable_units": "80",
+      "year_completed": "2019",
+      "by_right_approval": false,
+      "longitude": "-117.0089774",
+      "financing_sources": "La Mesa Community Redevelopment Agency, San Diego Metropolitan Transit System, City of La Mesa",
+      "density_du_acre_": "66",
+      "development_type": "Apartments",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/nqwc-h992/application%2Fpdf"
+      },
+      "address": "8727 Fletcher Pkwy, La Mesa, CA 91942",
+      "innovative_finance": false,
+      "building_height_stories_": "4",
+      "special_populations_served": null,
+      "sustainability_awards": null,
+      "architect": null,
+      "project_name": "The District",
+      "developer_contractor": "Fairfield Residential",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.00986953799998, 32.78332154800006],
+              [-117.00984360899997, 32.783062391000044],
+              [-117.00984215199998, 32.78297917800006],
+              [-117.00984212799995, 32.78297487100008],
+              [-117.00984532299998, 32.78291521700004],
+              [-117.00985590399995, 32.78285617600005],
+              [-117.00987375199998, 32.78279839600003],
+              [-117.00989867199996, 32.78274251600004],
+              [-117.00993038999997, 32.78268914900008],
+              [-117.00996855499994, 32.78263888500004],
+              [-117.01001274699996, 32.78259227800004],
+              [-117.01006247999999, 32.78254984100005],
+              [-117.01011720399998, 32.782512041000075],
+              [-117.01017631799999, 32.78247929500003],
+              [-117.01052652299995, 32.78230679300003],
+              [-117.01062551599995, 32.78227523700008],
+              [-117.01076713999998, 32.782216693000066],
+              [-117.01104793299999, 32.78209373400006],
+              [-117.01125496999998, 32.78200755100005],
+              [-117.01147338399994, 32.78186314000004],
+              [-117.01190710499998, 32.78229204200005],
+              [-117.01190264699994, 32.78231607200007],
+              [-117.01185650999997, 32.78236829700006],
+              [-117.01171736199996, 32.782476734000056],
+              [-117.01157441199996, 32.782581583000024],
+              [-117.01142778699995, 32.782682746000035],
+              [-117.01127762299996, 32.78278013500005],
+              [-117.011106386, 32.78284384800003],
+              [-117.01093808099995, 32.78293991600003],
+              [-117.01076616699999, 32.78303131100006],
+              [-117.01059082499995, 32.78311793600005],
+              [-117.01041224199997, 32.78319969900008],
+              [-117.01023060499995, 32.78327651400008],
+              [-117.01004610899997, 32.78334830000006],
+              [-117.00992759999997, 32.78339245300003],
+              [-117.00986953799998, 32.78332154800006]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1003085, 32.75626413]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": "Comprehensive resident services including meals for seniors",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52944177748_997166bcfe_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.75626413",
+      "on_site_services": false,
+      "subregion": "San Diego",
+      "total_units": "190",
+      "project_tags": "100% Affordable",
+      "lot_size_acres_": "1.6",
+      "income_level": "Up to 60% AMI",
+      "affordable_units": "190",
+      "year_completed": "2022",
+      "by_right_approval": false,
+      "longitude": "-117.1003085",
+      "financing_sources": "Innovative Housing Trust Fund, HOME Investment Partnerships Program, County of San Diego, San Diego Housing Commission, City of San Diego, Private Partners",
+      "density_du_acre_": "118.8",
+      "development_type": "Apartments",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/tpty-n9nw/application%2Fpdf"
+      },
+      "address": "4340 44th St, San Diego, CA 92115",
+      "innovative_finance": false,
+      "building_height_stories_": "5",
+      "special_populations_served": "Families, Homeless, Seniors, Veterans",
+      "sustainability_awards": null,
+      "architect": "Rob Wellington Quigley Architects, Studio E Architects",
+      "project_name": "Mid-City Family and Senior",
+      "developer_contractor": "Chelsea Investment Corporation, Price Philanthropies Foundation",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.08171154499996, 32.64271155600005],
+              [-117.08208741599998, 32.64261007400006],
+              [-117.08227639199998, 32.64309272600008],
+              [-117.08189803799996, 32.64319678000004],
+              [-117.08171154499996, 32.64271155600005]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.15648, 32.71541]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": "On-site services for transition-age youth and adults through two Full-Service Partnership providers",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943568159_2f9895aaa3_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.71541",
+      "on_site_services": true,
+      "subregion": "San Diego",
+      "total_units": "250",
+      "project_tags": "100% Affordable, Innovative Financing, On-Site Services, Sustainability",
+      "lot_size_acres_": "0.57",
+      "income_level": "30-60% AMI",
+      "affordable_units": "250",
+      "year_completed": "2015",
+      "by_right_approval": false,
+      "longitude": "-117.15648",
+      "financing_sources": "Local Development Agency funds, Low Income Housing Tax Credits, Mental Health Services Act, City of San Diego/Civic San Diego, County of San Diego, San Diego Housing Commission, Private Partners",
+      "density_du_acre_": "438.6",
+      "development_type": "Apartments, Single-Room Occupancy",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/rm3x-wyr5/application%2Fpdf"
+      },
+      "address": "929 Ninth Ave, San Diego, CA 92101",
+      "innovative_finance": true,
+      "building_height_stories_": "17",
+      "special_populations_served": "People with Mentall Illness, Seniors, Transition-Age Youth",
+      "sustainability_awards": "LEED Gold",
+      "architect": "Studio E Architects, SVA Architects, Spurlock Landscape Architects",
+      "project_name": "Celadon",
+      "developer_contractor": "BRIDGE Housing, Turner Construction",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.15606531999998, 32.71506912600006],
+              [-117.15606416699995, 32.71493151200008],
+              [-117.15638998199995, 32.714929862000076],
+              [-117.15639317699998, 32.71534275700003],
+              [-117.15639530699997, 32.71561802200006],
+              [-117.15606992999994, 32.71561958600006],
+              [-117.15606899, 32.715483189000054],
+              [-117.15606762499999, 32.71534435700005],
+              [-117.15606739599997, 32.71531687300006],
+              [-117.15606647299995, 32.71520674100003],
+              [-117.15606635299997, 32.715192554000055],
+              [-117.15606531999998, 32.71506912600006]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.081996, 32.642935]
+    },
+    "properties": {
+      "jurisdiction": "Chula Vista",
+      "services": "Family Health Centers medical services",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943566164_6ae1c2e447_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.642935",
+      "on_site_services": true,
+      "subregion": "South Bay",
+      "total_units": "33",
+      "project_tags": "100% Affordable, Innovative Financing, On-Site Services, Sustainability",
+      "lot_size_acres_": "2.3",
+      "income_level": "30-60% AMI",
+      "affordable_units": "33",
+      "year_completed": "2015",
+      "by_right_approval": false,
+      "longitude": "-117.081996",
+      "financing_sources": "HOME Investment Partnerships Program Funds, Low Income Housing Tax Credits, City of Chula Vista Community Development Block Grant funds, Family Health Centers, Private Partners",
+      "density_du_acre_": "14.3",
+      "development_type": "Apartments",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/rnj6-v7ns/application%2Fpdf"
+      },
+      "address": "240 Landis Ave, Chula Vista, CA 91910",
+      "innovative_finance": true,
+      "building_height_stories_": "5",
+      "special_populations_served": "Families",
+      "sustainability_awards": "LEED Platinum",
+      "architect": "Rodriguez Associates Architects & Planners",
+      "project_name": "Lofts on Landis",
+      "developer_contractor": "Wakeland Housing, Family Health Centers",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.01173157599999, 32.76829807100006],
+              [-117.01186798399999, 32.76827677800003],
+              [-117.01184740899998, 32.76772995600004],
+              [-117.01266380599998, 32.76772490500008],
+              [-117.01267528199998, 32.767961212000046],
+              [-117.01309488899994, 32.76795586700007],
+              [-117.01309083799998, 32.76785969800005],
+              [-117.01344862599996, 32.767857485000036],
+              [-117.01345660499999, 32.76802784200004],
+              [-117.01346432899999, 32.76816796600008],
+              [-117.01347204999996, 32.76830809200004],
+              [-117.01348369099998, 32.76852515000007],
+              [-117.01331817099998, 32.76857014900003],
+              [-117.01311698699999, 32.76862911400008],
+              [-117.011936161, 32.769012951000036],
+              [-117.01186155599999, 32.76903814800005],
+              [-117.01175612999998, 32.768884883000055],
+              [-117.01173157599999, 32.76829807100006]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.138914, 32.754158]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": "San Diego LGBT Community Center: culturally sensitive resources and referrals for health care, social services, and community activities including game days, writing classes, and educational workshops",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52942817932_99dc3beee2_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.754158",
+      "on_site_services": true,
+      "subregion": "San Diego",
+      "total_units": "76",
+      "project_tags": "100% Affordable, On-Site Services, Sustainability",
+      "lot_size_acres_": "1.77",
+      "income_level": "50-60% AMI",
+      "affordable_units": "75",
+      "year_completed": "2017",
+      "by_right_approval": false,
+      "longitude": "-117.138914",
+      "financing_sources": "Federal Home Loan Bank Affordable Housing Program, HOME Investment Partnerships Program Funds, City of San Diego Inclusionary Housing funds, San Diego Housing Commission, Private Partners",
+      "density_du_acre_": "136",
+      "development_type": "Apartments, Single-Room Occupancy",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/p2fp-rm4s/application%2Fpdf"
+      },
+      "address": "4200 Texas St, San Diego, CA 92104",
+      "innovative_finance": false,
+      "building_height_stories_": "5",
+      "special_populations_served": "LGBT, Seniors",
+      "sustainability_awards": "LEED Gold",
+      "architect": "Rodriguez Associates Architects & Planners, Bowman",
+      "project_name": "North Park Seniors",
+      "developer_contractor": "Community HousingWorks",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.34406486499995, 33.21527877300008],
+              [-117.34402108799998, 33.215234559000066],
+              [-117.34413586599999, 33.214942834000055],
+              [-117.34420998399997, 33.21485142500006],
+              [-117.34418763899998, 33.21483624700005],
+              [-117.34416851999998, 33.214818222000076],
+              [-117.34415313199997, 33.214797830000066],
+              [-117.34414187999994, 33.21477561000006],
+              [-117.34413506599998, 33.21475215000004],
+              [-117.34413286599994, 33.21472807300006],
+              [-117.34413534199996, 33.21470401400006],
+              [-117.34414242699995, 33.21468061100006],
+              [-117.34415393399996, 33.21465848400004],
+              [-117.34416955699999, 33.21463821700007],
+              [-117.34410003999994, 33.21456764000004],
+              [-117.34480801999996, 33.21407491200006],
+              [-117.34619209099998, 33.213105889000076],
+              [-117.34655380099997, 33.21285263800007],
+              [-117.34657575099999, 33.21287479000006],
+              [-117.34663128499994, 33.212884243000076],
+              [-117.34664419899997, 33.21287520200008],
+              [-117.34669441799997, 33.21292588500006],
+              [-117.34672237899997, 33.212906307000026],
+              [-117.34675953399994, 33.21291563700004],
+              [-117.34680105099994, 33.212936367000054],
+              [-117.34687230299994, 33.21301803500006],
+              [-117.346898668, 33.21300178100006],
+              [-117.34707076199999, 33.21317652000005],
+              [-117.34707739399994, 33.21319461600007],
+              [-117.34707292899998, 33.21323451100005],
+              [-117.34709449699994, 33.21327003000005],
+              [-117.34712282999999, 33.21328345200004],
+              [-117.34714853099996, 33.21330020600004],
+              [-117.34717104899994, 33.21331993100006],
+              [-117.34728831799998, 33.21343898300006],
+              [-117.34754479699996, 33.21369935900003],
+              [-117.34603138299997, 33.214752686000054],
+              [-117.34536664799998, 33.21521532500003],
+              [-117.34532961999997, 33.21521254600003],
+              [-117.34528476899999, 33.21524376100007],
+              [-117.34524320099996, 33.21527269100005],
+              [-117.34520439899995, 33.215299696000045],
+              [-117.34515677999997, 33.21533283700006],
+              [-117.34515409, 33.21535941800005],
+              [-117.34515366599999, 33.21536361700004],
+              [-117.34431275999998, 33.21595187100007],
+              [-117.34386151399997, 33.215496106000046],
+              [-117.34385780299999, 33.215423618000045],
+              [-117.34406486499995, 33.21527877300008]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-116.96298, 32.61655]
+    },
+    "properties": {
+      "jurisdiction": "Chula Vista",
+      "services": "Adult education and skills classes including computer literacy, English as a Second Language, art, job counseling, financial literacy and health and wellness",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943881233_f21365a991_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.61655",
+      "on_site_services": true,
+      "subregion": "South Bay",
+      "total_units": "200",
+      "project_tags": "100% Affordable, By-Right Approval, On-Site Services",
+      "lot_size_acres_": "3.07",
+      "income_level": "30-60% AMI",
+      "affordable_units": "198",
+      "year_completed": null,
+      "by_right_approval": true,
+      "longitude": "-116.96298",
+      "financing_sources": "Low Income Housing Tax Credits, City of Chula Vista bonds/notes, Chula Vista Housing Authority, Private Partners",
+      "density_du_acre_": "65.1",
+      "development_type": "Apartments, Master Plan",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/bksp-t2ca/application%2Fpdf"
+      },
+      "address": "Northwest Corner of Solistice Ave and Optima St, Chula Vista, CA 1915",
+      "innovative_finance": false,
+      "building_height_stories_": "5",
+      "special_populations_served": "Families",
+      "sustainability_awards": null,
+      "architect": "Joseph Wong Design Associates, GMP Landscape Architecture",
+      "project_name": "Columba",
+      "developer_contractor": "Chelsea Investment Corporation, Emmerson Construction",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-116.96295972499996, 32.616914594000036],
+              [-116.96405194199997, 32.61660664100003],
+              [-116.96442898599997, 32.617564422000044],
+              [-116.96441809099997, 32.61758285700006],
+              [-116.96438763699996, 32.61760081600005],
+              [-116.96435134499995, 32.617620104000025],
+              [-116.96431304299995, 32.617636369000024],
+              [-116.96427308099999, 32.617649465000056],
+              [-116.96408689699996, 32.61770196000003],
+              [-116.964078686, 32.61768110000003],
+              [-116.96361653599996, 32.61781140200003],
+              [-116.96362474799997, 32.617832261000046],
+              [-116.96335130999995, 32.61790935600004],
+              [-116.96295972499996, 32.616914594000036]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.106402, 32.584256]
+    },
+    "properties": {
+      "jurisdiction": "Imperial Beach",
+      "services": null,
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943880843_6f94d20132_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.584256",
+      "on_site_services": false,
+      "subregion": "South Bay",
+      "total_units": "30",
+      "project_tags": "100% Affordable, Sustainability",
+      "lot_size_acres_": "0.4",
+      "income_level": "50-60% AMI",
+      "affordable_units": "29",
+      "year_completed": "2013",
+      "by_right_approval": false,
+      "longitude": "-117.106402",
+      "financing_sources": "Imperial Beach Redevelopment Agency, Hitzke Development Corporation",
+      "density_du_acre_": "75",
+      "development_type": "Mixed Use, Apartments",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/bjzc-q95p/application%2Fpdf"
+      },
+      "address": "1252-1268 Palm Ave, Imperial Beach, CA 91932",
+      "innovative_finance": false,
+      "building_height_stories_": "4",
+      "special_populations_served": "Seniors, Veterans",
+      "sustainability_awards": "LEED Platinum",
+      "architect": "FoundationForForm",
+      "project_name": "The Post",
+      "developer_contractor": "Hitzke Development Corporation, Cascade Housing, SWS Engineering",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.10631947699994, 32.58439939400006],
+              [-117.10632071299995, 32.58408308500003],
+              [-117.10649697099996, 32.58408355500006],
+              [-117.10680771299997, 32.58408438400005],
+              [-117.10680641099998, 32.58440088800006],
+              [-117.10649457899996, 32.584399931000064],
+              [-117.10631947699994, 32.58439939400006]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.104896, 32.676256]
+    },
+    "properties": {
+      "jurisdiction": "National City",
+      "services": null,
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943567059_e046fd8b6d_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.676256",
+      "on_site_services": false,
+      "subregion": "South Bay",
+      "total_units": "127",
+      "project_tags": "Innovative Financing",
+      "lot_size_acres_": "0.75",
+      "income_level": "80-110% AMI",
+      "affordable_units": "97",
+      "year_completed": "2021",
+      "by_right_approval": false,
+      "longitude": "-117.104896",
+      "financing_sources": "Private Partnership",
+      "density_du_acre_": "169.3",
+      "development_type": "Co-Living Units",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/dpvz-cjv8/application%2Fpdf"
+      },
+      "address": "800 B Ave, National City, CA 91950",
+      "innovative_finance": true,
+      "building_height_stories_": "8",
+      "special_populations_served": null,
+      "sustainability_awards": null,
+      "architect": "The Miller Hull Partnership, McCullough Landscape Architecture",
+      "project_name": "Parco",
+      "developer_contractor": "Malick Infill, Cannon Constructors",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.10526970999996, 32.665287456000044],
+              [-117.10525315499996, 32.66527459800005],
+              [-117.10524356699995, 32.66527729500007],
+              [-117.10520829699999, 32.665287214000045],
+              [-117.10506545699997, 32.664920245000076],
+              [-117.10471199399996, 32.664014972000075],
+              [-117.10466204599999, 32.663886707000074],
+              [-117.10444423199999, 32.663327356000025],
+              [-117.10444079399997, 32.663315114000056],
+              [-117.10443984999995, 32.663302556000076],
+              [-117.10444142799997, 32.663290044000064],
+              [-117.10444548299995, 32.66327793800008],
+              [-117.10445189699999, 32.66326658500003],
+              [-117.10446048699998, 32.663256312000044],
+              [-117.104471005, 32.66324741400007],
+              [-117.10448314999996, 32.66324014800006],
+              [-117.10449657099997, 32.66323472100004],
+              [-117.10450017099998, 32.66323364400006],
+              [-117.10457508699994, 32.66321282100006],
+              [-117.10517134599996, 32.66304652400004],
+              [-117.10530458299996, 32.66300810700005],
+              [-117.10539491999998, 32.662982062000026],
+              [-117.10584530899996, 32.66285219700006],
+              [-117.10620826899998, 32.66275348200003],
+              [-117.10632865199995, 32.66272001900006],
+              [-117.10633173899998, 32.66271916000005],
+              [-117.10635647199996, 32.66278249900006],
+              [-117.106287238, 32.66294693200007],
+              [-117.10628691, 32.66294771300005],
+              [-117.10591606599996, 32.66393467300003],
+              [-117.10579289999998, 32.66421633600004],
+              [-117.10578312599995, 32.664240206000045],
+              [-117.10561905799995, 32.664640818000066],
+              [-117.10561604499998, 32.664648175000025],
+              [-117.10557942899999, 32.664737581000054],
+              [-117.105559057, 32.66478732400003],
+              [-117.10552077199998, 32.66488080600004],
+              [-117.10534925999997, 32.665332972000044],
+              [-117.10530189399998, 32.66542667700003],
+              [-117.10529601399998, 32.665411619000054],
+              [-117.10530288499996, 32.66539351800003],
+              [-117.10530619899998, 32.66537471500004],
+              [-117.10530586999994, 32.66535570700006],
+              [-117.10530190599997, 32.66533699400003],
+              [-117.10529441099999, 32.665319072000045],
+              [-117.10528358399995, 32.665302412000074],
+              [-117.10526970999996, 32.665287456000044]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1434564, 32.70488695]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": "Lindsay Community School/Lindsay Early Learning Academy (educational and childcare support); Mental health services, emergency assistance with food and clothing, independent living skills development, and employment services for transition-age youth",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943567809_4fe417d9be_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.70488695",
+      "on_site_services": true,
+      "subregion": "San Diego",
+      "total_units": "200",
+      "project_tags": "100% Affordable, Innovative Financing, On-Site Services, Sustainability",
+      "lot_size_acres_": "4",
+      "income_level": "30-60% AMI",
+      "affordable_units": "197",
+      "year_completed": "2015",
+      "by_right_approval": false,
+      "longitude": "-117.1434564",
+      "financing_sources": "HOME Investment Partnerships Program, Mental Health Service Act, Multifamily Housing Revenue Bonds, Section 202 Supportive Housing for Elderly Program, County of San Diego, City of San Diego/Civic San Diego, San Diego Housing Commission, San Diego Unified School District, Private Partners",
+      "density_du_acre_": "50",
+      "development_type": "Apartments, Supportive Housing",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/37hj-ngdb/application%2Fpdf"
+      },
+      "address": "2225 Commercial St, San Diego, CA 92113",
+      "innovative_finance": true,
+      "building_height_stories_": "4",
+      "special_populations_served": "Families, Homeless, Seniors, People with a Disability, Transition-Age Youth",
+      "sustainability_awards": "LEED Silver (targeted)",
+      "architect": "MVE and Partners, Form/work",
+      "project_name": "COMM22",
+      "developer_contractor": "BRIDGE Housing, Metropolitan Area Advisory Committee on Anti-Poverty, Cannon Constructors",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.06072144599995, 32.71007932400005],
+              [-117.06072291699996, 32.70987607600006],
+              [-117.06063847299998, 32.70988487600005],
+              [-117.06063974199998, 32.709670419000076],
+              [-117.06080211799997, 32.70965162500005],
+              [-117.06095149999999, 32.709634333000054],
+              [-117.06111388999994, 32.70961554200005],
+              [-117.06127933399995, 32.70959639400007],
+              [-117.06144512699996, 32.70957720400003],
+              [-117.06160093299997, 32.70955917200007],
+              [-117.06176637799996, 32.709540022000056],
+              [-117.06192892299998, 32.70952120700008],
+              [-117.06192683499995, 32.70963728400005],
+              [-117.06192663999997, 32.70993263200006],
+              [-117.06176383899998, 32.709952444000066],
+              [-117.06160167999997, 32.70997218100007],
+              [-117.06143629299999, 32.709992310000075],
+              [-117.06128038799994, 32.710011285000064],
+              [-117.06111474999994, 32.71003144400004],
+              [-117.06111477199994, 32.71004243800007],
+              [-117.06095231899997, 32.71006220900006],
+              [-117.06095229899995, 32.71005121600007],
+              [-117.06080302699996, 32.71006938000005],
+              [-117.06072144599995, 32.71007932400005]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0407307, 32.95901125]
+    },
+    "properties": {
+      "jurisdiction": "Poway",
+      "services": "Financial fitness class, homeownership counseling and education, job training and vocational opportunities, support for continuing education, Neighborhood Civic Leadership Program, youth leadership scholarship program",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943810925_4d1d878455_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.95901125",
+      "on_site_services": true,
+      "subregion": "North County Inland",
+      "total_units": "56",
+      "project_tags": "100% Affordable, Innovative Financing, On-Site Services, Sustainability",
+      "lot_size_acres_": "2.5",
+      "income_level": "30-60% AMI",
+      "affordable_units": "56",
+      "year_completed": "2007",
+      "by_right_approval": false,
+      "longitude": "-117.0407307",
+      "financing_sources": "Low Income Housing Tax Credits, Solar Energy Rebate, Utility Tax Reimbursement, County of San Diego HOME funds, City of Poway Redevelopment Agency, Private Partners",
+      "density_du_acre_": "22.4",
+      "development_type": "Apartments",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/rj63-7hnd/application%2Fpdf"
+      },
+      "address": "13414 Community Rd, Poway, CA 92064",
+      "innovative_finance": true,
+      "building_height_stories_": "2",
+      "special_populations_served": "Families",
+      "sustainability_awards": null,
+      "architect": "Rodriguez Associates Architects & Planners, Ivy Landscape Architects",
+      "project_name": "Solara",
+      "developer_contractor": "Community HousingWorks",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.15988979699995, 32.73728594600004],
+              [-117.16021512699996, 32.737283535000074],
+              [-117.16021627399999, 32.73742165600004],
+              [-117.16021741699996, 32.73755977700006],
+              [-117.16015086299996, 32.73756019100006],
+              [-117.15989199099994, 32.73756180100003],
+              [-117.15989089199996, 32.73742387200008],
+              [-117.15989002999999, 32.737315515000034],
+              [-117.15988979699995, 32.73728594600004]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.151799, 32.705528]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": "Social/behavioral health services including mental and physical health care, substance abuse services, employment and on-the-job placement and training, education assistance, and financial counseling",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943566114_f810950fa6_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.705528",
+      "on_site_services": true,
+      "subregion": "San Diego",
+      "total_units": "407",
+      "project_tags": "100% Affordable, Innovative Financing, On-Site Services",
+      "lot_size_acres_": "6.7",
+      "income_level": "Up to 60% AMI",
+      "affordable_units": "407",
+      "year_completed": "2022",
+      "by_right_approval": false,
+      "longitude": "-117.151799",
+      "financing_sources": "Affordable Housing and Sustainable Communities Grant, County of San Diego No Place Like Home Program, Supportive Homes Multifamily Housing Program, Veterans Housing and Homelessness Prevention Program, San Diego Housing Commission, Private Partners",
+      "density_du_acre_": "60.7",
+      "development_type": "Apartments, Transitional Housing",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/94jw-9i8m/application%2Fpdf"
+      },
+      "address": "1 14th St, San Diego, CA 92101",
+      "innovative_finance": true,
+      "building_height_stories_": "14",
+      "special_populations_served": "Homeless, Families, People with Disabilities, Seniors, Veterans",
+      "sustainability_awards": "LEED Gold (targeted)",
+      "architect": "Joseph Wong Design Associates, GMP Landscape Architecture",
+      "project_name": "Saint Teresa of Calcutta Villa",
+      "developer_contractor": "Chelsea Investment Corporation, Father Joe's Villages, Level 10 Construction",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.19352279199995, 33.10311936700003],
+              [-117.19325178899999, 33.10322681900004],
+              [-117.19319993499994, 33.10330272300007],
+              [-117.19299669099996, 33.10347093000007],
+              [-117.19294985299996, 33.10353053100005],
+              [-117.19290950399994, 33.103672182000025],
+              [-117.19306461099995, 33.103967873000045],
+              [-117.19255301799996, 33.10405904700008],
+              [-117.19195989399998, 33.10410604500004],
+              [-117.19123843699998, 33.103852363000044],
+              [-117.19157673699999, 33.103300743000034],
+              [-117.19179564999996, 33.103091439000025],
+              [-117.19199096299997, 33.102959860000055],
+              [-117.19220271899997, 33.10263698400007],
+              [-117.19210100999999, 33.102493182000046],
+              [-117.19219886199994, 33.102155193000044],
+              [-117.19219911299996, 33.102154331000065],
+              [-117.19238744699999, 33.10215244500006],
+              [-117.19239016699999, 33.102152396000065],
+              [-117.19239159099999, 33.10215240200006],
+              [-117.192393015, 33.10215242700008],
+              [-117.19239443899994, 33.10215247300005],
+              [-117.19239586099997, 33.102152543000045],
+              [-117.19239657299994, 33.102152587000035],
+              [-117.19239728199994, 33.102152630000035],
+              [-117.19239870099995, 33.102152741000054],
+              [-117.19240011999995, 33.102152870000054],
+              [-117.19240153099997, 33.10215302200004],
+              [-117.19240223799994, 33.10215310700005],
+              [-117.19240294399998, 33.10215319200006],
+              [-117.19240434799997, 33.102153385000065],
+              [-117.19240575299995, 33.102153599000076],
+              [-117.19240714799997, 33.102153834000035],
+              [-117.19240784399994, 33.10215396000007],
+              [-117.19240854099996, 33.10215408700003],
+              [-117.19240992499999, 33.10215436200008],
+              [-117.19241130699999, 33.10215465700003],
+              [-117.19241268199994, 33.10215497000007],
+              [-117.19241404999997, 33.10215530600004],
+              [-117.19241541299999, 33.10215566200003],
+              [-117.19241676599995, 33.10215603900008],
+              [-117.19241743699996, 33.10215623700003],
+              [-117.19241810799997, 33.10215643300006],
+              [-117.19241944499998, 33.10215684900004],
+              [-117.19242077599995, 33.102157281000075],
+              [-117.19242209299995, 33.10215773600004],
+              [-117.19242340099999, 33.10215820900004],
+              [-117.19242470299997, 33.102158702000054],
+              [-117.19242599199998, 33.10215921200006],
+              [-117.19242726799996, 33.10215974700003],
+              [-117.19242790499999, 33.10216002200008],
+              [-117.19242853399999, 33.102160292000065],
+              [-117.19242979199998, 33.10216085900004],
+              [-117.19243103499997, 33.102161444000046],
+              [-117.19243226599997, 33.102162048000025],
+              [-117.19243348499998, 33.10216267100003],
+              [-117.19243408499995, 33.10216299000007],
+              [-117.19243468999997, 33.10216331000004],
+              [-117.19243587899996, 33.10216396900006],
+              [-117.19243705899999, 33.10216464100006],
+              [-117.19243822199996, 33.10216533400006],
+              [-117.19243879699997, 33.102165686000035],
+              [-117.19243937299996, 33.10216604200008],
+              [-117.19244050399999, 33.10216677000005],
+              [-117.19244162499996, 33.10216751200005],
+              [-117.19244272799995, 33.102168273000075],
+              [-117.19244326999996, 33.10216865900003],
+              [-117.19244381599998, 33.10216904500004],
+              [-117.19244488599998, 33.10216983400005],
+              [-117.19244594299994, 33.102170639000065],
+              [-117.19244698099999, 33.10217146200006],
+              [-117.19244748799997, 33.10217188100006],
+              [-117.19244800099995, 33.10217229800003],
+              [-117.19244900399997, 33.102173151000045],
+              [-117.19244998899995, 33.102174020000064],
+              [-117.19245095499997, 33.102174897000054],
+              [-117.19245142999995, 33.102175344000045],
+              [-117.19245190599997, 33.102175791000036],
+              [-117.19245283299995, 33.10217670000003],
+              [-117.19245374799999, 33.102177622000056],
+              [-117.19245463899995, 33.10217855800005],
+              [-117.19245507499994, 33.10217903300003],
+              [-117.19245551199998, 33.10217950500004],
+              [-117.19245636399995, 33.10218046500006],
+              [-117.19245719799994, 33.10218143800006],
+              [-117.19245760499996, 33.102181932000065],
+              [-117.19245800899995, 33.102182424000034],
+              [-117.19245880599999, 33.10218342100006],
+              [-117.19245957199996, 33.10218443200006],
+              [-117.19245994599999, 33.10218493800005],
+              [-117.19246032299998, 33.102185449000046],
+              [-117.19246104999996, 33.10218648000006],
+              [-117.19246175999996, 33.10218751800005],
+              [-117.19246244399994, 33.10218856900008],
+              [-117.19246277599996, 33.10218910200007],
+              [-117.19246310899996, 33.10218963300008],
+              [-117.19246374999994, 33.102190703000076],
+              [-117.19246436899999, 33.10219178400007],
+              [-117.19246496599999, 33.10219287600006],
+              [-117.19246525199998, 33.10219342100004],
+              [-117.19246553899995, 33.10219397100008],
+              [-117.19246608999998, 33.102195074000065],
+              [-117.19246661699998, 33.10219618900004],
+              [-117.19246712299997, 33.102197309000076],
+              [-117.19246736399998, 33.10219787400007],
+              [-117.19246760399994, 33.10219843800007],
+              [-117.19246806399997, 33.102199573000064],
+              [-117.19246849799998, 33.10220071500004],
+              [-117.19246890899996, 33.10220186400005],
+              [-117.19246910399994, 33.10220243900005],
+              [-117.19246929699995, 33.10220301800007],
+              [-117.19246965899998, 33.10220417700003],
+              [-117.19246999799998, 33.10220534300004],
+              [-117.19247031399999, 33.10220651100008],
+              [-117.192470604, 33.10220768600004],
+              [-117.19247686799997, 33.10223416900004],
+              [-117.19248074999996, 33.102249853000046],
+              [-117.19248495299996, 33.10226547600007],
+              [-117.19248948299997, 33.10228104000004],
+              [-117.19249433199997, 33.102296532000025],
+              [-117.19249950299997, 33.10231195000006],
+              [-117.19250499499998, 33.10232729100005],
+              [-117.19251080199996, 33.102342548000024],
+              [-117.19251692399996, 33.102357719000054],
+              [-117.19252335999994, 33.102372796000054],
+              [-117.19253010599999, 33.10238777600006],
+              [-117.19253716399999, 33.10240265700003],
+              [-117.19254452599995, 33.10241742900007],
+              [-117.19255220099996, 33.10243208900005],
+              [-117.19256017199996, 33.10244663700007],
+              [-117.19256844399996, 33.10246106900007],
+              [-117.19257701699996, 33.10247537600003],
+              [-117.19258588499997, 33.102489551000076],
+              [-117.19259504299998, 33.10250359500003],
+              [-117.19260449199999, 33.10251750500004],
+              [-117.19261422699998, 33.10253127200008],
+              [-117.19262425, 33.10254489400006],
+              [-117.19263454999998, 33.10255836600004],
+              [-117.19264512599995, 33.102571684000054],
+              [-117.19265598199996, 33.10258484700006],
+              [-117.19266710699998, 33.10259784800007],
+              [-117.19267849899995, 33.102610681000044],
+              [-117.19269015499998, 33.102623348000066],
+              [-117.19270207799997, 33.10263584000006],
+              [-117.19271424699997, 33.10264815700003],
+              [-117.19272667599995, 33.102660290000074],
+              [-117.19273935399997, 33.10267224100005],
+              [-117.19275227799994, 33.102684002000046],
+              [-117.19276544499996, 33.10269557500004],
+              [-117.19277884899998, 33.10270695000003],
+              [-117.19279248799995, 33.10271812600007],
+              [-117.19280635799998, 33.10272910300006],
+              [-117.19282045299997, 33.10273987200003],
+              [-117.19283476199996, 33.10275043200005],
+              [-117.19284929399998, 33.102760782000075],
+              [-117.19286403599995, 33.10277091700004],
+              [-117.19287898799996, 33.102780832000064],
+              [-117.19289414199994, 33.102790526000035],
+              [-117.19290949499998, 33.102799996000044],
+              [-117.19292504699996, 33.102809241000045],
+              [-117.19294077999996, 33.102818255000045],
+              [-117.19295670199995, 33.102827036000065],
+              [-117.19297280199999, 33.10283558200007],
+              [-117.19298907899997, 33.10284389100008],
+              [-117.19300552299995, 33.10285195900008],
+              [-117.19302213399999, 33.10285978400003],
+              [-117.19303890199996, 33.10286736200004],
+              [-117.19305582799996, 33.10287469600007],
+              [-117.19307290199998, 33.10288177800004],
+              [-117.19309012299999, 33.102888611000026],
+              [-117.19310747799994, 33.10289518900004],
+              [-117.19312497099997, 33.10290150800006],
+              [-117.19314258899999, 33.10290757300004],
+              [-117.19316033099994, 33.102913374000025],
+              [-117.19318055999997, 33.10291962900004],
+              [-117.19318217799997, 33.10292010100005],
+              [-117.19318379399999, 33.10292057200007],
+              [-117.19318704199998, 33.102921466000055],
+              [-117.19318867599998, 33.10292189000006],
+              [-117.19319030999998, 33.10292231200003],
+              [-117.19319359499997, 33.10292311200004],
+              [-117.19319689799994, 33.10292386100008],
+              [-117.19319855699996, 33.10292421200006],
+              [-117.19320021399994, 33.102924562000055],
+              [-117.19320354399997, 33.102925216000074],
+              [-117.19320521699996, 33.10292551800006],
+              [-117.19320688499994, 33.10292582000005],
+              [-117.19321024199996, 33.10292637400005],
+              [-117.19321360999999, 33.10292687800006],
+              [-117.19321529799998, 33.10292710700003],
+              [-117.19321698299996, 33.10292733400007],
+              [-117.19322036899996, 33.10292773700007],
+              [-117.19322206599998, 33.102927916000056],
+              [-117.19322376299999, 33.10292809600003],
+              [-117.19322716599999, 33.10292840000005],
+              [-117.19323057099996, 33.102928657000064],
+              [-117.19323227699999, 33.10292876200003],
+              [-117.19323397999995, 33.102928865000024],
+              [-117.19323739799995, 33.10292902000003],
+              [-117.19324081499997, 33.10292912600005],
+              [-117.19324252299998, 33.10292915200006],
+              [-117.193244231, 33.10292917900006],
+              [-117.19324765299996, 33.10292918600004],
+              [-117.19324936399994, 33.102929165000035],
+              [-117.19325107199995, 33.10292914100006],
+              [-117.19325448999996, 33.10292904700003],
+              [-117.19325619699998, 33.10292897000005],
+              [-117.19325790399995, 33.10292889900006],
+              [-117.19326131699995, 33.10292870500007],
+              [-117.19326301699999, 33.10292858300005],
+              [-117.19326472099999, 33.102928460000044],
+              [-117.19326812299994, 33.10292816500004],
+              [-117.19327151899995, 33.10292781700008],
+              [-117.19327321199995, 33.10292762000006],
+              [-117.19327490499995, 33.10292742300004],
+              [-117.19327828399997, 33.10292698000006],
+              [-117.19327996599998, 33.102926730000036],
+              [-117.19328165199994, 33.10292648400008],
+              [-117.19328500899996, 33.102925939000045],
+              [-117.19328668499998, 33.10292564300005],
+              [-117.19328835599998, 33.10292534700005],
+              [-117.19329168999997, 33.10292470400003],
+              [-117.19329500999999, 33.10292401300006],
+              [-117.19329666299996, 33.10292364400004],
+              [-117.19329831399995, 33.102923274000034],
+              [-117.19330160299995, 33.10292248400003],
+              [-117.19330324199996, 33.102922068000055],
+              [-117.19330487399998, 33.10292164900005],
+              [-117.19330812999999, 33.10292076400003],
+              [-117.19331136499994, 33.102919832000055],
+              [-117.19331297299999, 33.102919342000064],
+              [-117.19331457799996, 33.10291885300006],
+              [-117.19331777399998, 33.102917826000066],
+              [-117.19331936099996, 33.10291728900006],
+              [-117.19332094599997, 33.102916752000056],
+              [-117.19332409799995, 33.102915635000045],
+              [-117.19332566299994, 33.10291504700007],
+              [-117.19332722399997, 33.10291446700006],
+              [-117.19333032599997, 33.10291325400004],
+              [-117.19333340299994, 33.102911998000025],
+              [-117.19333492999999, 33.10291134700003],
+              [-117.19333645199998, 33.10291069700003],
+              [-117.19333947399997, 33.10290935000006],
+              [-117.19334096799997, 33.10290865400003],
+              [-117.19334246599999, 33.10290795800006],
+              [-117.19334543199994, 33.10290652500004],
+              [-117.19334836599995, 33.102905047000036],
+              [-117.19334981699996, 33.10290428500008],
+              [-117.19335126899995, 33.102903527000024],
+              [-117.19335414199998, 33.10290196600005],
+              [-117.19335555999999, 33.102901160000044],
+              [-117.19335697899999, 33.102900358000056],
+              [-117.19335978199996, 33.10289871200007],
+              [-117.19336116799997, 33.10289786900006],
+              [-117.19336255299999, 33.10289702600005],
+              [-117.19336528799994, 33.10289529800008],
+              [-117.19336663699994, 33.10289441400005],
+              [-117.19336798899997, 33.10289352900003],
+              [-117.19337064999996, 33.10289172200004],
+              [-117.19337196299995, 33.10289079700004],
+              [-117.19337327199997, 33.10288987500007],
+              [-117.19337585699998, 33.102887992000035],
+              [-117.19337713099998, 33.10288703100008],
+              [-117.19337840399999, 33.10288607000007],
+              [-117.19338090699995, 33.10288411000005],
+              [-117.19338214099997, 33.10288311200003],
+              [-117.19338337099998, 33.10288211300008],
+              [-117.19338579499998, 33.10288008600003],
+              [-117.19338698499996, 33.10287905100006],
+              [-117.19338817299996, 33.10287801700008],
+              [-117.193390508, 33.10287591600007],
+              [-117.19339165899999, 33.10287484600008],
+              [-117.19339280399998, 33.102873782000074],
+              [-117.19339505299996, 33.10287161300005],
+              [-117.19339615199999, 33.10287051100005],
+              [-117.19339725399999, 33.10286941100003],
+              [-117.19340077299995, 33.10286571200004],
+              [-117.19342898499997, 33.10292435400004],
+              [-117.19352279199995, 33.10311936700003]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1045425, 32.6635073]
+    },
+    "properties": {
+      "jurisdiction": "National City",
+      "services": "National City first-time homebuyer loan program, Rental Home Stability Program (RHSP), financial fitness classes, health programs, and after-school program",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943885028_55f65369c4_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.6635073",
+      "on_site_services": true,
+      "subregion": "South Bay",
+      "total_units": "201",
+      "project_tags": "100% Affordable, By-Right Approval, Innovative Financing, On-Site Services",
+      "lot_size_acres_": "6.29",
+      "income_level": "30-50% AMI",
+      "affordable_units": "201",
+      "year_completed": "2018",
+      "by_right_approval": true,
+      "longitude": "-117.1045425",
+      "financing_sources": "Low Income Housing Tax Credits, Affordable Housing and Sustainable Communities funds, California Infill Infrastructure Grant, City of National City, Private Partners",
+      "density_du_acre_": "32.1",
+      "development_type": "Apartments",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/a2us-qppf/application%2Fpdf"
+      },
+      "address": "2120 Hoover Ave, National City, CA 91950",
+      "innovative_finance": true,
+      "building_height_stories_": "4",
+      "special_populations_served": "Families, First-time Homebuyers",
+      "sustainability_awards": "LEED Gold",
+      "architect": "Pyatok Architects, Spurlock Landscape Architects",
+      "project_name": "Paradise Creek",
+      "developer_contractor": "Community HousingWorks, Related California",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.05943069299997, 32.95044259300005],
+              [-117.06029706799995, 32.95036099500004],
+              [-117.06029253899999, 32.95131758500003],
+              [-117.05973877599996, 32.95133870400008],
+              [-117.059422687, 32.951350759000036],
+              [-117.05943069299997, 32.95044259300005]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.063119, 32.9496713]
+    },
+    "properties": {
+      "jurisdiction": "Poway",
+      "services": "On-site resident care, vocational training, job search and retention, public transportation access, attainment of government benefits, and financial planning; social, educational, and health and wellness classes and activities",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943419346_3af2df81fc_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.9496713",
+      "on_site_services": true,
+      "subregion": "North County Inland",
+      "total_units": "54",
+      "project_tags": "100% Affordable, On-Site Services, Sustainability",
+      "lot_size_acres_": "3.18",
+      "income_level": "30-60% AMI",
+      "affordable_units": "53",
+      "year_completed": "2022",
+      "by_right_approval": false,
+      "longitude": "-117.063119",
+      "financing_sources": "Low Income Housing Tax Credits, County of San Diego, Poway Redevelopment Agency, City of Poway Housing Authority, Villa de Vida, Mercy Housing California, Private Partners",
+      "density_du_acre_": "17",
+      "development_type": "Apartments",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/445c-9k97/application%2Fpdf"
+      },
+      "address": "12341 Oak Knoll Rd, Poway, CA 92064",
+      "innovative_finance": false,
+      "building_height_stories_": "2",
+      "special_populations_served": "People with a Developmental Disability",
+      "sustainability_awards": "LEED Silver",
+      "architect": "Rodriguez Associates Architects & Planners",
+      "project_name": "Villa de Vida",
+      "developer_contractor": "Mercy Housing, Villa de Vida",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.06273624299996, 32.94904228400003],
+              [-117.06351157899996, 32.948987714000054],
+              [-117.06393509399999, 32.948961034000035],
+              [-117.06392746199998, 32.94987953300006],
+              [-117.06359833099998, 32.94990788600006],
+              [-117.06265368699997, 32.94998555800004],
+              [-117.06265358599995, 32.94998277000008],
+              [-117.06265310399999, 32.94996903100002],
+              [-117.06265263799997, 32.94995529700003],
+              [-117.06265219799997, 32.94994156000007],
+              [-117.06265178099994, 32.94992782300005],
+              [-117.06265137999998, 32.949914086000035],
+              [-117.06265100199994, 32.94990034600005],
+              [-117.06265064699994, 32.94988660800004],
+              [-117.06265031499998, 32.94987286800006],
+              [-117.06264999899997, 32.94985913100004],
+              [-117.06264970299998, 32.949845390000064],
+              [-117.06264942899998, 32.94983164900003],
+              [-117.06264917799996, 32.949817909000046],
+              [-117.06264894899999, 32.94980416800007],
+              [-117.06264873799995, 32.94979042700004],
+              [-117.06264855199998, 32.94977668200005],
+              [-117.06264838299995, 32.94976294300005],
+              [-117.06264823599997, 32.94974920200008],
+              [-117.06264811199998, 32.949735460000056],
+              [-117.06264800899999, 32.949721719000024],
+              [-117.06264792599995, 32.94970797700006],
+              [-117.06264786499997, 32.94969423500004],
+              [-117.06264781899995, 32.94968049500005],
+              [-117.06264780299995, 32.949666756000056],
+              [-117.06264780299995, 32.949653011000066],
+              [-117.06264782899996, 32.949639268000055],
+              [-117.06264787199996, 32.949625525000044],
+              [-117.06264793799994, 32.94961178500006],
+              [-117.06264802199996, 32.94959804200005],
+              [-117.06264812999996, 32.94958430200006],
+              [-117.06264825999995, 32.94957055900005],
+              [-117.06264840699998, 32.949556818000076],
+              [-117.06264857999997, 32.949543077000044],
+              [-117.06264876899996, 32.94952933600007],
+              [-117.06264898099994, 32.94951559500004],
+              [-117.06264921599995, 32.94950185400006],
+              [-117.06265836699998, 32.949081275000026],
+              [-117.06265821499994, 32.949064785000076],
+              [-117.06265803699995, 32.949045547000026],
+              [-117.06273624299996, 32.94904228400003]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.3459789, 33.2144665]
+    },
+    "properties": {
+      "jurisdiction": "Oceanside",
+      "services": "State-licensed preschool and programs in youth and development, health and wellness, workforce development and asset building",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943565459_ee85d7b6c9_z.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "33.2144665",
+      "on_site_services": true,
+      "subregion": "North County Inland",
+      "total_units": "288",
+      "project_tags": "100% Affordable, By-Right Approval, Innovative Financing, On-Site Services, Sustainability",
+      "lot_size_acres_": "14.5",
+      "income_level": "30-60% AMI",
+      "affordable_units": "286",
+      "year_completed": "2018",
+      "by_right_approval": true,
+      "longitude": "-117.3459789",
+      "financing_sources": "Mental Health Services Act funds, NeighborWorks Urban Uplift Grant, Veterans Housing and Homelessness Prevention Program, County of San Diego, City of Oceanside, Private Partners",
+      "density_du_acre_": "19.9",
+      "development_type": "Apartments, Master Plan",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/6kjh-884r/application%2Fpdf"
+      },
+      "address": "3229 Mission Cove Way, Oceanside, CA 92054",
+      "innovative_finance": true,
+      "building_height_stories_": "3",
+      "special_populations_served": "Families, Foster Youth, Homeless, Seniors, Transition-Age Youth, Veterans",
+      "sustainability_awards": "GreenPoint Rated Platinum",
+      "architect": "Joseph Wong Design Associates, Lightfoot Planning Group",
+      "project_name": "Mission Cove",
+      "developer_contractor": "Community HousingWorks, National CORE",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.10051274599999, 32.757012950000046],
+              [-117.10051412699994, 32.75690302000004],
+              [-117.10051550699995, 32.75679309000003],
+              [-117.10030816399996, 32.75679130000003],
+              [-117.10030951999994, 32.756681370000024],
+              [-117.10031087699997, 32.75657143900003],
+              [-117.10031901699995, 32.75591204700004],
+              [-117.10032054299995, 32.755788375000066],
+              [-117.10032206899996, 32.755664703000036],
+              [-117.10032410499997, 32.755499808000025],
+              [-117.10032512199996, 32.755417360000024],
+              [-117.10032715599999, 32.75525252800003],
+              [-117.10032751999995, 32.755248710000046],
+              [-117.10032850899995, 32.755244971000025],
+              [-117.10033010499995, 32.75524138500003],
+              [-117.10033227599996, 32.75523802200007],
+              [-117.10033498099995, 32.755234947000076],
+              [-117.10033851399999, 32.755231964000075],
+              [-117.10034254799996, 32.75522947400003],
+              [-117.10034698599998, 32.75522753600006],
+              [-117.10035172299996, 32.755226196000024],
+              [-117.10035664599997, 32.75522548600003],
+              [-117.10036164099995, 32.75522542300007],
+              [-117.10070488699995, 32.755269647000034],
+              [-117.10071014399995, 32.75527046900004],
+              [-117.10071517199998, 32.75527200700003],
+              [-117.10071983199998, 32.75527422000005],
+              [-117.10072400099995, 32.75527704800004],
+              [-117.10072756499994, 32.75528041600006],
+              [-117.10073042799996, 32.75528423000003],
+              [-117.10073251299997, 32.75528839100008],
+              [-117.10073376399998, 32.75529278300007],
+              [-117.10073414499999, 32.755297289000055],
+              [-117.10071221999999, 32.757014671000036],
+              [-117.10051274599999, 32.757012950000046]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.15143, 32.71658]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": "Personal case management for individualized needs, including behavioral health support and care, educational classes, care coordination, and peer support",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943424971_c261640225_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.71658",
+      "on_site_services": true,
+      "subregion": "San Diego",
+      "total_units": "44",
+      "project_tags": "100% Affordable, On-Site Services",
+      "lot_size_acres_": "0.2",
+      "income_level": "Up to 35% AMI",
+      "affordable_units": "43",
+      "year_completed": "2019",
+      "by_right_approval": false,
+      "longitude": "-117.15143",
+      "financing_sources": "HOME Investment Partnerships Program funds, California Special Needs Housing Program, Low Income Housing Tax Credits, County of San Diego, San Diego Housing Commission, Private Partners",
+      "density_du_acre_": "220",
+      "development_type": "Apartments, Supportive Housing",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/xth8-9yvn/application%2Fpdf"
+      },
+      "address": "1425 C St, San Diego, CA 92101",
+      "innovative_finance": false,
+      "building_height_stories_": "5",
+      "special_populations_served": "Families, Homeless, People with a Disability, Seniors, Transition-Age Youth",
+      "sustainability_awards": null,
+      "architect": "M.W. Steele Group, David Reed Landscape Architects",
+      "project_name": "The Beacon",
+      "developer_contractor": "Wakeland Housing",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.04110931399998, 32.96015195500007],
+              [-117.04111150699998, 32.960093097000026],
+              [-117.04111108899997, 32.960093355000026],
+              [-117.04110921799997, 32.96009450500003],
+              [-117.04110789299995, 32.96009530500004],
+              [-117.04110656299997, 32.960096097000076],
+              [-117.04110522299999, 32.96009688300006],
+              [-117.04110387999998, 32.96009766100008],
+              [-117.04110253099998, 32.96009843100006],
+              [-117.04110117199997, 32.960099193000076],
+              [-117.04109981299996, 32.96009994600007],
+              [-117.04109844399994, 32.96010069400006],
+              [-117.04109707199996, 32.96010143400002],
+              [-117.04109568899997, 32.96010216600007],
+              [-117.04109430399996, 32.96010289000003],
+              [-117.04109291099996, 32.96010360500003],
+              [-117.04109151499995, 32.960104311000066],
+              [-117.04109011399999, 32.96010501100005],
+              [-117.04108870499999, 32.96010570400006],
+              [-117.04108728999995, 32.960106386000064],
+              [-117.04108587099995, 32.960107064000056],
+              [-117.04108444899998, 32.96010773200004],
+              [-117.04108301399998, 32.96010839000007],
+              [-117.04108157799999, 32.96010904000008],
+              [-117.04108013999996, 32.96010968400003],
+              [-117.04107869199999, 32.96011032000007],
+              [-117.04107724299996, 32.960110945000054],
+              [-117.04107578499998, 32.960111564000044],
+              [-117.04107432999996, 32.96011217300003],
+              [-117.04107285799995, 32.96011277500003],
+              [-117.04107139099995, 32.960113367000076],
+              [-117.04106991499998, 32.96011395100004],
+              [-117.04106843399995, 32.960114530000055],
+              [-117.04106694599994, 32.96011509700003],
+              [-117.04106546099996, 32.96011565400005],
+              [-117.04106396899999, 32.960116207000056],
+              [-117.04106247099998, 32.960116751000044],
+              [-117.04106096699996, 32.960117283000045],
+              [-117.04105946199996, 32.96011780900005],
+              [-117.04105794999998, 32.96011832700003],
+              [-117.04105643599996, 32.96011883600005],
+              [-117.04105491699994, 32.96011933300008],
+              [-117.04105339599994, 32.96011982300007],
+              [-117.04105186799995, 32.96012030300005],
+              [-117.04105034099996, 32.96012078100006],
+              [-117.04104880599999, 32.960121247000075],
+              [-117.04104726699995, 32.96012169800008],
+              [-117.04104572699998, 32.96012214800004],
+              [-117.04104417899998, 32.96012258400003],
+              [-117.04104263399995, 32.96012301500008],
+              [-117.04104108199999, 32.96012343700005],
+              [-117.04103952399998, 32.96012384800002],
+              [-117.04103880299999, 32.96012258600007],
+              [-117.04103808299999, 32.960121351000055],
+              [-117.04103735299998, 32.96012012400007],
+              [-117.04103661399995, 32.960118900000055],
+              [-117.04103586599996, 32.960117679000064],
+              [-117.04103510899995, 32.96011646100004],
+              [-117.04103433799997, 32.96011525100005],
+              [-117.04103356199994, 32.960114041000054],
+              [-117.04103277399997, 32.96011284000008],
+              [-117.04103197499995, 32.96011163800006],
+              [-117.04103117199998, 32.960110445000055],
+              [-117.04103035599996, 32.96010925500008],
+              [-117.04102953299997, 32.96010806900006],
+              [-117.04102869799999, 32.960106891000066],
+              [-117.04102785599997, 32.960105714000065],
+              [-117.04102700099997, 32.96010454300006],
+              [-117.04102613999999, 32.960103375000074],
+              [-117.04102526799994, 32.96010221500006],
+              [-117.041024387, 32.96010105800008],
+              [-117.0410235, 32.96009990700003],
+              [-117.04102259899997, 32.96009875800007],
+              [-117.04102168999998, 32.96009761800008],
+              [-117.04102077699997, 32.96009648100005],
+              [-117.04101984999994, 32.960095351000064],
+              [-117.04101891399995, 32.960094225000034],
+              [-117.04101797199996, 32.960093104000066],
+              [-117.04101701899998, 32.960091989000034],
+              [-117.04101605999995, 32.96009087600004],
+              [-117.04101508899998, 32.96008977500003],
+              [-117.04101411399995, 32.960088676000055],
+              [-117.04101312199998, 32.96008758000005],
+              [-117.04101212899997, 32.96008649200007],
+              [-117.04101112399997, 32.96008541000003],
+              [-117.04101010999995, 32.960084334000044],
+              [-117.04100908999999, 32.96008326400005],
+              [-117.04100805999997, 32.960082198000066],
+              [-117.04100701999994, 32.96008113800008],
+              [-117.04100597399997, 32.960080084000026],
+              [-117.04100491899999, 32.96007903800006],
+              [-117.04100385899994, 32.96007799500006],
+              [-117.04100278299995, 32.96007696000004],
+              [-117.04100170499999, 32.96007593100006],
+              [-117.04100061699995, 32.960074908000024],
+              [-117.04099952199999, 32.96007388900006],
+              [-117.04099841699997, 32.96007287900005],
+              [-117.04099730599995, 32.96007187500004],
+              [-117.04099618499998, 32.96007087400005],
+              [-117.04099505899995, 32.96006988000005],
+              [-117.04099392399996, 32.96006889500006],
+              [-117.04099278099994, 32.96006791600007],
+              [-117.04099162799997, 32.96006694500005],
+              [-117.04099047199998, 32.960065977000056],
+              [-117.04098930599997, 32.96006501700003],
+              [-117.04098812999996, 32.96006406200007],
+              [-117.04098695099998, 32.96006311600007],
+              [-117.04098576299998, 32.960062175000076],
+              [-117.04098456399998, 32.96006124300004],
+              [-117.04098336299995, 32.96006031600007],
+              [-117.04098215099998, 32.96005939500003],
+              [-117.04098093299996, 32.96005848200008],
+              [-117.04097970899994, 32.96005757200004],
+              [-117.04097847499997, 32.96005667500003],
+              [-117.04097723499996, 32.960055784000076],
+              [-117.04097598799996, 32.960054900000046],
+              [-117.04097473399997, 32.96005401900004],
+              [-117.04097347499999, 32.96005314800004],
+              [-117.04097220799997, 32.96005228400003],
+              [-117.04097093599995, 32.96005143000008],
+              [-117.04096965299999, 32.960050575000025],
+              [-117.04096836399998, 32.96004973400005],
+              [-117.04096777199999, 32.960049351000066],
+              [-117.04096866599997, 32.960048751000045],
+              [-117.04102809399996, 32.960009042000024],
+              [-117.04104581999997, 32.95999918100006],
+              [-117.04106530199999, 32.95999205500004],
+              [-117.04108595399998, 32.95998787800005],
+              [-117.04110714999996, 32.95998677700004],
+              [-117.041115462, 32.95998695500003],
+              [-117.041128174, 32.959987229000035],
+              [-117.04113683599996, 32.959700086000055],
+              [-117.04112610599998, 32.95969999700003],
+              [-117.04077142299997, 32.959697077000044],
+              [-117.04077818899998, 32.95957116400007],
+              [-117.04077820499998, 32.95956959700004],
+              [-117.04077494799998, 32.95956956900005],
+              [-117.04077680699999, 32.959417176000045],
+              [-117.04077722599999, 32.95940460400004],
+              [-117.04078048299999, 32.95940468200007],
+              [-117.04079033599999, 32.959109341000044],
+              [-117.04174581599995, 32.95913276400006],
+              [-117.04212405399994, 32.959142031000056],
+              [-117.04189169399996, 32.95955911900006],
+              [-117.04177512899997, 32.95976407300003],
+              [-117.04170325099994, 32.960159686000054],
+              [-117.04138337399996, 32.960155523000026],
+              [-117.04110931399998, 32.96015195500007]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.0618856, 32.70998861]
+    },
+    "properties": {
+      "jurisdiction": "San Diego city",
+      "services": "After-school activities and classes in financial literacy, homebuyer education, resume building, nutrition, and English as a Second Language",
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943886123_195f51abf9_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "32.70998861",
+      "on_site_services": true,
+      "subregion": "San Diego",
+      "total_units": "66",
+      "project_tags": "100% Affordable, By-Right Approval, On-Site Services, Sustainability",
+      "lot_size_acres_": "1.15",
+      "income_level": "30-60% AMI",
+      "affordable_units": "65",
+      "year_completed": "2020",
+      "by_right_approval": true,
+      "longitude": "-117.0618856",
+      "financing_sources": "HOME Investment Partnerships Program, Veterans Affairs Supportive Housing vouchers, Low Income Housing Tax Credits, City of San Diego, San Diego Housing Commission, Private Partners",
+      "density_du_acre_": "57.4",
+      "development_type": "Apartments, Supportive Housing",
+      "sustainability": true,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/ne6v-mkrr/application%2Fpdf"
+      },
+      "address": "6315 Imperial Ave, San Diego, CA 92114",
+      "innovative_finance": false,
+      "building_height_stories_": "5",
+      "special_populations_served": "Families, Homeless, Veterans",
+      "sustainability_awards": "LEED Gold",
+      "architect": "Studio E Architects, Form/work",
+      "project_name": "Encanto Village",
+      "developer_contractor": "National CORE",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.14461906099996, 32.69944626800003],
+              [-117.14475913499996, 32.69930187700004],
+              [-117.14492987599999, 32.69942029300006],
+              [-117.14531466699998, 32.69968716000005],
+              [-117.14559610599997, 32.69988234600004],
+              [-117.14551632399997, 32.69996473900005],
+              [-117.145187739, 32.70030408000002],
+              [-117.14502187799997, 32.70047536900006],
+              [-117.14501150699999, 32.70047428300006],
+              [-117.14500147599995, 32.70047180700004],
+              [-117.14499204499998, 32.700468003000026],
+              [-117.14498345599998, 32.700462970000046],
+              [-117.14485325799996, 32.700372780000066],
+              [-117.14483774399997, 32.70036203400008],
+              [-117.14481951399995, 32.70034940600004],
+              [-117.14479291199996, 32.70033097700008],
+              [-117.144499656, 32.70012783100003],
+              [-117.14417562499995, 32.69990336300003],
+              [-117.14426925499998, 32.69980684800004],
+              [-117.14433404599998, 32.699740062000046],
+              [-117.14435533799997, 32.69971811400006],
+              [-117.14443559299997, 32.69963538700006],
+              [-117.14461906099996, 32.69944626800003]
+            ]
+          ]
+        ]
+      }
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.1925051, 33.1033805]
+    },
+    "properties": {
+      "jurisdiction": "San Marcos",
+      "services": null,
+      "image_url": {
+        "url": "https://live.staticflickr.com/65535/52943568334_715f009931_b.jpg"
+      },
+      "all_affordable": true,
+      "latitude": "33.1033805",
+      "on_site_services": false,
+      "subregion": "North County Inland",
+      "total_units": "72",
+      "project_tags": "100% Affordable, By-Right Approval",
+      "lot_size_acres_": "5.67",
+      "income_level": "Up to 60% AMI",
+      "affordable_units": "72",
+      "year_completed": "2006",
+      "by_right_approval": true,
+      "longitude": "-117.1925051",
+      "financing_sources": "Low Income Housing Tax Credits, California Equity Fund, State of California, City of San Marcos Redevelopment Agency, Private Partners",
+      "density_du_acre_": "12.7",
+      "development_type": "Apartments",
+      "sustainability": false,
+      "full_report": {
+        "url": "https://internaldata.sandag.org/download/xb8q-uuj9/application%2Fpdf"
+      },
+      "address": "1010-1050 Stephanie Ct, San Marcos, CA 92078",
+      "innovative_finance": false,
+      "building_height_stories_": "3",
+      "special_populations_served": "Families",
+      "sustainability_awards": null,
+      "architect": "KTGY Group, Topia Landscape Architecture",
+      "project_name": "Sage Canyon",
+      "developer_contractor": "BRIDGE Housing, Wermers Corporation",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-117.14275905199997, 32.70461840300004],
+              [-117.14280024599998, 32.704575877000025],
+              [-117.142884832, 32.704634389000034],
+              [-117.14284342999997, 32.70467683900006],
+              [-117.14272598699995, 32.704797255000074],
+              [-117.14272345499995, 32.70479956400004],
+              [-117.14272062199996, 32.704801608000025],
+              [-117.14271623799999, 32.70480399600007],
+              [-117.14271145799995, 32.70480575800008],
+              [-117.14270640699999, 32.70480685000007],
+              [-117.14270121199996, 32.70480724200007],
+              [-117.14253472699994, 32.70480844300005],
+              [-117.14231482499997, 32.70481003000003],
+              [-117.14230743199994, 32.704804910000064],
+              [-117.14236884899998, 32.70480441900003],
+              [-117.14238155099997, 32.70480431800007],
+              [-117.14247468399998, 32.70480357400004],
+              [-117.14253470599999, 32.704803094000056],
+              [-117.14258049299997, 32.70480272800006],
+              [-117.14275874699996, 32.70461875800004],
+              [-117.14275905199997, 32.70461840300004]
+            ]
+          ],
+          [
+            [
+              [-117.14253599299997, 32.705135134000045],
+              [-117.14253596799995, 32.70512859400003],
+              [-117.14226274799995, 32.70513002400003],
+              [-117.14225903799996, 32.70486022600005],
+              [-117.14226658199999, 32.70486545000006],
+              [-117.14232411799998, 32.70486502800003],
+              [-117.14253493899997, 32.704863481000075],
+              [-117.14270177599997, 32.70486225700006],
+              [-117.14271589699996, 32.704861282000024],
+              [-117.14272970099995, 32.704858589000025],
+              [-117.142742898, 32.70485423200006],
+              [-117.14275520899997, 32.70484830300006],
+              [-117.14276637399996, 32.704840929000056],
+              [-117.14277615699996, 32.70483226500005],
+              [-117.14280672299998, 32.704800920000025],
+              [-117.14289374399999, 32.70471168300003],
+              [-117.14297651599998, 32.70462680300005],
+              [-117.14290531699999, 32.70457754100005],
+              [-117.14298765899997, 32.704492455000036],
+              [-117.14327692599994, 32.70419398400003],
+              [-117.14340278899999, 32.70428119300004],
+              [-117.14365453199997, 32.704455626000026],
+              [-117.14390605499995, 32.70462990400006],
+              [-117.14384436499995, 32.70469386900004],
+              [-117.14384493399996, 32.704783202000044],
+              [-117.14384687599994, 32.70508713700008],
+              [-117.14384709599994, 32.70512170600006],
+              [-117.14348853099995, 32.70512358800005],
+              [-117.14350285599994, 32.705133508000074],
+              [-117.14253599299997, 32.705135134000045]
+            ]
+          ]
+        ]
+      }
+    }
+  }],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }
+}
